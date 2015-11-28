@@ -1,0 +1,5 @@
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\MouseCore\bin\Release\MouseCore.dll
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\MouseCore\bin\Release\MouseCore.pdb
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\MouseCore\obj\Release\ResolveAssemblyReference.cache
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\MouseCore\obj\Release\MouseCore.dll
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\MouseCore\obj\Release\MouseCore.pdb

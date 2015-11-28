@@ -1,0 +1,1606 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translation>
+  <Version>1.1.1</Version>
+  <Language InEnglish="English">English</Language>
+  <TranslatedText>
+    <Text Key="A_btn_checkUpdate">
+      <Value> Check for Update</Value>
+      <Comment>About - button text for Check for Update</Comment>
+    </Text>
+    <Text Key="A_caption">
+      <Value>About</Value>
+      <Comment>About - caption of About form</Comment>
+    </Text>
+    <Text Key="A_lbl_createdBy">
+      <Value>Created by</Value>
+      <Comment>About - Created by label</Comment>
+    </Text>
+    <Text Key="A_msgCaption_uptodate">
+      <Value>Update</Value>
+      <Comment>About - caption of Update message</Comment>
+    </Text>
+    <Text Key="A_msgText_uptodate">
+      <Value>Your current version is up-to-date.</Value>
+      <Comment>About - message that program is up-to-date</Comment>
+    </Text>
+    <Text Key="A_rTB_submitBugs">
+      <Value>(Please submit any suggestions or bugs in forum.)</Value>
+      <Comment>About - Submit suggestions &amp; bugs text</Comment>
+    </Text>
+    <Text Key="AA_caption">
+      <Value>Add Application Group</Value>
+      <Comment>Add Application - caption of Add Application Group form</Comment>
+    </Text>
+    <Text Key="AG_caption">
+      <Value>Add New Gesture</Value>
+      <Comment>Add Gesture - caption of Add New Gesture form</Comment>
+    </Text>
+    <Text Key="Animate_RockerG_clickExecuteBtn">
+      <Value>Click on the {0} to invoke the action.</Value>
+      <Comment>Animation - Rocker Gesture - text for clicking on the Execute button ({0} will be replaced by name of the button)</Comment>
+    </Text>
+    <Text Key="Animate_RockerG_pushHoldBtn">
+      <Value>Push and hold the {0}.</Value>
+      <Comment>Animation - Rocker Gesture - text for pushing the Hold down button ({0} will be replaced by name of the button)</Comment>
+    </Text>
+    <Text Key="Animate_WheelG_pushHoldBtn">
+      <Value>Push and hold the {0}.</Value>
+      <Comment>Animation - Wheel Gestures - text for pushing the Hold down button ({0} will be replaced by name of the button)</Comment>
+    </Text>
+    <Text Key="Animate_WheelG_releaseHoldBtn">
+      <Value>Release the {0}.</Value>
+      <Comment>Animation - Wheel Gestures - text for releasing the Hold down button ({0} will be replaced by name of the button)</Comment>
+    </Text>
+    <Text Key="Animate_WheelG_scrollWheelDown">
+      <Value>... or down to invoke action.</Value>
+      <Comment>Animation - Wheel Gestures - text for scrolling wheel down</Comment>
+    </Text>
+    <Text Key="Animate_WheelG_scrollWheelUp">
+      <Value>Scroll wheel up...</Value>
+      <Comment>Animation - Wheel Gestures - text for scrolling wheel up</Comment>
+    </Text>
+    <Text Key="app_group_desktop">
+      <Value>Desktop</Value>
+      <Comment>Application group - name for Desktop</Comment>
+    </Text>
+    <Text Key="app_group_global">
+      <Value>Global Actions</Value>
+      <Comment>Application group - name for Global Gestures</Comment>
+    </Text>
+    <Text Key="app_group_taskbar">
+      <Value>Taskbar</Value>
+      <Comment>Application group - name for Taskbar</Comment>
+    </Text>
+    <Text Key="Btn_add">
+      <Value>Add</Value>
+      <Comment>Button - button text for Add</Comment>
+    </Text>
+    <Text Key="Btn_addNew">
+      <Value>Add New</Value>
+      <Comment>Button - button text for Add New </Comment>
+    </Text>
+    <Text Key="Btn_apply">
+      <Value>Apply</Value>
+      <Comment>Button - button text for Apply</Comment>
+    </Text>
+    <Text Key="Btn_back">
+      <Value>&lt; Back</Value>
+      <Comment>Button - button text for &lt; Back</Comment>
+    </Text>
+    <Text Key="Btn_cancel">
+      <Value>Cancel</Value>
+      <Comment>Button - button text for Cancel</Comment>
+    </Text>
+    <Text Key="Btn_finish">
+      <Value>Finish</Value>
+      <Comment>Button - button text for Finish</Comment>
+    </Text>
+    <Text Key="Btn_next">
+      <Value>Next &gt;</Value>
+      <Comment>Button - button text for Next &gt;</Comment>
+    </Text>
+    <Text Key="Btn_ok">
+      <Value>OK</Value>
+      <Comment>Button - button text for OK</Comment>
+    </Text>
+    <Text Key="C_Act_about">
+      <Value>Chose action for which you want to define a gesture</Value>
+      <Comment>Controls - Actions - about</Comment>
+    </Text>
+    <Text Key="C_Act_gB_action">
+      <Value>Action</Value>
+      <Comment>Controls - Actions - group box text for Actions</Comment>
+    </Text>
+    <Text Key="C_Act_gB_category">
+      <Value>Category</Value>
+      <Comment>Controls - Actions - group box text for Categories of actions</Comment>
+    </Text>
+    <Text Key="C_Act_gB_useOfAction">
+      <Value>Use of Action</Value>
+      <Comment>Controls - Actions - group box text for Use of Action</Comment>
+    </Text>
+    <Text Key="C_Act_info">
+      <Value>Actions associated to application are active only if application is.
+Select multiple applications to add new action to all of them.</Value>
+      <Comment>Controls - Actions - info</Comment>
+    </Text>
+    <Text Key="C_Act_rB_globally">
+      <Value>Globally (in all applications)</Value>
+      <Comment>Controls - Actions - radio button text for Globally</Comment>
+    </Text>
+    <Text Key="C_Act_rB_locally">
+      <Value>Under specific applications</Value>
+      <Comment>Controls - Actions - radio button text for Under specific application (locally) </Comment>
+    </Text>
+    <Text Key="C_CK_about">
+      <Value>Create custom action key script</Value>
+      <Comment>Controls - Custom Keystrokes - about</Comment>
+    </Text>
+    <Text Key="C_CK_btn_add">
+      <Value>Add &gt;&gt;</Value>
+      <Comment>Controls - Custom Keystrokes - button text for Add</Comment>
+    </Text>
+    <Text Key="C_CK_btn_remove">
+      <Value>Remove</Value>
+      <Comment>Controls - Custom Keystrokes - button text for Remove</Comment>
+    </Text>
+    <Text Key="C_CK_cH_executeBtn_click">
+      <Value>Execute Button click</Value>
+      <Comment>Controls - Custom Keystrokes - column header text for Execute Button Click key script</Comment>
+    </Text>
+    <Text Key="C_CK_errDownWithoutUp">
+      <Value>Error {0}: You have used {1} (DOWN) without {1} (UP).</Value>
+      <Comment>Controls - Custom Keystrokes - error message when some Modifier key DOWN is used without UP key
+({0} - is replaced during runtime by error number
+{1} - is replaced during runtime by name of Modifier Key)</Comment>
+    </Text>
+    <Text Key="C_CK_errMoreDownInline">
+      <Value>Error {0}: You have used more {1} (DOWN) inline.</Value>
+      <Comment>Controls - Custom Keystrokes - error message when more same Modifiers keys DOWN are used inline
+({0} - is replaced during runtime by error number
+{1} - is replaced during runtime by name of Modifier Key)</Comment>
+    </Text>
+    <Text Key="C_CK_errMoreUpInline">
+      <Value>Error {0}: You have used more {1} (UP) inline.</Value>
+      <Comment>Controls - Custom Keystrokes - error message when more same Modifiers keys UP are used inline
+({0} - is replaced during runtime by error number
+{1} - is replaced during runtime by name of Modifier Key)</Comment>
+    </Text>
+    <Text Key="C_CK_errOneMouseActionAllowed">
+      <Value>Error {0}: You can use only one mouse action in script.</Value>
+      <Comment>Controls - Custom Keystrokes - error message when more mouse actions are used in a script
+({0} - is replaced during runtime by error number)</Comment>
+    </Text>
+    <Text Key="C_CK_gB_keys">
+      <Value>Keys</Value>
+      <Comment>Controls - Custom Keystrokes - group box text for Ordinary keys</Comment>
+    </Text>
+    <Text Key="C_CK_gB_keyScript">
+      <Value>Key Script</Value>
+      <Comment>Controls - Custom Keystrokes - group box text for user's Key script</Comment>
+    </Text>
+    <Text Key="C_CK_gB_modifiers">
+      <Value>Modifiers</Value>
+      <Comment>Controls - Custom Keystrokes - group box text for Modifier keys (Ctr, Alt, Shift, Win)</Comment>
+    </Text>
+    <Text Key="C_CK_gB_mouseActions">
+      <Value>Mouse Actions</Value>
+      <Comment>Controls - Custom Keystrokes - group box text for Mouse actions</Comment>
+    </Text>
+    <Text Key="C_CK_info">
+      <Value>Script may contain only one mouse action.
+Script is send to window according to option: 'Control Program/Window which is...'</Value>
+      <Comment>Controls - Custom Keystrokes - info</Comment>
+    </Text>
+    <Text Key="C_CurveG_about">
+      <Value>Use Left mouse button to draw gesture on panel</Value>
+      <Comment>Controls - Curve Gesture - about</Comment>
+    </Text>
+    <Text Key="C_CurveG_cH_curve">
+      <Value>Curve</Value>
+      <Comment>Controls - Curve Gesture - column header text for Curve</Comment>
+    </Text>
+    <Text Key="C_CurveG_cH_name">
+      <Value>Name</Value>
+      <Comment>Controls - Curve Gesture - column header text for Name</Comment>
+    </Text>
+    <Text Key="C_CurveG_errTooShortCurve">
+      <Value>Curve is too short. You cannot continue.</Value>
+      <Comment>Controls - Curve Gesture - error message when the lenght of curve is too short</Comment>
+    </Text>
+    <Text Key="C_CurveG_gB_alreadyInUse">
+      <Value>Already in use</Value>
+      <Comment>Controls - Curve Gesture - group box text for Already in use</Comment>
+    </Text>
+    <Text Key="C_CurveG_gB_useCurve">
+      <Value>Use Curve</Value>
+      <Comment>Controls - Curve Gesture - group box text for Use Curve</Comment>
+    </Text>
+    <Text Key="C_CurveG_info">
+      <Value>To invoke this gesture push the Toggle button and move mouse out of the Sensitive Zone within the Deactivation Timeout.
+You can change this parameters via: Options -&gt; Gestures</Value>
+      <Comment>Controls - Curve Gesture - info</Comment>
+    </Text>
+    <Text Key="C_CurveG_lbl_name">
+      <Value>Name</Value>
+      <Comment>Controls - Curve Gesture - new curve Name label</Comment>
+    </Text>
+    <Text Key="C_CurveG_rB_newOne">
+      <Value>New one</Value>
+      <Comment>Controls - Curve Gesture - radio button text for New One</Comment>
+    </Text>
+    <Text Key="C_CurveG_rB_selected">
+      <Value>Selected</Value>
+      <Comment>Controls - Curve Gesture - radio button text for Selected</Comment>
+    </Text>
+    <Text Key="C_CurveG_warnCurveGDeactivated">
+      <Value>Curve gestures are currently deactivated. You may still add new one, but it will not be functional untill it is activated.
+It is possible to change this property via: Options -&gt; Gestures</Value>
+      <Comment>Controls - Curve Gesture - warning message when Curve gestures is deactivated</Comment>
+    </Text>
+    <Text Key="C_CurveG_warnCurvesLimitReached">
+      <Value>You have reached maximum amount of Curve Gestures.
+It is possible to chose only from already learnt ones.</Value>
+      <Comment>Controls - Curve Gesture - warning message when the limit of Curve gestures is reached</Comment>
+    </Text>
+    <Text Key="C_Email_about">
+      <Value>Chose the e-mail address</Value>
+      <Comment>Controls - Send Email - about</Comment>
+    </Text>
+    <Text Key="C_Email_errInvalidFormat">
+      <Value>E-mail address has invalid format.</Value>
+      <Comment>Controls - Send Email - error message when e-mail has invalid format</Comment>
+    </Text>
+    <Text Key="C_Email_info">
+      <Value>Type e-mail address directly to text box.</Value>
+      <Comment>Controls - Send Email - info</Comment>
+    </Text>
+    <Text Key="C_Email_lbl_mail">
+      <Value>E-mail address</Value>
+      <Comment>Controls - Send Email - E-mail address label</Comment>
+    </Text>
+    <Text Key="C_Gestures_cH_associatedActions">
+      <Value>Associated Actions</Value>
+      <Comment>Controls - Curve, Rocker and Wheel Gesture - column header text for Associated Actions (same for all gesture types)</Comment>
+    </Text>
+    <Text Key="C_Gestures_cH_group">
+      <Value>Group</Value>
+      <Comment>Controls - Curve, Rocker and Wheel Gesture - column header text for Group  (same for all gesture types)</Comment>
+    </Text>
+    <Text Key="C_Gestures_tP_curveG">
+      <Value>Curve gesture</Value>
+      <Comment>Controls - Gestures - tab page caption for Curve Gesture (should be shorter then Name_CurveGesture)</Comment>
+    </Text>
+    <Text Key="C_Gestures_tP_rockerG">
+      <Value>Double-button combination</Value>
+      <Comment>Controls - Gestures - tab page caption for Rocker Gesture (should be shorter then Name_RockerGesture)</Comment>
+    </Text>
+    <Text Key="C_Gestures_tP_wheelG">
+      <Value>Wheel-button combination</Value>
+      <Comment>Controls - Gestures - tab page caption for Wheel Gesture (should be shorter then Name_WheelGesture)</Comment>
+    </Text>
+    <Text Key="C_Name_about">
+      <Value>Chose the name for your action</Value>
+      <Comment>Controls - Name - about</Comment>
+    </Text>
+    <Text Key="C_Name_cB_active">
+      <Value>Active</Value>
+      <Comment>Controls - Name - check box text for Active </Comment>
+    </Text>
+    <Text Key="C_Name_info">
+      <Value>More actions may be associated to same gesture and priority defines which action and how is executed.
+- first active action with High priority is immediately executed
+- otherwise context menu of all actions is shown
+- single action with Normal priority is automatically executed
+- context menu is also shown when only one action with Low priority is active</Value>
+      <Comment>Controls - Name - info</Comment>
+    </Text>
+    <Text Key="C_Name_info_highPriorityOnly">
+      <Value>Gesture type Wheel-button combination has always High priority.</Value>
+      <Comment>Controls - Name - extra info for gestures that are only High priority - this text is inserted before Info text</Comment>
+    </Text>
+    <Text Key="C_Name_lbl_name">
+      <Value>Name</Value>
+      <Comment>Controls - Name - Name for gesture label</Comment>
+    </Text>
+    <Text Key="C_Name_lbl_priority">
+      <Value>Priority</Value>
+      <Comment>Controls - Name - Priority label</Comment>
+    </Text>
+    <Text Key="C_Name_lbl_uncheckToDeactivate">
+      <Value>(Uncheck if you don't want the gesture to be activated)</Value>
+      <Comment>Controls - Name - Uncheck to deactivate gestures label</Comment>
+    </Text>
+    <Text Key="C_OpenFldr_about">
+      <Value>Chose the destination path to the folder</Value>
+      <Comment>Controls - Open Folder - about</Comment>
+    </Text>
+    <Text Key="C_OpenFldr_errFolderNotExists">
+      <Value>Path to the folder does not exist.</Value>
+      <Comment>Controls - Open Folder - error message when path to folder doesn't exist</Comment>
+    </Text>
+    <Text Key="C_OpenFldr_info">
+      <Value>Chose path to the folder via Browse button or type it directly to text box.</Value>
+      <Comment>Controls - Open Folder - info</Comment>
+    </Text>
+    <Text Key="C_OpenFldr_lbl_folder">
+      <Value>Folder path</Value>
+      <Comment>Controls - Open Folder - folder path label</Comment>
+    </Text>
+    <Text Key="C_OpenFldrPrg_btn_browse">
+      <Value>Browse</Value>
+      <Comment>Controls - Open Folder &amp; Start Program - button text of Browse</Comment>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleMaximized">
+      <Value>Maximized</Value>
+      <Comment>Controls - Open Folder &amp; Start Program - combo box item of window style Maximized</Comment>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleMinimized">
+      <Value>Minimized</Value>
+      <Comment>Controls - Open Folder &amp; Start Program - combo box item of window style Minimized</Comment>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleNormal">
+      <Value>Normal</Value>
+      <Comment>Controls - Open Folder &amp; Start Program - combo box item of window style Normal</Comment>
+    </Text>
+    <Text Key="C_OpenFldrPrg_lbl_windowStyle">
+      <Value>Open in Window Style</Value>
+      <Comment>Controls - Open Folder &amp; Start Program - Open in Windows Style label</Comment>
+    </Text>
+    <Text Key="C_OpenWeb_about">
+      <Value>Chose the website url</Value>
+      <Comment>Controls - Open Web - about</Comment>
+    </Text>
+    <Text Key="C_OpenWeb_errInvalidFormat">
+      <Value>Website url has invalid format.
+It has to start with 'http://', 'https://' or 'ftp://'.</Value>
+      <Comment>Controls - Open Web - error message when url has invalid format</Comment>
+    </Text>
+    <Text Key="C_OpenWeb_info">
+      <Value>Type website url directly to text box.
+Url has to start with 'http://', 'https://' or 'ftp://'. 
+To retrieve website icon connection to internet is required.</Value>
+      <Comment>Controls - Open Web - info</Comment>
+    </Text>
+    <Text Key="C_OpenWeb_lbl_webUrl">
+      <Value>Website url</Value>
+      <Comment>Controls - Open Web - Website url to open label</Comment>
+    </Text>
+    <Text Key="C_PC_about">
+      <Value>Select clipboard</Value>
+      <Comment>Controls - Copy to Private Clipboard - about</Comment>
+    </Text>
+    <Text Key="C_PC_info">
+      <Value>Copies selected text to system clipboard and then stores it in private one.</Value>
+      <Comment>Controls - Copy to Private Clipboard - info (this is first part of info, the text from C_PC_PP_info will be added to it)</Comment>
+    </Text>
+    <Text Key="C_PC_lbl_copyTo">
+      <Value>Copy text to</Value>
+      <Comment>Controls - Copy to Private Clipboard - Copy text to label</Comment>
+    </Text>
+    <Text Key="C_PC_PP_cBI_privateClipboard">
+      <Value>Private Clipboard {0} ({1})</Value>
+      <Comment>Controls - Copy &amp; Paste to/from Private Clipboard - combo box item Private Clipboard (with number and postfix that defines free/copy/paste clipboards) 
+({0} is replaced during runtime by number of private clipboard
+{1} is replaced during runtime by postfix )</Comment>
+    </Text>
+    <Text Key="C_PC_PP_info">
+      <Value>FREE - free position to use.
+COPY - clipboard is already associated with Copy gesture.
+PASTE - clipboard is already associated with Paste gesture.</Value>
+      <Comment>Controls - Copy &amp; Paste to/from Private Clipboard - info (info that is common for Copy and Paste actions for Private Clipboard)</Comment>
+    </Text>
+    <Text Key="C_PC_PP_postfixCopy">
+      <Value>COPY</Value>
+      <Comment>Controls - Copy &amp; Paste to/from Private Clipboard - postfix COPY (added to combo box item C_PC_PP_cBI_privateClipboard)</Comment>
+    </Text>
+    <Text Key="C_PC_PP_postfixCopyPaste">
+      <Value>COPY &amp; PASTE</Value>
+      <Comment>Controls - Copy &amp; Paste to/from Private Clipboard - postfix COPY &amp; PASTE (added to combo box item C_PC_PP_cBI_privateClipboard)</Comment>
+    </Text>
+    <Text Key="C_PC_PP_postfixFree">
+      <Value>FREE</Value>
+      <Comment>Controls - Copy &amp; Paste to/from Private Clipboard - postfix FREE (added to combo box item C_PC_PP_cBI_privateClipboard)</Comment>
+    </Text>
+    <Text Key="C_PC_PP_postfixPaste">
+      <Value>PASTE</Value>
+      <Comment>Controls - Copy &amp; Paste to/from Private Clipboard - postfix PASTE (added to combo box item C_PC_PP_cBI_privateClipboard)</Comment>
+    </Text>
+    <Text Key="C_PlainTxt_about">
+      <Value>Set text to insert</Value>
+      <Comment>Controls - Insert Plain Text - about</Comment>
+    </Text>
+    <Text Key="C_PlainTxt_info">
+      <Value>Inserts whole text at once.
+Inserting text does not modify system clipboard.</Value>
+      <Comment>Controls - Insert Plain Text - info</Comment>
+    </Text>
+    <Text Key="C_PlainTxt_lbl_text">
+      <Value>Text</Value>
+      <Comment>Controls - Insert Plain Text - text (to insert) label</Comment>
+    </Text>
+    <Text Key="C_PP_about">
+      <Value>Associate pasting with clipboard</Value>
+      <Comment>Controls - Paste from Private Clipboard - about</Comment>
+    </Text>
+    <Text Key="C_PP_info">
+      <Value>Copies stored text from private clipboard to system one and paste it.</Value>
+      <Comment>Controls - Paste from Private Clipboard - info (this is first part of info, the text from C_PC_PP_info will be added to it)</Comment>
+    </Text>
+    <Text Key="C_PP_lbl_pasteFrom">
+      <Value>Paste text from</Value>
+      <Comment>Controls - Paste from Private Clipboard - Paste text from label</Comment>
+    </Text>
+    <Text Key="C_RockerG_about">
+      <Value>Chose Hold-down and Execute button</Value>
+      <Comment>Controls - Rocker Gesture - about</Comment>
+    </Text>
+    <Text Key="C_RockerG_clickExecuteBtn">
+      <Value>2.) Click to invoke the action</Value>
+      <Comment>Controls - Rocker Gesture - Instruction 2.) to click on the execute button</Comment>
+    </Text>
+    <Text Key="C_RockerG_errSameHoldAndExecuteBtn">
+      <Value>Hold-down button and Execute button cannot be same.</Value>
+      <Comment>Controls - Rocker Gesture - error message when Hold and Execute buttons are same</Comment>
+    </Text>
+    <Text Key="C_RockerG_info">
+      <Value>To carry out this gesture click on the Execute button while Hold-down button is pushed within the Deactivation Timeout and don't move mouse out of the Sensitive Zone.
+You can change this parameters via: Options -&gt; Gestures</Value>
+      <Comment>Controls - Rocker Gesture - info</Comment>
+    </Text>
+    <Text Key="C_RockerG_notes">
+      <Value>Note:
+- Keep Execute button pushed to display notification 
+- Release Hold-down button first to cancel the gesture</Value>
+      <Comment>Controls - Rocker Gesture - Additional information about Rocker Gesture</Comment>
+    </Text>
+    <Text Key="C_RockerG_pushHoldBtn">
+      <Value>1.) Push and hold this button</Value>
+      <Comment>Controls - Rocker Gesture - Instruction 1.) to push the hold down button</Comment>
+    </Text>
+    <Text Key="C_RockerG_warnRockerGDeactivated">
+      <Value>Double-button combination gestures are currently deactivated. You may still add new one, but it will not be functional untill it is activated.
+It is possible to change this property via: Options -&gt; Gestures</Value>
+      <Comment>Controls - Rocker Gesture - warning message when Rocker Gesture is deactivated</Comment>
+    </Text>
+    <Text Key="C_SearchOpenWeb_btn_getIcon">
+      <Value>Get Web Icon</Value>
+      <Comment>Controls - Search &amp; Open Web - button text of Get Web Icon (same for Search and Open Web control)</Comment>
+    </Text>
+    <Text Key="C_SearchOpenWeb_lbl_icon">
+      <Value>Icon</Value>
+      <Comment>Controls - Search &amp; Open Web - Icon label (same for Search and Open Web control)</Comment>
+    </Text>
+    <Text Key="C_SearchWeb_about">
+      <Value>Search via custom website url</Value>
+      <Comment>Controls - Search Web - about</Comment>
+    </Text>
+    <Text Key="C_SearchWeb_errInvalidFormat">
+      <Value>Website url has invalid format.
+It has to start with 'http://', 'https://' or 'ftp://' and contain special string (*).</Value>
+      <Comment>Controls - Search Web - error message when url via to search has invalid format</Comment>
+    </Text>
+    <Text Key="C_SearchWeb_info">
+      <Value>Type website url in the specific format directly to text box.
+Url has to start with 'http://', 'https://' or 'ftp://'. and contian special string (*).
+When gesture with this action is invoked, the special string (*) is replaced with selected text and this new url is executed.
+You may use the suggestions from textbox by typing http://...
+To retrieve website icon connection to internet is required.</Value>
+      <Comment>Controls - Search Web - info</Comment>
+    </Text>
+    <Text Key="C_SearchWeb_lbl_searchUrl">
+      <Value>Website url </Value>
+      <Comment>Controls - Search Web - Website url via to search label</Comment>
+    </Text>
+    <Text Key="C_SelectApp_about">
+      <Value>Create Application group for actions</Value>
+      <Comment>Controls - Select Application - about</Comment>
+    </Text>
+    <Text Key="C_SelectApp_btn_browse">
+      <Value>Browse</Value>
+      <Comment>Controls - Select Application - button text for Browse</Comment>
+    </Text>
+    <Text Key="C_SelectApp_cB_active">
+      <Value>Active</Value>
+      <Comment>Controls - Select Application - check box text for Activate</Comment>
+    </Text>
+    <Text Key="C_SelectApp_info">
+      <Value>You can drag Cross cursor over the application that you want to add.
+You may create two special groups: Taskbar &amp; Desktop (selecting is possible only via Cross cursor).
+It is possible to:
+ - Combine draging and Alt + Tab (Task Switcher).
+ - Add same application more times so you can better categorize actions.</Value>
+      <Comment>Controls - Select Application - info</Comment>
+    </Text>
+    <Text Key="C_SelectApp_lbl_icon">
+      <Value>Icon</Value>
+      <Comment>Controls - Select Application - Icon label</Comment>
+    </Text>
+    <Text Key="C_SelectApp_lbl_name">
+      <Value>Name</Value>
+      <Comment>Controls - Select Application - Name of application label</Comment>
+    </Text>
+    <Text Key="C_SelectApp_lbl_path">
+      <Value>File path</Value>
+      <Comment>Controls - Select Application - File path label</Comment>
+    </Text>
+    <Text Key="C_SelectApp_lbl_uncheckToDeactivate">
+      <Value>(Uncheck if you don't want the application group to be activated.)</Value>
+      <Comment>Controls - Select Application - Uncheck to deactivate application label</Comment>
+    </Text>
+    <Text Key="C_StartPrg_about">
+      <Value>Chose the destination path to the application</Value>
+      <Comment>Controls - Start Program - about</Comment>
+    </Text>
+    <Text Key="C_StartPrg_errProgramNotExists">
+      <Value>Path to the application does not exist.</Value>
+      <Comment>Controls - Start Program - error message when path to program doesn't exist</Comment>
+    </Text>
+    <Text Key="C_StartPrg_info">
+      <Value>You may chose path to the application via Browse button, typing it directly to text box or by draging Cross cursor over the application (it is possible combine it with ALT + TAB).</Value>
+      <Comment>Controls - Start Program - info</Comment>
+    </Text>
+    <Text Key="C_StartPrg_lbl_cmdArguments">
+      <Value>Command-line arguments</Value>
+      <Comment>Controls - Start Program - Command line arguments label</Comment>
+    </Text>
+    <Text Key="C_StartPrg_lbl_icon">
+      <Value>Icon</Value>
+      <Comment>Controls - Start Program - Icon label</Comment>
+    </Text>
+    <Text Key="C_StartPrg_lbl_path">
+      <Value>File path</Value>
+      <Comment>Controls - Start Program - file path label</Comment>
+    </Text>
+    <Text Key="C_WheelG_about">
+      <Value>Chose Hold-down button </Value>
+      <Comment>Controls - Wheel Gesture - about</Comment>
+    </Text>
+    <Text Key="C_WheelG_info">
+      <Value>To invoke this gesture scroll with mouse wheel while the Hold-down button is pushed within the Deactivation Timeout and don't move mouse out of the Sensitive Zone.
+You can change this parameters via: Options -&gt; Gestures</Value>
+      <Comment>Controls - Wheel Gesture - info </Comment>
+    </Text>
+    <Text Key="C_WheelG_pushHoldBtn">
+      <Value>1.) Push and hold this button</Value>
+      <Comment>Controls - Wheel Gesture - Instruction 1.) to push the hold down button</Comment>
+    </Text>
+    <Text Key="C_WheelG_releaseHoldBtn">
+      <Value>3.) Release the Hold-down button</Value>
+      <Comment>Controls - Wheel Gesture - Instruction 3.) to release the hold down button</Comment>
+    </Text>
+    <Text Key="C_WheelG_scrollWithWheel">
+      <Value>2.) Scroll wheel up or down to invoke appropriate action</Value>
+      <Comment>Controls - Wheel Gesture - Instruction 2.) to scroll with wheel</Comment>
+    </Text>
+    <Text Key="C_WheelG_warnWheelGDeactivated">
+      <Value>Wheel-button combination gestures are currently deactivated. You may still add new one, but it will not be functional untill it is activated. 
+It is possible to change this property via: Options -&gt; Gestures</Value>
+      <Comment>Controls - Wheel Gesture - warning message when Wheel Gesture is deactivated</Comment>
+    </Text>
+    <Text Key="C_WK_about">
+      <Value>Create custom key script</Value>
+      <Comment>Controls - Wheel Keystrokes - about</Comment>
+    </Text>
+    <Text Key="C_WK_cH_holdBtn_down">
+      <Value>Hold-down pushed</Value>
+      <Comment>Controls - Wheel Keystrokes - column header text for Hold-down Button Down key script</Comment>
+    </Text>
+    <Text Key="C_WK_cH_holdBtn_up">
+      <Value>Hold-down released</Value>
+      <Comment>Controls - Wheel Keystrokes - column header text for Hold-down Button Up key script</Comment>
+    </Text>
+    <Text Key="C_WK_cH_wheelMove_down">
+      <Value>Wheel Down</Value>
+      <Comment>Controls - Wheel Keystrokes - column header text for Mouse Wheel move Down key script</Comment>
+    </Text>
+    <Text Key="C_WK_cH_wheelMove_up">
+      <Value>Wheel Up</Value>
+      <Comment>Controls - Wheel Keystrokes - column header text for Mouse Wheel move Up key script</Comment>
+    </Text>
+    <Text Key="C_WK_info">
+      <Value>Hold-down pushed &amp; released scripts are considered as one script.
+Each script may contain only one mouse action.
+Hold-down pushed script is invoked by first wheel move! (Not only by pushing it.)
+Script is send to window according to option: 'Control Program/Window which is...'</Value>
+      <Comment>Controls - Wheel Keystrokes - info</Comment>
+    </Text>
+    <Text Key="extras_custom_wheel_btn">
+      <Value>Custom Wheel-button Script</Value>
+      <Comment>Action name - Extras - Custom Wheel Button Script</Comment>
+    </Text>
+    <Text Key="extras_name">
+      <Value>Wheel-button Actions</Value>
+      <Comment>Category name - Extras Options</Comment>
+    </Text>
+    <Text Key="extras_tab_switch">
+      <Value>Tab Switcher</Value>
+      <Comment>Action name - Extras - Tab Switcher</Comment>
+    </Text>
+    <Text Key="extras_task_switch">
+      <Value>Task Switcher</Value>
+      <Comment>Action name - Extras - Task Switcher</Comment>
+    </Text>
+    <Text Key="extras_transparency">
+      <Value>Transparency Level</Value>
+      <Comment>Action name - Extras - Transparency Level</Comment>
+    </Text>
+    <Text Key="extras_volume">
+      <Value>Control Volume</Value>
+      <Comment>Action name - Extras - Control Volume</Comment>
+    </Text>
+    <Text Key="extras_zoom">
+      <Value>Zoom Document</Value>
+      <Comment>Action name - Extras - Zoom Document</Comment>
+    </Text>
+    <Text Key="I_errorCaption">
+      <Value>Error</Value>
+      <Comment>Info tool tip caption for error messages</Comment>
+    </Text>
+    <Text Key="I_infoCaption">
+      <Value>Info</Value>
+      <Comment>Info tool tip caption for info messages</Comment>
+    </Text>
+    <Text Key="I_warningCaption">
+      <Value>Warning</Value>
+      <Comment>Info tool tip caption for warning messages</Comment>
+    </Text>
+    <Text Key="internet_name">
+      <Value>Internet Options</Value>
+      <Comment>Category name - Internet Options</Comment>
+    </Text>
+    <Text Key="internet_open_web">
+      <Value>Open Website</Value>
+      <Comment>Action name -  Internet Options - Open Website</Comment>
+    </Text>
+    <Text Key="internet_page_back">
+      <Value>Back Page</Value>
+      <Comment>Action name -  Internet Options - Back Page</Comment>
+    </Text>
+    <Text Key="internet_page_home">
+      <Value>Home Page</Value>
+      <Comment>Action name -  Internet Options - Home Page</Comment>
+    </Text>
+    <Text Key="internet_page_next">
+      <Value>Next Page</Value>
+      <Comment>Action name -  Internet Options - Next Page</Comment>
+    </Text>
+    <Text Key="internet_page_reload">
+      <Value>Reload Page</Value>
+      <Comment>Action name -  Internet Options - Reload Page</Comment>
+    </Text>
+    <Text Key="internet_page_stop">
+      <Value>Stop Reloading</Value>
+      <Comment>Action name -  Internet Options - Stop Reloading</Comment>
+    </Text>
+    <Text Key="internet_search_web">
+      <Value>Search via Web</Value>
+      <Comment>Action name -  Internet Options - Search Web</Comment>
+    </Text>
+    <Text Key="internet_send_email">
+      <Value>Send E-mail</Value>
+      <Comment>Action name -  Internet Options - Send E-mail</Comment>
+    </Text>
+    <Text Key="internet_tab_close">
+      <Value>Close Tab</Value>
+      <Comment>Action name -  Internet Options - Close Tab</Comment>
+    </Text>
+    <Text Key="internet_tab_new">
+      <Value>New Tab</Value>
+      <Comment>Action name -  Internet Options - New Tab</Comment>
+    </Text>
+    <Text Key="internet_tab_reopen">
+      <Value>Reopen Tab</Value>
+      <Comment>Action name -  Internet Options - Reopen Tab</Comment>
+    </Text>
+    <Text Key="keystrokes_custom">
+      <Value>Custom Keystrokes</Value>
+      <Comment>Action name - Send Keystrokes - Custom Keystrokes</Comment>
+    </Text>
+    <Text Key="keystrokes_name">
+      <Value>Send Keystrokes</Value>
+      <Comment>Category name - Send Keystrokes</Comment>
+    </Text>
+    <Text Key="keystrokes_plain_text">
+      <Value>Insert Plain Text</Value>
+      <Comment>Action name - Send Keystrokes - Insert Plain Text</Comment>
+    </Text>
+    <Text Key="keystrokes_private_copy_text">
+      <Value>Copy Text to Private Clipboard</Value>
+      <Comment>Action name - Send Keystrokes - Copy Text to Private Clipboard</Comment>
+    </Text>
+    <Text Key="keystrokes_private_paste_text">
+      <Value>Paste Text from Private Clipboard</Value>
+      <Comment>Action name - Send Keystrokes - Paste Text from Private Clipboard</Comment>
+    </Text>
+    <Text Key="keystrokes_system_copy">
+      <Value>Copy to Clipboard</Value>
+      <Comment>Action name - Send Keystrokes - Copy to Clipboard</Comment>
+    </Text>
+    <Text Key="keystrokes_system_cut">
+      <Value>Cut to Clipboard</Value>
+      <Comment>Action name - Send Keystrokes - Cut to Clipboard</Comment>
+    </Text>
+    <Text Key="keystrokes_system_paste">
+      <Value>Paste from Clipboard</Value>
+      <Comment>Action name - Send Keystrokes - Paste from Clipboard</Comment>
+    </Text>
+    <Text Key="keystrokes_zoom_in">
+      <Value>Zoom In Document</Value>
+      <Comment>Action name - Send Keystrokes - Zoom In Document</Comment>
+    </Text>
+    <Text Key="keystrokes_zoom_out">
+      <Value>Zoom Out Document</Value>
+      <Comment>Action name - Send Keystrokes - Zoom Out Document</Comment>
+    </Text>
+    <Text Key="media_name">
+      <Value>Media Options</Value>
+      <Comment>Category name - Media Options</Comment>
+    </Text>
+    <Text Key="media_next">
+      <Value>Next Track</Value>
+      <Comment>Action name - Media Options - Next Track</Comment>
+    </Text>
+    <Text Key="media_pause">
+      <Value>Pause Track</Value>
+      <Comment>Action name - Media Options - Pause Track</Comment>
+    </Text>
+    <Text Key="media_play">
+      <Value>Play Track</Value>
+      <Comment>Action name - Media Options - Play Track</Comment>
+    </Text>
+    <Text Key="media_prev">
+      <Value>Previous Track</Value>
+      <Comment>Action name - Media Options - Previous Track</Comment>
+    </Text>
+    <Text Key="media_stop">
+      <Value>Stop Track</Value>
+      <Comment>Action name - Media Options - Stop Track</Comment>
+    </Text>
+    <Text Key="MG_msgText_validProps">
+      <Value>You must correctly define properties.</Value>
+      <Comment>Modify Gestures - message for Correct properties request</Comment>
+    </Text>
+    <Text Key="MG_multiple">
+      <Value>Modify Multiple Gestures</Value>
+      <Comment>Modify Gestures - caption for modifying multiple gestures</Comment>
+    </Text>
+    <Text Key="MG_tP_application">
+      <Value>Application</Value>
+      <Comment>Modify Gestures - caption for tab page Application Group</Comment>
+    </Text>
+    <Text Key="MG_tP_customKeystrokes">
+      <Value>Custom Keystrokes</Value>
+      <Comment>Modify Gestures - caption for tab page Custem and all Keystrokes actions</Comment>
+    </Text>
+    <Text Key="MG_tP_folder">
+      <Value>Folder</Value>
+      <Comment>Modify Gestures - caption for tab page Open Folder action</Comment>
+    </Text>
+    <Text Key="MG_tP_gesture">
+      <Value>Gesture</Value>
+      <Comment>Modify Gestures - caption for tab page Gesture</Comment>
+    </Text>
+    <Text Key="MG_tP_mail">
+      <Value>E-mail</Value>
+      <Comment>Modify Gestures - caption for tab page Send Email action</Comment>
+    </Text>
+    <Text Key="MG_tP_name">
+      <Value>Name</Value>
+      <Comment>Modify Gestures - caption for tab page Name for gestures</Comment>
+    </Text>
+    <Text Key="MG_tP_plainText">
+      <Value>Plain Text</Value>
+      <Comment>Modify Gestures - caption for tab page Insert Plain Text action</Comment>
+    </Text>
+    <Text Key="MG_tP_privateClipboard">
+      <Value>Private Clipboard</Value>
+      <Comment>Modify Gestures - caption for tab page Private Copy/Paste Text action</Comment>
+    </Text>
+    <Text Key="MG_tP_program">
+      <Value>Program</Value>
+      <Comment>Modify Gestures - caption for tab page Start Program action</Comment>
+    </Text>
+    <Text Key="MG_tP_url">
+      <Value>Website Url</Value>
+      <Comment>Modify Gestures - caption for tab page Open Website and Search Web action</Comment>
+    </Text>
+    <Text Key="MW_cH_associatedActions">
+      <Value>Associated Actions</Value>
+      <Comment>Main - column header text for Associated Actions</Comment>
+    </Text>
+    <Text Key="MW_cH_description">
+      <Value>Description</Value>
+      <Comment>Main - column header text for Description</Comment>
+    </Text>
+    <Text Key="MW_cH_name">
+      <Value>Name</Value>
+      <Comment>Main - column header text for Name</Comment>
+    </Text>
+    <Text Key="MW_cH_priority">
+      <Value>Priority</Value>
+      <Comment>Main - column header text for Priority</Comment>
+    </Text>
+    <Text Key="MW_cMI_activate">
+      <Value>Activate</Value>
+      <Comment>Main - context menu item Activate</Comment>
+    </Text>
+    <Text Key="MW_cMI_addGesture">
+      <Value>Add new gesture to</Value>
+      <Comment>Main - context menu item Add new gestures to</Comment>
+    </Text>
+    <Text Key="MW_cMI_copyGesture">
+      <Value>Copy {0} to</Value>
+      <Comment>Main - context menu item Copy to 
+({0} is replaced during runtime by name of selected gesture)</Comment>
+    </Text>
+    <Text Key="MW_cMI_copyMultiple">
+      <Value>Copy selected actions to</Value>
+      <Comment>Main - context menu item Copy selected actions to</Comment>
+    </Text>
+    <Text Key="MW_cMI_deactivate">
+      <Value>Deactivate</Value>
+      <Comment>Main - context menu item Deactivate</Comment>
+    </Text>
+    <Text Key="MW_cMI_changePriority">
+      <Value>Change Priority</Value>
+      <Comment>Main - context menu item Change Priority</Comment>
+    </Text>
+    <Text Key="MW_msgText_deleteGesture">
+      <Value>Do you really want to delete {0}? </Value>
+      <Comment>Main - message for Deleting single gesture
+ ({0} is replaced during runtime by name of selected gesture)</Comment>
+    </Text>
+    <Text Key="MW_msgText_deleteMultiple">
+      <Value>Do you really want to delete selected actions?</Value>
+      <Comment>Main - message for Deleting multiple actions</Comment>
+    </Text>
+    <Text Key="MW_msgText_errCantDelGlobal">
+      <Value>You cannot delete group Global Actions.</Value>
+      <Comment>Main - error message when trying to delete Global Actions group</Comment>
+    </Text>
+    <Text Key="MW_msgText_errNotEmptyGroup">
+      <Value>You can delete only empty group or with all it's items.</Value>
+      <Comment>Main - error message when trying to delete not empty group</Comment>
+    </Text>
+    <Text Key="MW_sMI_exit">
+      <Value>Exit</Value>
+      <Comment>Main - menu item Exit</Comment>
+    </Text>
+    <Text Key="MW_tSB_about">
+      <Value>About</Value>
+      <Comment>Main - menu item About</Comment>
+    </Text>
+    <Text Key="MW_tSB_addGesture">
+      <Value>Add New Gesture</Value>
+      <Comment>Main - menu item Add Gesture</Comment>
+    </Text>
+    <Text Key="MW_tSB_addGroup">
+      <Value>Add Application Group</Value>
+      <Comment>Main - menu item Add Application Group</Comment>
+    </Text>
+    <Text Key="MW_tSB_delete">
+      <Value>Delete</Value>
+      <Comment>Main - menu item Delete</Comment>
+    </Text>
+    <Text Key="MW_tSB_modify">
+      <Value>Modify</Value>
+      <Comment>Main - menu item Modify</Comment>
+    </Text>
+    <Text Key="MW_tSB_options">
+      <Value>Options</Value>
+      <Comment>Main - menu item Options</Comment>
+    </Text>
+    <Text Key="MW_tSB_viewActions">
+      <Value>View Actions</Value>
+      <Comment>Main - menu item View Actions</Comment>
+    </Text>
+    <Text Key="MW_tSB_viewGestures">
+      <Value>View Gestures</Value>
+      <Comment>Main - menu item View Gestures</Comment>
+    </Text>
+    <Text Key="MW_tT_displayGesture">
+      <Value>Gesture
+(click to animate)</Value>
+      <Comment>Main - tool tip for Display Gesture control</Comment>
+    </Text>
+    <Text Key="MW_tT_macthedGestures">
+      <Value>List of actions associated to same gesture
+(drag items to re-order)</Value>
+      <Comment>Main - tool tip for Associated actions to same gestures control</Comment>
+    </Text>
+    <Text Key="Name_CurveGesture">
+      <Value>Curve Gesture</Value>
+      <Comment>Name of Classic Curve Gesture</Comment>
+    </Text>
+    <Text Key="Name_CurveHoldDownBtn">
+      <Value>Toggle Button</Value>
+      <Comment>Name of the Button that is necessary to hold down while drawing the curve</Comment>
+    </Text>
+    <Text Key="Name_highPriority">
+      <Value>High</Value>
+      <Comment>Name of High Priority</Comment>
+    </Text>
+    <Text Key="Name_leftButton">
+      <Value>Left Button</Value>
+      <Comment>Name of Left mouse button</Comment>
+    </Text>
+    <Text Key="Name_lowPriority">
+      <Value>Low</Value>
+      <Comment>Name of Low Priority</Comment>
+    </Text>
+    <Text Key="Name_middleButton">
+      <Value>Middle Button</Value>
+      <Comment>Name of Middle mouse button</Comment>
+    </Text>
+    <Text Key="Name_mouseWheel">
+      <Value>Mouse Wheel</Value>
+      <Comment>Name of Mouse Wheel</Comment>
+    </Text>
+    <Text Key="Name_normalPriority">
+      <Value>Normal</Value>
+      <Comment>Name of Normal Priority</Comment>
+    </Text>
+    <Text Key="Name_rightButton">
+      <Value>Right Button</Value>
+      <Comment>Name of Right mouse button</Comment>
+    </Text>
+    <Text Key="Name_RockerExecuteBtn">
+      <Value>Execute Button</Value>
+      <Comment>Name of the Button that execute the command in Rocker Gesture</Comment>
+    </Text>
+    <Text Key="Name_RockerGesture">
+      <Value>Double Button Combination</Value>
+      <Comment>Name of Double Button Gesture</Comment>
+    </Text>
+    <Text Key="Name_RockerHoldDownBtn">
+      <Value>Hold-down Button</Value>
+      <Comment>Name of the Button that is neccessary to hold down while clicking on another</Comment>
+    </Text>
+    <Text Key="Name_WheelGesture">
+      <Value>Wheel-button Combination</Value>
+      <Comment>Name of Wheel Button Gesture</Comment>
+    </Text>
+    <Text Key="Name_WheelHoldDownBtn">
+      <Value>Hold-down Button</Value>
+      <Comment>Name for the Button that is necessary to hold down while scrolling the wheel</Comment>
+    </Text>
+    <Text Key="Name_x1Button">
+      <Value>XButton 1</Value>
+      <Comment>Name of X1 mouse button</Comment>
+    </Text>
+    <Text Key="Name_x2Button">
+      <Value>XButton 2 </Value>
+      <Comment>Name of X2 mouse button</Comment>
+    </Text>
+    <Text Key="O_A_cH_appState">
+      <Value>Application State</Value>
+      <Comment>Options - Autobehave - Final List - column header text for "Application State"</Comment>
+    </Text>
+    <Text Key="O_AB_blackList">
+      <Value>Black List</Value>
+      <Comment>Options - Autobehave - item "Black List" for auto state combobox</Comment>
+    </Text>
+    <Text Key="O_AB_caption">
+      <Value>Auto application enable/disable</Value>
+      <Comment>Options - Autobehave -  caption of Auto Behaviour (visible in top part of options' window)</Comment>
+    </Text>
+    <Text Key="O_AB_cBI_autoDisable">
+      <Value>Auto Disable</Value>
+      <Comment>Options - Autobehave - item "Auto Disable" for default and fullscreen combobox</Comment>
+    </Text>
+    <Text Key="O_AB_cBI_autoEnable">
+      <Value>Auto Enable</Value>
+      <Comment>Options - Autobehave - item "Auto Enable" for default and fullscreen combobox</Comment>
+    </Text>
+    <Text Key="O_AB_cBI_none">
+      <Value>(none)</Value>
+      <Comment>Options - Autobehave - item "(none)" for default,fullscren and auto state combobox</Comment>
+    </Text>
+    <Text Key="O_AB_cH_appState">
+      <Value>Application State</Value>
+      <Comment>Options - Autobehave - Final List - column header text for "Application State" of application</Comment>
+    </Text>
+    <Text Key="O_AB_cH_name">
+      <Value>Name</Value>
+      <Comment>Options - Autobehave - Final List - column header text for "Name" of application</Comment>
+    </Text>
+    <Text Key="O_AB_cH_path">
+      <Value>Path</Value>
+      <Comment>Options - Autobehave - Final List - column header text for "Path" to application</Comment>
+    </Text>
+    <Text Key="O_AB_gB_conditions">
+      <Value>Conditions</Value>
+      <Comment>Options - Autobehave - group name for conditions</Comment>
+    </Text>
+    <Text Key="O_AB_gB_finalList">
+      <Value>Final List</Value>
+      <Comment>Options - Autobehave - group name for final list</Comment>
+    </Text>
+    <Text Key="O_AB_info">
+      <Value>Auto Mode is used for automatic (de)activation of the Just Gestures (Application). It autocheks focused program and according to conditions sets the Application state.
+- Priority of condition corresponds to the order's number (fourth is the highest).
+- Final list contains the Application state when programs from Black/White List get focus.
+- Select automatic start of Autobehaviour in General options or start it manualy via tray icon's context menu.
+
+Example:
+Auto disable the Application when Intert Explorer gets focus
+- set Default State to Auto Enable
+- set First Auto State to Black List
+(Black List has to contain Internet Explorer)
+- run Auto Mode via Application's system tray icon</Value>
+      <Comment>Options - Auto behave - info</Comment>
+    </Text>
+    <Text Key="O_AB_lbl_1AutoState">
+      <Value>3.) Frist Auto State</Value>
+      <Comment>Options - Autobehave - first auto state label</Comment>
+    </Text>
+    <Text Key="O_AB_lbl_2AutoState">
+      <Value>4.) Second Auto State</Value>
+      <Comment>Options - Autobehave - second auto state label</Comment>
+    </Text>
+    <Text Key="O_AB_lbl_autocheck">
+      <Value>Autocheck in ms</Value>
+      <Comment>Options - Autobehave - autocheck label</Comment>
+    </Text>
+    <Text Key="O_AB_lbl_defaultState">
+      <Value>1.) Default State</Value>
+      <Comment>Options - Autobehave - default state label</Comment>
+    </Text>
+    <Text Key="O_AB_lbl_fullscreenState">
+      <Value>2.) Fullscreen State</Value>
+      <Comment>Options - Autobehave - fullscreen state label</Comment>
+    </Text>
+    <Text Key="O_AB_name">
+      <Value>Auto Mode</Value>
+      <Comment>Options - Autobehave - name of Auto Behaviour (visible on left side in options' treeview)</Comment>
+    </Text>
+    <Text Key="O_AB_whiteList">
+      <Value>White List</Value>
+      <Comment>Options - Autobehave - item "White List" for auto state combobox</Comment>
+    </Text>
+    <Text Key="O_BL_caption">
+      <Value>Configure Black List</Value>
+      <Comment>Options - Black List - caption of Black List (visible in top part of options' window)</Comment>
+    </Text>
+    <Text Key="O_BL_info">
+      <Value>List of programs which deactivates the Application when any of them gets focus.</Value>
+      <Comment>Options - Black List - info</Comment>
+    </Text>
+    <Text Key="O_BL_name">
+      <Value>Black List</Value>
+      <Comment>Options - Black List -  name of Black List (visible on left side in options' treeview)</Comment>
+    </Text>
+    <Text Key="O_BW_btn_add">
+      <Value>Add New</Value>
+      <Comment>Options - Black/White list - button text for adding new program</Comment>
+    </Text>
+    <Text Key="O_BW_btn_remove">
+      <Value>Remove Selected</Value>
+      <Comment>Options - Black/White list - button text for removing selected programs</Comment>
+    </Text>
+    <Text Key="O_BW_cH_name">
+      <Value>Name</Value>
+      <Comment>Options - Black/White list - column header text for "Name"</Comment>
+    </Text>
+    <Text Key="O_BW_cH_path">
+      <Value>Path</Value>
+      <Comment>Options - Black/White list - column header text for "Path"</Comment>
+    </Text>
+    <Text Key="O_caption">
+      <Value>Options</Value>
+      <Comment>Options - caption for Options form</Comment>
+    </Text>
+    <Text Key="O_General_caption">
+      <Value>General Settings</Value>
+      <Comment>Options - General - caption of General Settings (visible in top part of options' window)</Comment>
+    </Text>
+    <Text Key="O_General_cB_autobehave">
+      <Value>Start automatically Auto Mode</Value>
+      <Comment>Options - General - check box text for Autostart up of Autobehaviour</Comment>
+    </Text>
+    <Text Key="O_General_cB_closeToTray">
+      <Value>Close minimizes to System Tray</Value>
+      <Comment>Options - General - check box text for Closing application to tray</Comment>
+    </Text>
+    <Text Key="O_General_cB_checkUpdate">
+      <Value>Check for Update</Value>
+      <Comment>Options - General - check box text for Checking for new updates</Comment>
+    </Text>
+    <Text Key="O_General_cB_minToTray">
+      <Value>Minimize minimizes to System Tray</Value>
+      <Comment>Options - General - check box text for Minimizing application to tray</Comment>
+    </Text>
+    <Text Key="O_General_cB_startMinimized">
+      <Value>Start minimized</Value>
+      <Comment>Options - General - check box text for Starting application minimized</Comment>
+    </Text>
+    <Text Key="O_General_cB_startUp">
+      <Value>Start automatically with Windows</Value>
+      <Comment>Options - General - checkbox text for Autostart up of application</Comment>
+    </Text>
+    <Text Key="O_General_gB_localization">
+      <Value>Localization</Value>
+      <Comment>Options - General - group box name for Localization settings</Comment>
+    </Text>
+    <Text Key="O_General_gB_startUpSettings">
+      <Value>Start Up</Value>
+      <Comment>Options - General - group box name for Start up settings</Comment>
+    </Text>
+    <Text Key="O_General_gB_systemTraySettings">
+      <Value>System Tray</Value>
+      <Comment>Options - General - group box name for System tray settings</Comment>
+    </Text>
+    <Text Key="O_General_info">
+      <Value>State of Application and Auto Mode are applied when Application starts.</Value>
+      <Comment>Options - General - info</Comment>
+    </Text>
+    <Text Key="O_General_lbl_changeLanguage">
+      <Value>Change the language</Value>
+      <Comment>Options - General - label text for Changing the language</Comment>
+    </Text>
+    <Text Key="O_General_name">
+      <Value>General</Value>
+      <Comment>Options - General - name of General Settings (visible on left side in options' treeview)</Comment>
+    </Text>
+    <Text Key="O_Gestures_btn_wizard">
+      <Value>Run Wizard</Value>
+      <Comment>Options - Gestures - button text for Run Wizard</Comment>
+    </Text>
+    <Text Key="O_Gestures_caption">
+      <Value>Gestures Settings</Value>
+      <Comment>Options - Gestures - caption of Gestures Settings (visible in top part of options' window)</Comment>
+    </Text>
+    <Text Key="O_Gestures_cBI_disabled">
+      <Value>Disabled</Value>
+      <Comment>Options - Gestures - combo box item "disabled"for gesture types</Comment>
+    </Text>
+    <Text Key="O_Gestures_cBI_enabled">
+      <Value>Enabled</Value>
+      <Comment>Options - Gestures - combo box item "enabled" for gesture types</Comment>
+    </Text>
+    <Text Key="O_Gestures_cBI_inForeground">
+      <Value>at the foreground</Value>
+      <Comment>Options - Gestures - combo box item "at the foreground" for Control Program/Window options</Comment>
+    </Text>
+    <Text Key="O_Gestures_cBI_off">
+      <Value>OFF</Value>
+      <Comment>Options - Gestures - combo box item "OFF" for Sensitive Zone option</Comment>
+    </Text>
+    <Text Key="O_Gestures_cBI_underCursor">
+      <Value>under the cursor</Value>
+      <Comment>Options - Gestures - combo box item "under the cursor" for Control Program/Window options</Comment>
+    </Text>
+    <Text Key="O_Gestures_gB_activation">
+      <Value>Activation</Value>
+      <Comment>Options - Gestures - group box name for Activation</Comment>
+    </Text>
+    <Text Key="O_Gestures_gB_gestureTypes">
+      <Value>Gesture Types</Value>
+      <Comment>Options - Gestures - group box name for Gesture Types</Comment>
+    </Text>
+    <Text Key="O_Gestures_info">
+      <Value>Gesture of disabled type
+- is possible to add, but will not be functional
+- already learnt gestures will be disabled
+
+- Control Program/Window - all actions are associated with this option
+- Toggle Button - button which is used to carry out Curve gesture
+- Keep the Hold-down/Toggle Button pushed in Sensitive Zone for Deactivation Timeout and the Hold-down/Toggle Button will work normally.   </Value>
+      <Comment>Options - Gestures - info</Comment>
+    </Text>
+    <Text Key="O_Gestures_lbl_deactivationTimeout">
+      <Value>Deactivation Timeout in ms</Value>
+      <Comment>Options - Gestures - Deactivation Timeout label</Comment>
+    </Text>
+    <Text Key="O_Gestures_lbl_sensitiveZone">
+      <Value>Sensitive Zone in pixels</Value>
+      <Comment>Options - Gestures - Sensitive Zone label</Comment>
+    </Text>
+    <Text Key="O_Gestures_lbl_typeOfWnd">
+      <Value>Control Program/Window which is</Value>
+      <Comment>Options - Gestures - Control Program/Window label</Comment>
+    </Text>
+    <Text Key="O_Gestures_name">
+      <Value>Gestures</Value>
+      <Comment>Options - Gestures - name of Gestures Settings (visible on left side in options' treeview)</Comment>
+    </Text>
+    <Text Key="O_V_caption">
+      <Value>Visualization of Gestures</Value>
+      <Comment>Options - Visualization -  caption of Visualization (visible in top part of options' window)</Comment>
+    </Text>
+    <Text Key="O_V_cB_showGesture">
+      <Value>Display a trailing line</Value>
+      <Comment>Options - Visualization - check box text for Displaying graphics for simple gestures</Comment>
+    </Text>
+    <Text Key="O_V_cB_showToolTip">
+      <Value>Show tool tip while performing the gesture</Value>
+      <Comment>Options - Visualization - check box text for Showing the tool tip while performing gestures</Comment>
+    </Text>
+    <Text Key="O_V_gB_graphics">
+      <Value>Graphics</Value>
+      <Comment>Options - Visualization - group box text of Graphics</Comment>
+    </Text>
+    <Text Key="O_V_gB_toolTipForGestures">
+      <Value>Tool Tip of Recognized Gestures</Value>
+      <Comment>Options - Visualization - group box text for Tool Tip of Recognized Gestures</Comment>
+    </Text>
+    <Text Key="O_V_info">
+      <Value>Tool tip is shown for Curve Gesture and Double-button combination.
+- Curve Gesture - while drawing the curve stop with mouse for Tool tip delay
+- Double-button combination - keep Hold-down and Execute buttons pushed for Tool tip delay</Value>
+      <Comment>Options - Visualization - info</Comment>
+    </Text>
+    <Text Key="O_V_lbl_color">
+      <Value>Color</Value>
+      <Comment>Options - Visualization - Color label</Comment>
+    </Text>
+    <Text Key="O_V_lbl_toolTipDelay">
+      <Value>Tool tip delay in ms</Value>
+      <Comment>Options - Visualization - Tool tip delay lable</Comment>
+    </Text>
+    <Text Key="O_V_lbl_width">
+      <Value>Width</Value>
+      <Comment>Options - Visualization - Width label</Comment>
+    </Text>
+    <Text Key="O_V_name">
+      <Value>Visualization</Value>
+      <Comment>Options - Visualization - name of Visualization (visible on left side in options' treeview)</Comment>
+    </Text>
+    <Text Key="O_WL_caption">
+      <Value>Configure White List</Value>
+      <Comment>Options - White List - caption of White List (visible in top part of options' window)</Comment>
+    </Text>
+    <Text Key="O_WL_info">
+      <Value>List of programs which activates the Application when any of them gets focus.</Value>
+      <Comment>Options -White List - info</Comment>
+    </Text>
+    <Text Key="O_WL_name">
+      <Value>White List</Value>
+      <Comment>Options - White List -  name of White List (visible on left side in options' treeview)</Comment>
+    </Text>
+    <Text Key="shell_dialog">
+      <Value>Open Shut Down Dialog</Value>
+      <Comment>Action name - Windows Shell - Open Shut Down Dialog</Comment>
+    </Text>
+    <Text Key="shell_hibernate">
+      <Value>Hibernate</Value>
+      <Comment>Action name - Windows Shell - Hibernate</Comment>
+    </Text>
+    <Text Key="shell_lock">
+      <Value>Lock</Value>
+      <Comment>Action name - Windows Shell - Lock</Comment>
+    </Text>
+    <Text Key="shell_log_off">
+      <Value>Log Off</Value>
+      <Comment>Action name - Windows Shell - Log Off</Comment>
+    </Text>
+    <Text Key="shell_name">
+      <Value>Windows Shell</Value>
+      <Comment>Category name - Windows Shell</Comment>
+    </Text>
+    <Text Key="shell_open_fldr">
+      <Value>Open Folder</Value>
+      <Comment>Action name - Windows Shell - Open Folder</Comment>
+    </Text>
+    <Text Key="shell_open_web">
+      <Value>Open Website</Value>
+      <Comment>Action name - Windows Shell - Open Website</Comment>
+    </Text>
+    <Text Key="shell_restart">
+      <Value>Restart</Value>
+      <Comment>Action name - Windows Shell - Restart</Comment>
+    </Text>
+    <Text Key="shell_send_mail">
+      <Value>Send Mail</Value>
+      <Comment>Action name - Windows Shell - Send Mail</Comment>
+    </Text>
+    <Text Key="shell_show_desktop">
+      <Value>Show Desktop/Restore</Value>
+      <Comment>Action name - Windows Shell - Show Desktop/Restore</Comment>
+    </Text>
+    <Text Key="shell_shut_down">
+      <Value>Shut Down</Value>
+      <Comment>Action name - Windows Shell - Shut Down</Comment>
+    </Text>
+    <Text Key="shell_sleep">
+      <Value>Sleep</Value>
+      <Comment>Action name - Windows Shell - Sleep</Comment>
+    </Text>
+    <Text Key="shell_start_prg">
+      <Value>Start Program</Value>
+      <Comment>Action name - Windows Shell - Start Program</Comment>
+    </Text>
+    <Text Key="ST_tSMI_autobehave_off">
+      <Value>Stop Automode</Value>
+      <Comment>System Tray - Context Menu item Stop Automode</Comment>
+    </Text>
+    <Text Key="ST_tSMI_autobehave_on">
+      <Value>Start Automode</Value>
+      <Comment>System Tray - Context Menu item Start Automode</Comment>
+    </Text>
+    <Text Key="ST_tSMI_disable">
+      <Value>Disable</Value>
+      <Comment>System Tray - Context Menu item Disable</Comment>
+    </Text>
+    <Text Key="ST_tSMI_enable">
+      <Value>Enable</Value>
+      <Comment>System Tray - Context Menu item Enable</Comment>
+    </Text>
+    <Text Key="ST_tSMI_show">
+      <Value>Show</Value>
+      <Comment>System Tray - Context Menu item Show</Comment>
+    </Text>
+    <Text Key="ST_tT_autobehave">
+      <Value>Autobehave Mode</Value>
+      <Comment>System Tray - tooltip when autobehave mode si running</Comment>
+    </Text>
+    <Text Key="ST_tT_disabled">
+      <Value>Disabled</Value>
+      <Comment>System Tray - tooltip when program is disabled</Comment>
+    </Text>
+    <Text Key="ST_tT_learning">
+      <Value>Learning Gestures</Value>
+      <Comment>System Tray - tooltip when gestures are learning</Comment>
+    </Text>
+    <Text Key="U_btn_download">
+      <Value>Download Now!</Value>
+      <Comment>Update - button text for Download Now</Comment>
+    </Text>
+    <Text Key="U_caption">
+      <Value>Just Gestures - New Version!</Value>
+      <Comment>Update - caption of Update form</Comment>
+    </Text>
+    <Text Key="U_lbl_features">
+      <Value>Features:</Value>
+      <Comment>Update - Features label</Comment>
+    </Text>
+    <Text Key="U_lbl_newUpdate">
+      <Value>New update is available!</Value>
+      <Comment>Update - New update label</Comment>
+    </Text>
+    <Text Key="U_lbl_version">
+      <Value>Version:</Value>
+      <Comment>Update - Version label</Comment>
+    </Text>
+    <Text Key="Unknown_gesture">
+      <Value>[Unknown]</Value>
+      <Comment>Tool tip text when no gesture is recognized </Comment>
+    </Text>
+    <Text Key="volume_down">
+      <Value>Volume Down</Value>
+      <Comment>Action name - Volume Options - Volume Down</Comment>
+    </Text>
+    <Text Key="volume_mute">
+      <Value>Volume Mute</Value>
+      <Comment>Action name - Volume Options - Volume Mute</Comment>
+    </Text>
+    <Text Key="volume_name">
+      <Value>Volume Options</Value>
+      <Comment>Category name - Volume Options </Comment>
+    </Text>
+    <Text Key="volume_set">
+      <Value>Set Volume</Value>
+      <Comment>Action name - Volume Options - Set Volume</Comment>
+    </Text>
+    <Text Key="volume_up">
+      <Value>Volume Up</Value>
+      <Comment>Action name - Volume Options - Volume Up</Comment>
+    </Text>
+    <Text Key="W_A_caption">
+      <Value>Gesture Activation Settings</Value>
+      <Comment>Wizard - Activation - caption</Comment>
+    </Text>
+    <Text Key="W_A_controlPrgDescription">
+      <Value>Almost all actions are associated to some window or program. Decide whether you want to apply actions to window under the cursor or in the foreground.
+
+- In program is possible to make actions application sensitive (actions is active only if the application is). Therefore this option is also used to detect whether the application is active.</Value>
+      <Comment>Wizard - Activation - description of controling program/window which is under cursor/at foreground</Comment>
+    </Text>
+    <Text Key="W_A_gB_gestureActivation">
+      <Value>Gesture Activation</Value>
+      <Comment>Wizard - Activation - group box text for Gesture Activation</Comment>
+    </Text>
+    <Text Key="W_A_info">
+      <Value>All values may be changed later in program via Options -&gt; Gestures.</Value>
+      <Comment>Wizard - Activation - info</Comment>
+    </Text>
+    <Text Key="W_A_zoneTimeoutDescription">
+      <Value>Keep the Hold-down/Toggle button pushed in Sensitive Zone for Deactivation Timeout and the Hold-down/Toggle button will work normally.
+
+Summary for type of gestures:
+- Curve Gesture - push the Toggle button and move mouse out of the Sensitive Zone within the Deactivation Timeout.
+- Double-button Combination - click on the Execute button while Hold-down button is pushed within the Deactivation Timeout and don't move mouse out of the Sensitive Zone.
+- Wheel-button Combination - move with the Wheel after while the Hold-down button is pushed within the Deactivation Timeout and don't move mouse out of the Sensitive Zone. </Value>
+      <Comment>Wizard - Activation - description of Sensitive Zone and Deactivation Timeout</Comment>
+    </Text>
+    <Text Key="W_caption">
+      <Value>Wizard</Value>
+      <Comment>Wizard - caption for Wizard form</Comment>
+    </Text>
+    <Text Key="W_CC_caption">
+      <Value>Type of gesture - Curve</Value>
+      <Comment>Wizard - Classic Curve - caption</Comment>
+    </Text>
+    <Text Key="W_CC_description">
+      <Value>-  Push the Toggle button and move mouse out of the Sensitive Zone within the Deactivation Timeout to start recognition process of Curve gesture. Move with mouse according to specific curve to invoke associated action to this gesture.
+
+- During recognition process stop mouse for a while and Tool tip with recognized gesture(s) will be shown.
+
+- You may define your own curves of any kind of shape.
+
+- All actions associated to Curve Gestures can be switched to Double-button combination gestures.
+
+Note: If you keep the Toggle button pushed in Sensitive Zone for Deactivation Timeout the Toggle button will work normally.</Value>
+      <Comment>Wizard - Classic Curve - description </Comment>
+    </Text>
+    <Text Key="W_CC_info">
+      <Value>- Uncheck the gesture if you don't want to use it and the program will ignore this type of mouse gestures.
+- Sensitive Zone and Deactivation Timeout is possible to set at the end of Wizard.</Value>
+      <Comment>Wizard - Classic Curve - info</Comment>
+    </Text>
+    <Text Key="W_CC_instructions">
+      <Value>Hold down the Toggle button, move mouse in specific directions and release the Toggle button.</Value>
+      <Comment>Wizard - Classic Curve - Instructions for invoking the Classic Curve Gesture</Comment>
+    </Text>
+    <Text Key="W_DB_caption">
+      <Value>Type of gesture - Double-button combination</Value>
+      <Comment>Wizard - Double Button - caption</Comment>
+    </Text>
+    <Text Key="W_DB_description">
+      <Value>- Click on the Execute button while Hold-down button is pushed within the Deactivation Timeout and don't move mouse out of the Sensitive Zone to invoke associated action to this gesture.
+
+- The Double-button gesture is activated when Execute button is pushed, after that you can move out of Sensitive Zone.
+
+- Keep the the Execute button pushed for a while and the Tool tip of recognized gestures will be shown.
+
+- Do not release Hold-down button after the click on Execute button and you may activate another gesture (with same Hold-down button) by clicking on another Execute button.
+
+- When the Hold-down and Execute buttons are pushed, release the Hold-down button first to deactivate the gesture. In this case the Execute button is switched to Hold-down button, therefore you are still in Double-button gesture mode and you may click on another Execute button.
+
+- All actions (except the scripts containing the mouse events) associated to Double-button combination gesture may be switched to Curve gestures.
+
+Note: If you keep the Hold-down button pushed in Sensitive Zone for Deactivation Timeout the Hold-down button will work normally.</Value>
+      <Comment>Wizard - Double Button - description</Comment>
+    </Text>
+    <Text Key="W_DB_info">
+      <Value>- Uncheck the gesture if you don't want to use it and the program will ignore this type of mouse gestures.
+- Sensitive Zone and Deactivation Timeout is possible to set at the end of Wizard.</Value>
+      <Comment>Wizard - Double Button - info</Comment>
+    </Text>
+    <Text Key="W_DB_instructions">
+      <Value>Click on the Execute button while Hold-down button is pushed.</Value>
+      <Comment>Wizard - Double Button - instructions for invoking Double Button Gesture</Comment>
+    </Text>
+    <Text Key="W_G_gB_activation">
+      <Value>Activation</Value>
+      <Comment>Wizard - Gestures - group box text for Activation</Comment>
+    </Text>
+    <Text Key="W_G_gB_description">
+      <Value>Description</Value>
+      <Comment>Wizard - Gestures - group box text for Description (used in all wizard forms)</Comment>
+    </Text>
+    <Text Key="W_G_gB_gesture">
+      <Value>Gesture</Value>
+      <Comment>Wizard - Gestures - group box text for Gesture</Comment>
+    </Text>
+    <Text Key="W_G_gB_preview">
+      <Value>Preview (Example)</Value>
+      <Comment>Wizard - Gestures - group box text for Preview</Comment>
+    </Text>
+    <Text Key="W_G_lbl_and">
+      <Value>and</Value>
+      <Comment>Wizard - Gestures - and label (used in group box activation for gestures)</Comment>
+    </Text>
+    <Text Key="W_G_lbl_instructions">
+      <Value>Instructions:</Value>
+      <Comment>Wizard - Gestures - Instructions label</Comment>
+    </Text>
+    <Text Key="W_G_lbl_mouseMovement">
+      <Value>Mouse Movement</Value>
+      <Comment>Wizard - Classic Curve - Mouse Movement label</Comment>
+    </Text>
+    <Text Key="W_G_tT_animation">
+      <Value>Click to animate the gesture.</Value>
+      <Comment>Wizard - Gestures - tool tip for Animating the gesture example</Comment>
+    </Text>
+    <Text Key="W_page">
+      <Value>Page:</Value>
+      <Comment>Wizard - name for Page (text that is part of counter located in right upper part of window)</Comment>
+    </Text>
+    <Text Key="W_W_caption">
+      <Value>Welcome to Just Gestures</Value>
+      <Comment>Wizard - Welcome - caption</Comment>
+    </Text>
+    <Text Key="W_W_info">
+      <Value>- This tool tip contains useful information about the actual page.
+- It explains some features, gives hints how to proceed, shows warnings and errors.
+- To display tool tip hover the mouse over the info icon.
+- Leave cursor from tool tip or click on it to hide it.</Value>
+      <Comment>Wizard - Welcome - info</Comment>
+    </Text>
+    <Text Key="W_W_introCaption">
+      <Value>You are about to use mouse enhancement utility - Just Gestures.</Value>
+      <Comment>Wizard - Welcome - caption for intro</Comment>
+    </Text>
+    <Text Key="W_W_introDescription">
+      <Value>This wizard will help you configure and understand the most significant part about the gestures and some useful features. Please take a few minutes with these basic settings.
+
+
+Note:
+- Move mouse over Info icon situated in the left bottom part of the window. It shows useful informations about the actual page.</Value>
+      <Comment />
+    </Text>
+    <Text Key="W_WB_caption">
+      <Value>Type of gesture - Wheel-button combination</Value>
+      <Comment>Wizard - Wheel Button - caption</Comment>
+    </Text>
+    <Text Key="W_WB_description">
+      <Value>- Scroll with mouse wheel while the Hold-down button is pushed within the Deactivation Timeout and don't move mouse out of the Sensitive Zone to invoke appropriate action.
+
+- The Wheel-button gesture is activated by first scroll with wheel, after that you can move out of Sensitive Zone.
+
+- Activated Wheel-button gesture automatically executes action and doesn't show any Tool tip of recognized gestures..
+
+Note: If you keep the Hold-down button pushed in Sensitive Zone for Deactivation Timeout the Hold-down button will work normally.</Value>
+      <Comment>Wizard - Wheel Button - description</Comment>
+    </Text>
+    <Text Key="W_WB_info">
+      <Value>- Uncheck the gesture if you don't want to use it and the program will ignore this type of mouse gestures.
+- Sensitive Zone and Deactivation Timeout is possible to set at the end of Wizard.</Value>
+      <Comment>Wizard - Wheel Button - info</Comment>
+    </Text>
+    <Text Key="W_WB_instructions">
+      <Value>Scroll with mouse wheel while the Hold-down button is pushed, then release Hold-down button. </Value>
+      <Comment>Wizard - Wheel Button - instructions for invoking Wheel Button Gesture</Comment>
+    </Text>
+    <Text Key="window_close">
+      <Value>Close Window</Value>
+      <Comment>Action name - Window Options - Close Window</Comment>
+    </Text>
+    <Text Key="window_close_all">
+      <Value>Close All Windows</Value>
+      <Comment>Action name - Window Options - Close All Windows</Comment>
+    </Text>
+    <Text Key="window_fullscreen">
+      <Value>Make Window Fullscreen/Restore</Value>
+      <Comment>Action name - Window Options - Make Window Fullscreen/Restore</Comment>
+    </Text>
+    <Text Key="window_max">
+      <Value>Maximize/Restore Window</Value>
+      <Comment>Action name - Window Options - Maximize/Restore Window</Comment>
+    </Text>
+    <Text Key="window_min">
+      <Value>Minimize Window</Value>
+      <Comment>Action name - Window Options - Minimize Window</Comment>
+    </Text>
+    <Text Key="window_min_all">
+      <Value>Minimize All Windows/Restore</Value>
+      <Comment>Action name - Window Options - Minimize All Windows/Restore</Comment>
+    </Text>
+    <Text Key="window_min_totray">
+      <Value>Minimize to Tray</Value>
+      <Comment>Action name - Window Options - Minimize to Tray</Comment>
+    </Text>
+    <Text Key="window_name">
+      <Value>Window Options</Value>
+      <Comment>Category name - Window Options</Comment>
+    </Text>
+    <Text Key="window_show_side_by_side">
+      <Value>Show Windows Side by Side</Value>
+      <Comment>Action name - Window Options - Show Windows Side by Side</Comment>
+    </Text>
+    <Text Key="window_show_vertically">
+      <Value>Show Windows Vertically</Value>
+      <Comment>Action name - Window Options - Show Windows Vertically</Comment>
+    </Text>
+    <Text Key="window_topmost">
+      <Value>Make Window Topmost/Restore</Value>
+      <Comment>Action name - Window Options - Make Window Topmost/Restore</Comment>
+    </Text>
+    <Text Key="window_transparent">
+      <Value>Set Window Transparency</Value>
+      <Comment>Action name - Window Options - Transparency</Comment>
+    </Text>
+  </TranslatedText>
+</Translation>

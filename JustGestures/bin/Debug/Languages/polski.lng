@@ -1,0 +1,1183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translation>
+  <Version>1.1.1</Version>
+  <Language InEnglish="Polish">Polski</Language>
+  <TranslatedText>
+    <Text Key="A_btn_checkUpdate">
+      <Value>Sprawdź dostępność aktualizacji</Value>
+    </Text>
+    <Text Key="A_caption">
+      <Value>O programie...</Value>
+    </Text>
+    <Text Key="A_lbl_createdBy">
+      <Value>Autor:</Value>
+    </Text>
+    <Text Key="A_lbl_submitBugs">
+      <Value>(Proszę o zgłaszanie sugestii i błędów na forum)</Value>
+    </Text>
+    <Text Key="A_msgCaption_uptodate">
+      <Value>Aktualizacja</Value>
+    </Text>
+    <Text Key="A_msgText_uptodate">
+      <Value>Wersja którą posiadasz jest aktualna.</Value>
+    </Text>
+    <Text Key="AA_caption">
+      <Value>Dodaj grupę programów</Value>
+    </Text>
+    <Text Key="AG_caption">
+      <Value>Dodaj gest</Value>
+    </Text>
+    <Text Key="Animate_RockerG_clickExecuteBtn">
+      <Value>Kliknij {0}, aby wywołać akcję.</Value>
+    </Text>
+    <Text Key="Animate_RockerG_pushHoldBtn">
+      <Value>Wciśnij i przytrzymaj {0}.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_pushHoldBtn">
+      <Value>Wciśnij i przytrzymaj {0}.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_releaseHoldBtn">
+      <Value>Puść {0}.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_scrollWheelDown">
+      <Value>... albo w dół, aby wywołać akcję.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_scrollWheelUp">
+      <Value>Kręć rolką w górę...</Value>
+    </Text>
+    <Text Key="app_group_desktop">
+      <Value>Pulpit</Value>
+    </Text>
+    <Text Key="app_group_global">
+      <Value>Akcje globalne</Value>
+    </Text>
+    <Text Key="app_group_taskbar">
+      <Value>Pasek zadań</Value>
+    </Text>
+    <Text Key="Btn_add">
+      <Value>Dodaj</Value>
+    </Text>
+    <Text Key="Btn_addNew">
+      <Value>Dodaj nową</Value>
+    </Text>
+    <Text Key="Btn_apply">
+      <Value>Zastosuj</Value>
+    </Text>
+    <Text Key="Btn_back">
+      <Value>&lt; Wstecz</Value>
+    </Text>
+    <Text Key="Btn_cancel">
+      <Value>Anuluj</Value>
+    </Text>
+    <Text Key="Btn_finish">
+      <Value>Zakończ</Value>
+    </Text>
+    <Text Key="Btn_next">
+      <Value>Dalej &gt;</Value>
+    </Text>
+    <Text Key="Btn_ok">
+      <Value>OK</Value>
+    </Text>
+    <Text Key="C_Act_about">
+      <Value>Wybierz akcję dla której chcesz zdefiniować gest</Value>
+    </Text>
+    <Text Key="C_Act_gB_action">
+      <Value>Akcja</Value>
+    </Text>
+    <Text Key="C_Act_gB_appSensitivity">
+      <Value>Zasięg</Value>
+    </Text>
+    <Text Key="C_Act_gB_category">
+      <Value>Kategoria</Value>
+    </Text>
+    <Text Key="C_Act_info">
+      <Value>Akcje przypisane do programu są aktywne tylko wtedy gdy jest on aktywny.
+Wybierz kilka programów, aby dodać nową akcję do wszystkich na raz.</Value>
+    </Text>
+    <Text Key="C_Act_rB_globally">
+      <Value>Globalnie</Value>
+    </Text>
+    <Text Key="C_Act_rB_locally">
+      <Value>Dla konkretnego programu</Value>
+    </Text>
+    <Text Key="C_Act_useAction">
+      <Value>Używaj tej akcji</Value>
+    </Text>
+    <Text Key="C_CK_about">
+      <Value>Utwórz własny skrypt przycisków</Value>
+    </Text>
+    <Text Key="C_CK_btn_add">
+      <Value>Dodaj &gt;&gt;</Value>
+    </Text>
+    <Text Key="C_CK_btn_remove">
+      <Value>Usuń</Value>
+    </Text>
+    <Text Key="C_CK_cH_executeBtn_click">
+      <Value>Wykonaj kliknięcie</Value>
+    </Text>
+    <Text Key="C_CK_errDownWithoutUp">
+      <Value>Błąd {0}: Użyto klawisza {1} (DOWN) niepoprzedzonego {1} (UP).</Value>
+    </Text>
+    <Text Key="C_CK_errMoreDownInline">
+      <Value>Błąd {0}: Użyto więcej niż jednego klawisza {1} (DOWN) po kolei.</Value>
+    </Text>
+    <Text Key="C_CK_errMoreUpInline">
+      <Value>Błąd {0}: Użyto więcej niż jednego klawisza {1} (UP) po kolei.</Value>
+    </Text>
+    <Text Key="C_CK_errNotCurveCompatible">
+      <Value>Błąd {0}: Skrypt zawierający zdarzenia myszy nie może być przypisany do gestu Kształtu. (Najpierw usuń zdarzenie, a potem zmień Kształt.)</Value>
+    </Text>
+    <Text Key="C_CK_errOneMouseActionAllowed">
+      <Value>Błąd {0}: W skrypcie można użyć tylko jednego zdarzenia myszy</Value>
+    </Text>
+    <Text Key="C_CK_gB_keys">
+      <Value>Przyciski</Value>
+    </Text>
+    <Text Key="C_CK_gB_keyScript">
+      <Value>Skrypt przycisków</Value>
+    </Text>
+    <Text Key="C_CK_gB_modifiers">
+      <Value>Przełączniki</Value>
+    </Text>
+    <Text Key="C_CK_gB_mouseActions">
+      <Value>Zdarzenia myszy</Value>
+    </Text>
+    <Text Key="C_CK_info">
+      <Value>Skrypt może zawierać tylko jedno zdarzenie myszy.
+Skrypt jest wysyłany to okna, zgodnie z opcją ustawień: 'Kontroluj okno które jest...</Value>
+    </Text>
+    <Text Key="C_CurveG_about">
+      <Value>Narysuj gest używając lewego przycisku myszy</Value>
+    </Text>
+    <Text Key="C_CurveG_cH_curve">
+      <Value>Kształt</Value>
+    </Text>
+    <Text Key="C_CurveG_cH_name">
+      <Value>Nazwa</Value>
+    </Text>
+    <Text Key="C_CurveG_errMouseActionInScript">
+      <Value>Skrypt zawiera zdarzenia myszy. Nie można go przypisać do gestu Kształtu.</Value>
+    </Text>
+    <Text Key="C_CurveG_errTooShortCurve">
+      <Value>Kształt jest zbyt krótki. Nie można kontynuować</Value>
+    </Text>
+    <Text Key="C_CurveG_gB_alreadyInUse">
+      <Value>Będące w użyciu</Value>
+    </Text>
+    <Text Key="C_CurveG_gB_useCurve">
+      <Value>Użyj kształtu</Value>
+    </Text>
+    <Text Key="C_CurveG_info">
+      <Value>Aby wywołać ten gest, wciśnij przycisk Przełączający i przesuń mysz poza obszar czułości w czasie poniżej czasu anulowania gestu.
+Możesz zmienić te parametry poprzez Opcje -&gt; Gesty.</Value>
+    </Text>
+    <Text Key="C_CurveG_lbl_name">
+      <Value>Nazwa</Value>
+    </Text>
+    <Text Key="C_CurveG_rB_newOne">
+      <Value>Nowy</Value>
+    </Text>
+    <Text Key="C_CurveG_rB_selected">
+      <Value>Zaznaczony</Value>
+    </Text>
+    <Text Key="C_CurveG_warnCurveGDeactivated">
+      <Value>Gesty Kształtu są aktualnie wyłączone. Możesz dodać gest, ale nie będzie on działał dopóki nie aktywujesz tego typu gestów.
+Możesz zmienic ten parametr poprzez Opcje -&gt; Gesty.</Value>
+    </Text>
+    <Text Key="C_CurveG_warnCurvesLimitReached">
+      <Value>Osiągnięto maksymalną ilość gestów Kształtu.
+Ciągle możesz jednak wybierać spośród już wyuczonych gestów.</Value>
+    </Text>
+    <Text Key="C_Email_about">
+      <Value>Wybierz adres e-mail</Value>
+    </Text>
+    <Text Key="C_Email_errInvalidFormat">
+      <Value>Podany adres nie jest poprawny.</Value>
+    </Text>
+    <Text Key="C_Email_info">
+      <Value>Wpisz adres e-mail w polu tekstowym.</Value>
+    </Text>
+    <Text Key="C_Email_lbl_mail">
+      <Value>Adres e-mail</Value>
+    </Text>
+    <Text Key="C_Gestures_cH_group">
+      <Value>Grupa</Value>
+    </Text>
+    <Text Key="C_Gestures_cH_associatedActions">
+      <Value>Przypisane akcje</Value>
+    </Text>
+    <Text Key="C_Gestures_tP_curveG">
+      <Value>Kształt</Value>
+    </Text>
+    <Text Key="C_Gestures_tP_rockerG">
+      <Value>Przycisk-Przycisk</Value>
+    </Text>
+    <Text Key="C_Gestures_tP_wheelG">
+      <Value>Rolka-Przycisk</Value>
+    </Text>
+    <Text Key="C_Name_about">
+      <Value>Wpisz nazwę akcji</Value>
+    </Text>
+    <Text Key="C_Name_cB_active">
+      <Value>Aktywny</Value>
+    </Text>
+    <Text Key="C_Name_info">
+      <Value>Więcej zdarzeń myszy może być przypisane do jednego gestu - o tym jaka i jak będzie wykonana akcja zdefiniuje priorytet:
+- pierwsza aktywna akcja z Wysokim priorytetem jest wywoływana natychmiast,
+- w przeciwnym wypadku pokazywane jest menu kontekstowe wszystkich akcji,
+- pojedyncza akcja z Normalnym priorytetem jest wywoływana automatycznie,
+- menu kontekstowe jest wyświetlane kiedy tylko jedna akcja z Niskim priorytetem jest aktywna.</Value>
+    </Text>
+    <Text Key="C_Name_info_highPriorityOnly">
+      <Value>Skrypt zawierający zdarzenia myszy i rodzaj gestu Rolka-Przycisk, ma zawsze Wysoki priorytet.</Value>
+    </Text>
+    <Text Key="C_Name_lbl_name">
+      <Value>Nazwa</Value>
+    </Text>
+    <Text Key="C_Name_lbl_priority">
+      <Value>Priorytet</Value>
+    </Text>
+    <Text Key="C_Name_lbl_uncheckToDeactivate">
+      <Value>(Odznacz jeśli nie chcesz, aby gest był aktywny)</Value>
+    </Text>
+    <Text Key="C_OpenFldr_about">
+      <Value>Wybierz położenie folderu</Value>
+    </Text>
+    <Text Key="C_OpenFldr_lbl_folder">
+      <Value>Ścieżka do folderu</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_btn_browse">
+      <Value>Przeglądaj</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleMaximized">
+      <Value>Zmaksymalizowanej</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleMinimized">
+      <Value>Zinimalizowanej</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleNormal">
+      <Value>Normalnej</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_lbl_windowStyle">
+      <Value>Otwórz okno w postaci</Value>
+    </Text>
+    <Text Key="C_OpenPrg_errFolderNotExists">
+      <Value>Wpisana ścieżka nie istnieje.</Value>
+    </Text>
+    <Text Key="C_OpenPrg_info">
+      <Value>Wybierz ścieżkę do folderu poprzez przycisk Przeglądaj, lub wpisz ścieżkę w polu tekstowym.</Value>
+    </Text>
+    <Text Key="C_OpenWeb_about">
+      <Value>Wybierz adres URL</Value>
+    </Text>
+    <Text Key="C_OpenWeb_errInvalidFormat">
+      <Value>Adres ma niepoprawny format.
+Adres musi się zaczynać od 'http://', 'https://' lub 'ftp://'. </Value>
+    </Text>
+    <Text Key="C_OpenWeb_info">
+      <Value>Wpisz adres URL w polu tekstowym.
+Adres musi się zaczynać od  'http://', 'https://' lub 'ftp://'. 
+Pobranie ikony wymaga aktywnego połączenia z Internetem.</Value>
+    </Text>
+    <Text Key="C_OpenWeb_lbl_webUrl">
+      <Value>Adres URL</Value>
+    </Text>
+    <Text Key="C_PC_about">
+      <Value>Wybierz schowek</Value>
+    </Text>
+    <Text Key="C_PC_info">
+      <Value>Kopiuje zaznaczony tekst do schowka systemowegoi przechowuje go w schowku prywatnym.</Value>
+    </Text>
+    <Text Key="C_PC_lbl_copyTo">
+      <Value>Kopiuj tekst do</Value>
+    </Text>
+    <Text Key="C_PC_PP_cBI_privateClipboard">
+      <Value>Schowek prywatny {0} ({1})</Value>
+    </Text>
+    <Text Key="C_PC_PP_info">
+      <Value>WOLNY - wolna pozycja
+KOPIUJ - schowek jest już przypisany do gestu Kopiuj
+WKLEJ - schowek jest już przypisany do gestu Wklej</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixCopy">
+      <Value>KOPIUJ</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixCopyPaste">
+      <Value>KOPIUJ I WKLEJ</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixFree">
+      <Value>WOLNY</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixPaste">
+      <Value>WKLEJ</Value>
+    </Text>
+    <Text Key="C_PlainTxt_about">
+      <Value>Wybierz tekst do wstawienia</Value>
+    </Text>
+    <Text Key="C_PlainTxt_info">
+      <Value>Wstawia cały tekst na raz.
+Wstawianie tekstu nie modyfikuje zawartości schowka systemowego.</Value>
+    </Text>
+    <Text Key="C_PP_about">
+      <Value />
+    </Text>
+    <Text Key="C_PP_info">
+      <Value>Kopiuje tekst ze schowka prywatnego do systemowego i wkleja go.</Value>
+    </Text>
+    <Text Key="C_PP_lbl_pasteFrom">
+      <Value>Wklej tekst z</Value>
+    </Text>
+    <Text Key="C_RockerG_about">
+      <Value>Wybierz przyciski: Przełączający i Aktywujący</Value>
+    </Text>
+    <Text Key="C_RockerG_clickExecuteBtn">
+      <Value>2) Kliknij, aby wywołać akcję</Value>
+    </Text>
+    <Text Key="C_RockerG_errSameHoldAndExecuteBtn">
+      <Value>Przyciski Przełączający i Aktywujący nie mogą być takie same.</Value>
+    </Text>
+    <Text Key="C_RockerG_info">
+      <Value />
+    </Text>
+    <Text Key="C_RockerG_notes">
+      <Value>Uwaga:
+- Przytrzymaj przycisk Aktywujący, aby wyświetlić powiadomienie
+- Puść przycisk przełączający, aby anulować gest</Value>
+    </Text>
+    <Text Key="C_RockerG_pushHoldBtn">
+      <Value>1) Wciśnij i przytrzymaj ten przycisk</Value>
+    </Text>
+    <Text Key="C_RockerG_warnRockerGDeactivated">
+      <Value />
+    </Text>
+    <Text Key="C_SearchOpenWeb_btn_getIcon">
+      <Value>Pobierz ikonę z Internetu</Value>
+    </Text>
+    <Text Key="C_SearchOpenWeb_lbl_icon">
+      <Value>Ikona</Value>
+    </Text>
+    <Text Key="C_SearchWeb_about">
+      <Value>Szukaj za pomocą wybranego, własnego adresu URL</Value>
+    </Text>
+    <Text Key="C_SearchWeb_errInvalidFormat">
+      <Value>Adres URL ma niepoprawny format.
+Adres musi się zaczynać od "http://", "https://" lub "ftp://" i musi zawierać ciąg (*).</Value>
+    </Text>
+    <Text Key="C_SearchWeb_info">
+      <Value />
+    </Text>
+    <Text Key="C_SearchWeb_lbl_searchUrl">
+      <Value>Adres URL</Value>
+    </Text>
+    <Text Key="C_SelectApp_about">
+      <Value>Stwórz grupę programów dla gestów</Value>
+    </Text>
+    <Text Key="C_SelectApp_btn_browse">
+      <Value>Przeglądaj</Value>
+    </Text>
+    <Text Key="C_SelectApp_cB_active">
+      <Value>Aktywny</Value>
+    </Text>
+    <Text Key="C_SelectApp_info">
+      <Value />
+    </Text>
+    <Text Key="C_SelectApp_lbl_icon">
+      <Value>Ikona</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_name">
+      <Value>Nazwa</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_path">
+      <Value>Ścieżka do pliku</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_uncheckToDeactivate">
+      <Value>(Odznacz, jeżeli nie checsz, aby grupa była aktywna. )</Value>
+    </Text>
+    <Text Key="C_StartPrg_about">
+      <Value>Wybierz ścieżkę do aplikacji</Value>
+    </Text>
+    <Text Key="C_StartPrg_errProgramNotExists">
+      <Value>Podana ścieżka do programu nie jest poprawna.</Value>
+    </Text>
+    <Text Key="C_StartPrg_info">
+      <Value />
+    </Text>
+    <Text Key="C_StartPrg_lbl_cmdArguments">
+      <Value>Argumenty linii komend</Value>
+    </Text>
+    <Text Key="C_StartPrg_lbl_icon">
+      <Value>Ikona</Value>
+    </Text>
+    <Text Key="C_StartPrg_lbl_path">
+      <Value>Ścieżka do pliku</Value>
+    </Text>
+    <Text Key="C_WheelG_about">
+      <Value>Wybierz przycisk Przełączający</Value>
+    </Text>
+    <Text Key="C_WheelG_info">
+      <Value />
+    </Text>
+    <Text Key="C_WheelG_pushHoldBtn">
+      <Value>1) Wciśnij i przytrzymaj ten przycisk</Value>
+    </Text>
+    <Text Key="C_WheelG_releaseHoldBtn">
+      <Value>3) Puść przycisk Przełączający</Value>
+    </Text>
+    <Text Key="C_WheelG_scrollWithWheel">
+      <Value>2) Kręć rolką w górę lub w dół, aby wykonać odpowiedni skrypt/akcję.</Value>
+    </Text>
+    <Text Key="C_WheelG_warnWheelGDeactivated">
+      <Value />
+    </Text>
+    <Text Key="C_WK_about">
+      <Value>Stwórz własny skrypt przycisków</Value>
+    </Text>
+    <Text Key="C_WK_cH_holdBtn_down">
+      <Value>Pozostaw wciśnięty</Value>
+    </Text>
+    <Text Key="C_WK_cH_holdBtn_up">
+      <Value>Pozostaw puszczony</Value>
+    </Text>
+    <Text Key="C_WK_cH_wheelMove_down">
+      <Value>Kręć w dół</Value>
+    </Text>
+    <Text Key="C_WK_cH_wheelMove_up">
+      <Value>Kręć w górę</Value>
+    </Text>
+    <Text Key="C_WK_info">
+      <Value />
+    </Text>
+    <Text Key="extras_custom_wheel_btn">
+      <Value>Własny skrypt Rolka-Przycisk</Value>
+    </Text>
+    <Text Key="extras_name">
+      <Value>Akcje Rolka -Przycisk</Value>
+    </Text>
+    <Text Key="extras_tab_switch">
+      <Value>Przełączanie między kartami</Value>
+    </Text>
+    <Text Key="extras_task_switch">
+      <Value>Przełączanie między programami</Value>
+    </Text>
+    <Text Key="extras_transparency">
+      <Value>Poziom przezroczystości</Value>
+    </Text>
+    <Text Key="extras_volume">
+      <Value>Steruj głośnością</Value>
+    </Text>
+    <Text Key="extras_zoom">
+      <Value>Powiększ</Value>
+    </Text>
+    <Text Key="I_errorCaption">
+      <Value>Błąd</Value>
+    </Text>
+    <Text Key="I_infoCaption">
+      <Value>Informacja</Value>
+    </Text>
+    <Text Key="I_warningCaption">
+      <Value>Ostrzeżenie</Value>
+    </Text>
+    <Text Key="internet_name">
+      <Value>Opcje Internetu</Value>
+    </Text>
+    <Text Key="internet_open_web">
+      <Value>Otwórz stronę internetową</Value>
+    </Text>
+    <Text Key="internet_page_back">
+      <Value>Wstecz</Value>
+    </Text>
+    <Text Key="internet_page_home">
+      <Value>Strona domowa</Value>
+    </Text>
+    <Text Key="internet_page_next">
+      <Value>Dalej</Value>
+    </Text>
+    <Text Key="internet_page_reload">
+      <Value>Odśwież</Value>
+    </Text>
+    <Text Key="internet_page_stop">
+      <Value>Zatrzymaj</Value>
+    </Text>
+    <Text Key="internet_search_web">
+      <Value>Szukaj w Internecie</Value>
+    </Text>
+    <Text Key="internet_send_email">
+      <Value>Wyślij e-mail</Value>
+    </Text>
+    <Text Key="internet_tab_close">
+      <Value>Zamknij kartę</Value>
+    </Text>
+    <Text Key="internet_tab_new">
+      <Value>Nowa karta</Value>
+    </Text>
+    <Text Key="internet_tab_reopen">
+      <Value>Otwórz ostatnio zamkniętą kartę</Value>
+    </Text>
+    <Text Key="keystrokes_custom">
+      <Value>Własna kombinacja klawiszy</Value>
+    </Text>
+    <Text Key="keystrokes_name">
+      <Value>Wyślij kombinację klawiszy</Value>
+    </Text>
+    <Text Key="keystrokes_plain_text">
+      <Value>Wstaw czysty tekst</Value>
+    </Text>
+    <Text Key="keystrokes_private_copy_text">
+      <Value>Kopiuj do schowka prywatnego</Value>
+    </Text>
+    <Text Key="keystrokes_private_paste_text">
+      <Value>Wklej ze schowka prywatnego</Value>
+    </Text>
+    <Text Key="keystrokes_system_copy">
+      <Value>Kopiuj</Value>
+    </Text>
+    <Text Key="keystrokes_system_cut">
+      <Value>Wytnij</Value>
+    </Text>
+    <Text Key="keystrokes_system_paste">
+      <Value>Wklej</Value>
+    </Text>
+    <Text Key="keystrokes_zoom_in">
+      <Value>Powiększ</Value>
+    </Text>
+    <Text Key="keystrokes_zoom_out">
+      <Value>Pomniejsz</Value>
+    </Text>
+    <Text Key="media_name">
+      <Value>Media</Value>
+    </Text>
+    <Text Key="media_next">
+      <Value>Następny utwór</Value>
+    </Text>
+    <Text Key="media_pause">
+      <Value>Pauza</Value>
+    </Text>
+    <Text Key="media_play">
+      <Value>Odtwórz</Value>
+    </Text>
+    <Text Key="media_prev">
+      <Value>Poprzedni utwór</Value>
+    </Text>
+    <Text Key="media_stop">
+      <Value>Zatrzymaj</Value>
+    </Text>
+    <Text Key="MG_msgText_validProps">
+      <Value>Musisz poprawnie zdefeiniować właściwości.</Value>
+    </Text>
+    <Text Key="MG_multiple">
+      <Value>Modyfikuj wiele gestów</Value>
+    </Text>
+    <Text Key="MG_tP_application">
+      <Value>Program</Value>
+    </Text>
+    <Text Key="MG_tP_customKeystrokes">
+      <Value>Własna kombinacja przycisków</Value>
+    </Text>
+    <Text Key="MG_tP_folder">
+      <Value>Folder</Value>
+    </Text>
+    <Text Key="MG_tP_gesture">
+      <Value>Gest</Value>
+    </Text>
+    <Text Key="MG_tP_mail">
+      <Value>E-mail</Value>
+    </Text>
+    <Text Key="MG_tP_name">
+      <Value>Nazwa</Value>
+    </Text>
+    <Text Key="MG_tP_plainText">
+      <Value>Czysty tekst</Value>
+    </Text>
+    <Text Key="MG_tP_privateClipboard">
+      <Value>Schowek prywatny</Value>
+    </Text>
+    <Text Key="MG_tP_program">
+      <Value>Program</Value>
+    </Text>
+    <Text Key="MG_tP_url">
+      <Value>Adres URL</Value>
+    </Text>
+    <Text Key="MW_cH_description">
+      <Value>Opis</Value>
+    </Text>
+    <Text Key="MW_cH_name">
+      <Value>Nazwa</Value>
+    </Text>
+    <Text Key="MW_cH_associatedActions">
+      <Value>Przypisane akcje</Value>
+    </Text>
+    <Text Key="MW_cH_priority">
+      <Value>Priorytet</Value>
+    </Text>
+    <Text Key="MW_cMI_activate">
+      <Value>Aktywuj</Value>
+    </Text>
+    <Text Key="MW_cMI_addGesture">
+      <Value>Dodaj nowy gest do</Value>
+    </Text>
+    <Text Key="MW_cMI_copyGesture">
+      <Value>Kopiuj {0} do</Value>
+    </Text>
+    <Text Key="MW_cMI_copyMultiple">
+      <Value>Kopiuj zaznaczone gesty do</Value>
+    </Text>
+    <Text Key="MW_cMI_deactivate">
+      <Value>Deaktywuj</Value>
+    </Text>
+    <Text Key="MW_cMI_changePriority">
+      <Value>Zmień priorytet</Value>
+    </Text>
+    <Text Key="MW_msgText_deleteGesture">
+      <Value>Czy na pewno chcesz usunąć {0}?</Value>
+    </Text>
+    <Text Key="MW_msgText_deleteMultiple">
+      <Value>Czy na pewno chcesz usunąć zaznaczone gesty?</Value>
+    </Text>
+    <Text Key="MW_msgText_errCantDelGlobal">
+      <Value>Nie możesz usunąć grupy Gestów Globalnych</Value>
+    </Text>
+    <Text Key="MW_msgText_errNotEmptyGroup">
+      <Value>Możesz usunąć tylko pustą grupę, lub razem ze wszyskimi elementami.</Value>
+    </Text>
+    <Text Key="MW_sMI_exit">
+      <Value>Zamknij</Value>
+    </Text>
+    <Text Key="MW_tSB_about">
+      <Value>O programie...</Value>
+    </Text>
+    <Text Key="MW_tSB_addGesture">
+      <Value>Dodaj gest</Value>
+    </Text>
+    <Text Key="MW_tSB_addGroup">
+      <Value>Dodaj grupę programów</Value>
+    </Text>
+    <Text Key="MW_tSB_delete">
+      <Value>Usuń</Value>
+    </Text>
+    <Text Key="MW_tSB_modify">
+      <Value>Zmień</Value>
+    </Text>
+    <Text Key="MW_tSB_options">
+      <Value>Opcje</Value>
+    </Text>
+    <Text Key="MW_tSB_viewActions">
+      <Value>Pokaż akcje</Value>
+    </Text>
+    <Text Key="MW_tSB_viewGestures">
+      <Value>Pokaż gesty</Value>
+    </Text>
+    <Text Key="MW_tT_displayGesture">
+      <Value>Gest
+(kliknij, aby wyświetlić animację)</Value>
+    </Text>
+    <Text Key="MW_tT_macthedGestures">
+      <Value>Lista akcji  przypisanych do tego samego gestu
+(przeciągnij i upuść, aby zmienic kolejność)</Value>
+    </Text>
+    <Text Key="Name_CurveGesture">
+      <Value>Kształt</Value>
+    </Text>
+    <Text Key="Name_CurveHoldDownBtn">
+      <Value>Przycisk przełączający</Value>
+    </Text>
+    <Text Key="Name_highPriority">
+      <Value>Wysoki</Value>
+    </Text>
+    <Text Key="Name_leftButton">
+      <Value>Lewy</Value>
+    </Text>
+    <Text Key="Name_lowPriority">
+      <Value>Niski</Value>
+    </Text>
+    <Text Key="Name_middleButton">
+      <Value>Środkowy</Value>
+    </Text>
+    <Text Key="Name_mouseWheel">
+      <Value>Rolka</Value>
+    </Text>
+    <Text Key="Name_normalPriority">
+      <Value>Normalny</Value>
+    </Text>
+    <Text Key="Name_rightButton">
+      <Value>Prawy</Value>
+    </Text>
+    <Text Key="Name_RockerExecuteBtn">
+      <Value>Przycisk Aktywujący</Value>
+    </Text>
+    <Text Key="Name_RockerGesture">
+      <Value>Kombinacja Przycisk-Przycisk</Value>
+    </Text>
+    <Text Key="Name_RockerHoldDownBtn">
+      <Value>Przycisk przełączający</Value>
+    </Text>
+    <Text Key="Name_WheelGesture">
+      <Value>Kombinacja Rolka-Przycisk</Value>
+    </Text>
+    <Text Key="Name_WheelHoldDownBtn">
+      <Value>Przycisk przełączający</Value>
+    </Text>
+    <Text Key="Name_x1Button">
+      <Value>Przycisk boczny 1</Value>
+    </Text>
+    <Text Key="Name_x2Button">
+      <Value>Przycisk boczny 2</Value>
+    </Text>
+    <Text Key="O_A_cH_appState">
+      <Value>Stan aplikacji</Value>
+    </Text>
+    <Text Key="O_AB_blackList">
+      <Value>Czarna list</Value>
+    </Text>
+    <Text Key="O_AB_caption">
+      <Value>Automatyczna aktywacja/deaktywacja</Value>
+    </Text>
+    <Text Key="O_AB_cBI_autoDisable">
+      <Value>Autodeaktywacja</Value>
+    </Text>
+    <Text Key="O_AB_cBI_autoEnable">
+      <Value>Autoaktywacja</Value>
+    </Text>
+    <Text Key="O_AB_cBI_none">
+      <Value>(żaden)</Value>
+    </Text>
+    <Text Key="O_AB_cH_appState">
+      <Value>Stan aplikacji</Value>
+    </Text>
+    <Text Key="O_AB_cH_name">
+      <Value>Nazwa</Value>
+    </Text>
+    <Text Key="O_AB_cH_path">
+      <Value>Ścieżka</Value>
+    </Text>
+    <Text Key="O_AB_gB_conditions">
+      <Value>Warunki</Value>
+    </Text>
+    <Text Key="O_AB_gB_finalList">
+      <Value>Lista końcowa</Value>
+    </Text>
+    <Text Key="O_AB_info">
+      <Value />
+    </Text>
+    <Text Key="O_AB_lbl_1AutoState">
+      <Value>1. Stan Automatyczny</Value>
+    </Text>
+    <Text Key="O_AB_lbl_2AutoState">
+      <Value>2. Stan automatyczny</Value>
+    </Text>
+    <Text Key="O_AB_lbl_autocheck">
+      <Value>Sprawdzaj automatycznie (w ms)</Value>
+    </Text>
+    <Text Key="O_AB_lbl_defaultState">
+      <Value>Stan Domyślny</Value>
+    </Text>
+    <Text Key="O_AB_lbl_fullscreenState">
+      <Value>Pełny ekran</Value>
+    </Text>
+    <Text Key="O_AB_name">
+      <Value>Tryb Automatyczny</Value>
+    </Text>
+    <Text Key="O_AB_rTB_description">
+      <Value />
+    </Text>
+    <Text Key="O_AB_whiteList">
+      <Value>Biała lista</Value>
+    </Text>
+    <Text Key="O_BL_caption">
+      <Value>Konfiguruj czarną listę</Value>
+    </Text>
+    <Text Key="O_BL_info">
+      <Value>Lista programów, króre deaktuwują aplikację, gdy któryś z nich zostanie aktywowany.</Value>
+    </Text>
+    <Text Key="O_BL_name">
+      <Value>Czarna lista</Value>
+    </Text>
+    <Text Key="O_BW_btn_add">
+      <Value>Dodaj</Value>
+    </Text>
+    <Text Key="O_BW_btn_remove">
+      <Value>Usuń zaznaczone</Value>
+    </Text>
+    <Text Key="O_BW_cH_name">
+      <Value>Nazwa</Value>
+    </Text>
+    <Text Key="O_BW_cH_path">
+      <Value>Ścieżka</Value>
+    </Text>
+    <Text Key="O_caption">
+      <Value>Opcje</Value>
+    </Text>
+    <Text Key="O_General_caption">
+      <Value>Ustawienia ogólne</Value>
+    </Text>
+    <Text Key="O_General_cB_autobehave">
+      <Value>Startuj w Trybie Automatycznym</Value>
+    </Text>
+    <Text Key="O_General_cB_closeToTray">
+      <Value>Zamknięcie minimalizuje do obszaru powiadomień</Value>
+    </Text>
+    <Text Key="O_General_cB_checkUpdate">
+      <Value>Sprawdź dostępność aktualizacji</Value>
+    </Text>
+    <Text Key="O_General_cB_minToTray">
+      <Value>Minimalizacja minimalizuje do obszaru powiadomień</Value>
+    </Text>
+    <Text Key="O_General_cB_startMinimized">
+      <Value>Uruchamiaj w postaci zminimalizowanej</Value>
+    </Text>
+    <Text Key="O_General_cB_startUp">
+      <Value>Startuj razem z Windows</Value>
+    </Text>
+    <Text Key="O_General_gB_localization">
+      <Value>Ustawienia językowe</Value>
+    </Text>
+    <Text Key="O_General_gB_startUpSettings">
+      <Value>Uruchamianie</Value>
+    </Text>
+    <Text Key="O_General_gB_systemTraySettings">
+      <Value>Obszar powiadomień</Value>
+    </Text>
+    <Text Key="O_General_info">
+      <Value>Stan aplikacji i Tryb Automatyczny są stosowane podczas startu aplikacji.</Value>
+    </Text>
+    <Text Key="O_General_lbl_changeLanguage">
+      <Value>Zmień język interfesju</Value>
+    </Text>
+    <Text Key="O_General_name">
+      <Value>Ogólne</Value>
+    </Text>
+    <Text Key="O_Gestures_btn_wizard">
+      <Value>Uruchom kreator</Value>
+    </Text>
+    <Text Key="O_Gestures_caption">
+      <Value>Ustawienia gestów</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_disabled">
+      <Value>Wyłączony</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_enabled">
+      <Value>Włączony</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_inForeground">
+      <Value>na pierwszym planie</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_off">
+      <Value>Brak (0)</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_underCursor">
+      <Value>pod kursorem</Value>
+    </Text>
+    <Text Key="O_Gestures_gB_activation">
+      <Value>Aktywacja</Value>
+    </Text>
+    <Text Key="O_Gestures_gB_gestureTypes">
+      <Value>Rodzaje gestów</Value>
+    </Text>
+    <Text Key="O_Gestures_info">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_lbl_deactivationTimeout">
+      <Value>Opóźnienie anulowania gestu</Value>
+    </Text>
+    <Text Key="O_Gestures_lbl_sensitiveZone">
+      <Value>Obszar czułości w pikselach</Value>
+    </Text>
+    <Text Key="O_Gestures_lbl_typeOfWnd">
+      <Value>Kontroluj program, który jest</Value>
+    </Text>
+    <Text Key="O_Gestures_name">
+      <Value>Gesty</Value>
+    </Text>
+    <Text Key="O_V_caption">
+      <Value>Wizualizacja gestu</Value>
+    </Text>
+    <Text Key="O_V_cB_showGesture">
+      <Value>Wyświetlaj ślad gestu</Value>
+    </Text>
+    <Text Key="O_V_cB_showToolTip">
+      <Value>Pokazuj dymek podczas wykonywania gestu</Value>
+    </Text>
+    <Text Key="O_V_gB_graphics">
+      <Value>Wyświetlanie</Value>
+    </Text>
+    <Text Key="O_V_gB_toolTipForGestures">
+      <Value>Dymek rozpoznania gestu</Value>
+    </Text>
+    <Text Key="O_V_info">
+      <Value />
+    </Text>
+    <Text Key="O_V_lbl_color">
+      <Value>Kolor</Value>
+    </Text>
+    <Text Key="O_V_lbl_toolTipDelay">
+      <Value>Opóźnienie dymku w milisekundach</Value>
+    </Text>
+    <Text Key="O_V_lbl_width">
+      <Value>Szerokość</Value>
+    </Text>
+    <Text Key="O_V_name">
+      <Value>Wizualizacja</Value>
+    </Text>
+    <Text Key="O_WL_caption">
+      <Value>Konfiguruj białą listę</Value>
+    </Text>
+    <Text Key="O_WL_info">
+      <Value>Lista programów, które aktywują aplikację, gdy którykolwiek z nich będzie aktywny.</Value>
+    </Text>
+    <Text Key="O_WL_name">
+      <Value>Biała lista</Value>
+    </Text>
+    <Text Key="shell_dialog">
+      <Value>Wyświetl okno dialogowe zamykania systemu</Value>
+    </Text>
+    <Text Key="shell_hibernate">
+      <Value>Hibernuj</Value>
+    </Text>
+    <Text Key="shell_lock">
+      <Value>Zablokuj</Value>
+    </Text>
+    <Text Key="shell_log_off">
+      <Value>Wyloguj</Value>
+    </Text>
+    <Text Key="shell_name">
+      <Value>Opcje systemowe</Value>
+    </Text>
+    <Text Key="shell_open_fldr">
+      <Value>Otwórz folder</Value>
+    </Text>
+    <Text Key="shell_open_web">
+      <Value>Otwórz stronę internetową</Value>
+    </Text>
+    <Text Key="shell_restart">
+      <Value>Restartuj</Value>
+    </Text>
+    <Text Key="shell_send_mail">
+      <Value>Wyślij e-mail</Value>
+    </Text>
+    <Text Key="shell_show_desktop">
+      <Value>Pokaż pulpit/Przywróć</Value>
+    </Text>
+    <Text Key="shell_shut_down">
+      <Value>Zamknij</Value>
+    </Text>
+    <Text Key="shell_sleep">
+      <Value>Uśpij</Value>
+    </Text>
+    <Text Key="shell_start_prg">
+      <Value>Uruchom program</Value>
+    </Text>
+    <Text Key="ST_tSMI_autobehave_off">
+      <Value />
+    </Text>
+    <Text Key="ST_tSMI_autobehave_on">
+      <Value />
+    </Text>
+    <Text Key="ST_tSMI_disable">
+      <Value>Wyłącz</Value>
+    </Text>
+    <Text Key="ST_tSMI_enable">
+      <Value>Włącz</Value>
+    </Text>
+    <Text Key="ST_tSMI_show">
+      <Value>Pokaż</Value>
+    </Text>
+    <Text Key="ST_tT_autobehave">
+      <Value />
+    </Text>
+    <Text Key="ST_tT_disabled">
+      <Value>Wyłaczony</Value>
+    </Text>
+    <Text Key="ST_tT_learning">
+      <Value>Nauka gestów</Value>
+    </Text>
+    <Text Key="U_btn_download">
+      <Value>Ściągnij teraz!</Value>
+    </Text>
+    <Text Key="U_caption">
+      <Value>Just Gestures - nowa wersja!</Value>
+    </Text>
+    <Text Key="U_lbl_features">
+      <Value>Możliwości:</Value>
+    </Text>
+    <Text Key="U_lbl_newUpdate">
+      <Value>Dostępna jest nowa wersja!</Value>
+    </Text>
+    <Text Key="U_lbl_version">
+      <Value>Wersja:</Value>
+    </Text>
+    <Text Key="Unknown_gesture">
+      <Value>[Nieznany]</Value>
+    </Text>
+    <Text Key="volume_down">
+      <Value>Przycisz</Value>
+    </Text>
+    <Text Key="volume_mute">
+      <Value>Wycisz</Value>
+    </Text>
+    <Text Key="volume_name">
+      <Value>Opcje głośności</Value>
+    </Text>
+    <Text Key="volume_set">
+      <Value>Ustaw poziom głośności</Value>
+    </Text>
+    <Text Key="volume_up">
+      <Value>Podgłośnij</Value>
+    </Text>
+    <Text Key="W_A_caption">
+      <Value>Ustawienia aktywacji gestu</Value>
+    </Text>
+    <Text Key="W_A_controlPrgDescription">
+      <Value />
+    </Text>
+    <Text Key="W_A_gB_gestureActivation">
+      <Value>Aktywacja gestu</Value>
+    </Text>
+    <Text Key="W_A_info">
+      <Value>Wszystkie wartości moga być zmienione póżniej poprzez Opcje -&gt; Gesty.</Value>
+    </Text>
+    <Text Key="W_A_zoneTimeoutDescription">
+      <Value />
+    </Text>
+    <Text Key="W_caption">
+      <Value>Kreator</Value>
+    </Text>
+    <Text Key="W_CC_caption">
+      <Value>Rodzaj gestu - Kształt</Value>
+    </Text>
+    <Text Key="W_CC_description">
+      <Value />
+    </Text>
+    <Text Key="W_CC_info">
+      <Value>- Odznacz gest jeśli nie chcesz go używać, a program będzie ignorował ten gest.
+- Strefa czułości i czas anulowania można ustawić na końcu działania kreatora.</Value>
+    </Text>
+    <Text Key="W_CC_instructions">
+      <Value>Przytrzymaj przycisk Przełączający, przesuwaj mysz w określonych kierunkach (rysując określony kształt), a następnie puść przycisk Przełączający.</Value>
+    </Text>
+    <Text Key="W_DB_caption">
+      <Value>Rodzaj gestu - kombinacja Przycisk-Przycisk</Value>
+    </Text>
+    <Text Key="W_DB_description">
+      <Value>- Aby wywołać akcję, kliknij przycisk Aktywujący podczas trzymania przycisku Przełączającego, w czasie poniżej czasu anulowania gestu, nieprzesuwając myszy poza strefę czułości gestu.
+
+- Gest Przycisk-Przycisk jest wywoływany po kliknięciu przycisku Aktywującego, po tym można przesunąć mysz poza strefę czułości gestu.
+
+- Przytrzymaj przycisk Aktywujący, aby wyświetlic dymek z nazwą rozpoznanego gestu.
+
+- Nie puszczaj przycisku Przełączającego po kliknięciu przycisku Aktywującego, a będziesz mógł aktywować kolejny gest (z tym samym przyciskiem Przełączającym) poprzez kliknięcie innego przycisku aktywującego.
+
+- Kiedy przyciski: Aktywujący i Przełączający są wciśnięte, puść najpierw przycisk Przełączający, aby anulować gest. W takim przypadku przycisk Aktywujący staje się przyciskiem Przełączającym, co oznacza, że nadal możesz wykonać gest Przycisk-Przycisk poprzez kliknięcie innego przycisku Aktywującego.
+
+- Wszystkie akcje (oprócz skryptów zawierających zdarzenia myszy) przypisane do kombinacji Przycisk-Przycisk mogą być zamienione na gesty Kształtów.
+
+Uwaga: Jeżeli przytrzymasz przycisk Przełączający w strefie czułości gestu, powyżej czasu anulowania, przycisk Przełączający będzie działał normalnie.</Value>
+    </Text>
+    <Text Key="W_DB_info">
+      <Value>- Odznacz gest jeśli nie chcesz go używać, a program będzie ignorował ten gest.
+- Strefa czułości i czas anulowania można ustawić na końcu działania kreatora.</Value>
+    </Text>
+    <Text Key="W_DB_instructions">
+      <Value>Kliknij przycisk aktywujący podczas trzymania przycisku przełączającego.</Value>
+    </Text>
+    <Text Key="W_G_gB_activation">
+      <Value>Aktywacja</Value>
+    </Text>
+    <Text Key="W_G_gB_description">
+      <Value>Opis</Value>
+    </Text>
+    <Text Key="W_G_gB_gesture">
+      <Value>Gest</Value>
+    </Text>
+    <Text Key="W_G_gB_preview">
+      <Value>Podgląd (Przykład)</Value>
+    </Text>
+    <Text Key="W_G_lbl_and">
+      <Value>i</Value>
+    </Text>
+    <Text Key="W_G_lbl_instructions">
+      <Value>Instrukcje:</Value>
+    </Text>
+    <Text Key="W_G_lbl_mouseMovement">
+      <Value>Ruch myszy</Value>
+    </Text>
+    <Text Key="W_G_tT_animation">
+      <Value>Kliknij, aby pokazać animację gestu.</Value>
+    </Text>
+    <Text Key="W_page">
+      <Value>Strona:</Value>
+    </Text>
+    <Text Key="W_W_caption">
+      <Value>Just Gestures - Witamy</Value>
+    </Text>
+    <Text Key="W_W_info">
+      <Value>- Ten dymek pokazuje użyteczne informacje o aktualnie wyświetlanej stronie.
+- Tłumaczy działanie niektórych funkcji, wyświetla wskazówki, ostrzeżenia i komunikaty o błędach.
+- Aby wyświetlić ten dymek, najedź myszą na ikonę "Info".
+- Przesuń mysz poza obszar dymku, lub kliknij na nim, aby go ukryć.</Value>
+    </Text>
+    <Text Key="W_W_introCaption">
+      <Value>Zamierzasz użyć programu do rozszerzenia możliwości wykorzystania myszy - Just Gestures.</Value>
+    </Text>
+    <Text Key="W_W_introDescription">
+      <Value>Ten kreator pomoże Ci skonfigurować i zrozumieć wykorzystanie gestów myszy i pewnych użytecznych funkcji. Proszę, poświęć chwilę, aby zapoznać się z tymi podstawowymi ustawnieniami.
+
+
+Uwaga:
+- Przesuń mysz ponad ikonę "Info" w lewym, dolnym rogu okna. Zobaczysz przydatne informacje o wyświetlanej stronie.</Value>
+    </Text>
+    <Text Key="W_WB_caption">
+      <Value>Rodzaj gestu - kombinacja Rolka-Przycisk</Value>
+    </Text>
+    <Text Key="W_WB_description">
+      <Value>- Aby wywołać akcję, kręć rolką myszy podczas trzymania Przycisku przełączającego, w czasie poniżej czasu anulowania gestu, nieprzesuwając myszy poza strefę czułości gestu.
+
+- Gest Rolka-Przycisk jest aktywowany kręceniem rolki, po tym można przesunąć mysz poza strefę czułości gestu.
+
+- Gest Rolka-Przycisk automatycznie wykonuje akcję i nie powoduje wyświetlenia dymku o rozpoznaniu gestu.
+
+Uwaga: Jeżeli przytrzymasz Przycisk przełączający w strefie czułości gestu, powyżej czasu anulowania, Przycisk 1 będzie działał normalnie.</Value>
+    </Text>
+    <Text Key="W_WB_info">
+      <Value>- Odznacz gest jeśli nie chcesz go używać, a program będzie ignorował ten gest.
+- Strefa czułości i czas anulowania można ustawić na końcu działania kreatora.</Value>
+    </Text>
+    <Text Key="W_WB_instructions">
+      <Value>Kręć rolką podczas trzymania Przycisku przełączającego, następnie puść ten przycisk.</Value>
+    </Text>
+    <Text Key="window_close">
+      <Value>Zamknij okno</Value>
+    </Text>
+    <Text Key="window_close_all">
+      <Value>Zamknij wszystkie okna</Value>
+    </Text>
+    <Text Key="window_fullscreen">
+      <Value>Pokaż na pełnym ekranie/Przywróć</Value>
+    </Text>
+    <Text Key="window_max">
+      <Value>Maksymalizuj/Przywróć okno</Value>
+    </Text>
+    <Text Key="window_min">
+      <Value>Minimalizuj okno</Value>
+    </Text>
+    <Text Key="window_min_all">
+      <Value>Minimalizuj wszystkie okna/Przywróć</Value>
+    </Text>
+    <Text Key="window_min_totray">
+      <Value>Minimalizuj do obszaru powiadomień</Value>
+    </Text>
+    <Text Key="window_name">
+      <Value>Opcje okien</Value>
+    </Text>
+    <Text Key="window_show_side_by_side">
+      <Value>Ułóż okna sąsiadująco w pionie</Value>
+    </Text>
+    <Text Key="window_show_vertically">
+      <Value>Ułóż okna sąsiadująco w poziomie</Value>
+    </Text>
+    <Text Key="window_topmost">
+      <Value>Przenieś na wierzch/Przywróć</Value>
+    </Text>
+    <Text Key="window_transparent">
+      <Value>Ustaw przezroczystość okna</Value>
+    </Text>
+  </TranslatedText>
+</Translation>

@@ -1,0 +1,1175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translation>
+  <Version>1.1.1</Version>
+  <Language InEnglish="Slovak">Slovenský</Language>
+  <TranslatedText>
+    <Text Key="A_btn_checkUpdate">
+      <Value>Skontrolovať aktualizáciu</Value>
+    </Text>
+    <Text Key="A_caption">
+      <Value>O Aplikácii</Value>
+    </Text>
+    <Text Key="A_lbl_createdBy">
+      <Value>Autor</Value>
+    </Text>
+    <Text Key="A_msgCaption_uptodate">
+      <Value>Aktualizácia</Value>
+    </Text>
+    <Text Key="A_msgText_uptodate">
+      <Value>Vaša súčasná verzia je aktuálna. </Value>
+    </Text>
+    <Text Key="A_rTB_submitBugs">
+      <Value>(Prosím zverejnite všetky chyby a návrhy vo fóre.)</Value>
+    </Text>
+    <Text Key="AA_caption">
+      <Value>Pridať Aplikačnú Skupinu</Value>
+    </Text>
+    <Text Key="AG_caption">
+      <Value>Pridať Nové Gesto</Value>
+    </Text>
+    <Text Key="Animate_RockerG_clickExecuteBtn">
+      <Value>Klikni na {0} pre vyvolanie akcie.</Value>
+    </Text>
+    <Text Key="Animate_RockerG_pushHoldBtn">
+      <Value>Stlač a drž {0}.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_pushHoldBtn">
+      <Value>Stlač a drž {0}.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_releaseHoldBtn">
+      <Value>Uvoľni {0}.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_scrollWheelDown">
+      <Value>... alebo dole pre vyvolanie akcie.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_scrollWheelUp">
+      <Value>Pootoč kolieskom hore...</Value>
+    </Text>
+    <Text Key="app_group_desktop">
+      <Value>Plocha</Value>
+    </Text>
+    <Text Key="app_group_global">
+      <Value>Globálne Akcie</Value>
+    </Text>
+    <Text Key="app_group_taskbar">
+      <Value>Systémová Lišta</Value>
+    </Text>
+    <Text Key="Btn_add">
+      <Value>Pridať</Value>
+    </Text>
+    <Text Key="Btn_addNew">
+      <Value>Pridať Novú</Value>
+    </Text>
+    <Text Key="Btn_apply">
+      <Value>Použiť</Value>
+    </Text>
+    <Text Key="Btn_back">
+      <Value>&lt; Naspäť</Value>
+    </Text>
+    <Text Key="Btn_cancel">
+      <Value>Zrušiť</Value>
+    </Text>
+    <Text Key="Btn_finish">
+      <Value>Dokončiť</Value>
+    </Text>
+    <Text Key="Btn_next">
+      <Value>Ďalej &gt;</Value>
+    </Text>
+    <Text Key="Btn_ok">
+      <Value>OK</Value>
+    </Text>
+    <Text Key="C_Act_about">
+      <Value>Výber akcie, pre ktorú sa definuje gesto</Value>
+    </Text>
+    <Text Key="C_Act_gB_action">
+      <Value>Akcia</Value>
+    </Text>
+    <Text Key="C_Act_gB_category">
+      <Value>Kategória</Value>
+    </Text>
+    <Text Key="C_Act_gB_useOfAction">
+      <Value>Použitie Akcie</Value>
+    </Text>
+    <Text Key="C_Act_info">
+      <Value>Akcia vzťahujúca sa k aplikácii je aktívna len ak je aj aplikácia aktívna.
+Výberom viacerých aplikácií sa pridá nová akcia do všetkých z nich.</Value>
+    </Text>
+    <Text Key="C_Act_rB_globally">
+      <Value>Globálne (vo všetkých aplikáciách)</Value>
+    </Text>
+    <Text Key="C_Act_rB_locally">
+      <Value>Len v určitej aplikácii</Value>
+    </Text>
+    <Text Key="C_CK_about">
+      <Value>Vytvorenie vlastnej postupnosti tlačítok</Value>
+    </Text>
+    <Text Key="C_CK_btn_add">
+      <Value>Pridať  &gt;&gt;</Value>
+    </Text>
+    <Text Key="C_CK_btn_remove">
+      <Value>Odobrať</Value>
+    </Text>
+    <Text Key="C_CK_cH_executeBtn_click">
+      <Value>Kliknutie Vykonávajúceho tlačítka</Value>
+    </Text>
+    <Text Key="C_CK_errDownWithoutUp">
+      <Value>Chyba {0}: Je použité {1} (DOLE) bez {1} (HORE).</Value>
+    </Text>
+    <Text Key="C_CK_errMoreDownInline">
+      <Value>Chyba {0}: Je použitých viac {1} (DOLE) v rade.</Value>
+    </Text>
+    <Text Key="C_CK_errMoreUpInline">
+      <Value>Chyba {0}: Je použitých viac {1} (HORE) v rade.</Value>
+    </Text>
+    <Text Key="C_CK_errNotCurveCompatible">
+      <Value>Chyba {0}: Postupnosť tlačítok, ktorá obsahuje aktivitu myši nemôže byť použitá v geste Krivka. (Najprv je potrebné odstrániť aktivitu myši a potom zmeniť gesto Krivky.)</Value>
+    </Text>
+    <Text Key="C_CK_errOneMouseActionAllowed">
+      <Value>Chyba {0}: Je možné použiť len jednu aktivitu myši v postupnosti tlačítok.</Value>
+    </Text>
+    <Text Key="C_CK_gB_keys">
+      <Value>Tlačítka</Value>
+    </Text>
+    <Text Key="C_CK_gB_keyScript">
+      <Value>Postupnosť Tlačítok</Value>
+    </Text>
+    <Text Key="C_CK_gB_modifiers">
+      <Value>Riadiace Tlačítka</Value>
+    </Text>
+    <Text Key="C_CK_gB_mouseActions">
+      <Value>Aktivity Myšky</Value>
+    </Text>
+    <Text Key="C_CK_info">
+      <Value>Postupnosť tlačítok može obsahovať len jednu aktivitu myšky.
+Postupnosť tlačítok sa odošle do okna, podľa nastavenia: "Ovládať Program/Okno, ktorý je..."
+</Value>
+    </Text>
+    <Text Key="C_CurveG_about">
+      <Value>Použite Ľavé tlačítko na kreslenie gesta na paneli</Value>
+    </Text>
+    <Text Key="C_CurveG_cH_curve">
+      <Value>Krivka</Value>
+    </Text>
+    <Text Key="C_CurveG_cH_name">
+      <Value>Názov</Value>
+    </Text>
+    <Text Key="C_CurveG_errMouseActionInScript">
+      <Value>Akcie, kde postupnosť tlačítok obsahuje aktivitu myšky, nie je možné použiť s gestom Krivky.</Value>
+    </Text>
+    <Text Key="C_CurveG_errTooShortCurve">
+      <Value>Krivka je príliš krátka. Nie je možné pokračovať.</Value>
+    </Text>
+    <Text Key="C_CurveG_gB_alreadyInUse">
+      <Value>Už používané</Value>
+    </Text>
+    <Text Key="C_CurveG_gB_useCurve">
+      <Value>Použiť Krivku</Value>
+    </Text>
+    <Text Key="C_CurveG_info">
+      <Value>Pre vyvolanie tohto gesta je potrebné stlačiť Riadiace tlačítko a pohnúť sa s myškou z Citlivej Oblasti kým uplynie Čas Deaktivácie.
+Zmeniť tieto parametre je možné cez: Nastavenia -&gt; Gestá</Value>
+    </Text>
+    <Text Key="C_CurveG_lbl_name">
+      <Value>Názov</Value>
+    </Text>
+    <Text Key="C_CurveG_rB_newOne">
+      <Value>Novú</Value>
+    </Text>
+    <Text Key="C_CurveG_rB_selected">
+      <Value>Označenú</Value>
+    </Text>
+    <Text Key="C_CurveG_warnCurveGDeactivated">
+      <Value>Gestá Kriviek sú momentálne deaktivované. Nové gesto je možné pridať, ale nebude ho možné použiť kým sa gestá Kriviek znovu neaktivujú.
+Tento stav je možné zmeniť cez: Nastavenia -&gt; Gestá</Value>
+    </Text>
+    <Text Key="C_CurveG_warnCurvesLimitReached">
+      <Value>Bol dosiahnutý maximálny počet gest Kriviek.
+Je možné použiť už len krviky, ktoré sa práve používajú.</Value>
+    </Text>
+    <Text Key="C_Email_about">
+      <Value>Výber e-mail-lovej adresy</Value>
+    </Text>
+    <Text Key="C_Email_errInvalidFormat">
+      <Value>E-mail-ová adresa má nesprávny formát.</Value>
+    </Text>
+    <Text Key="C_Email_info">
+      <Value>Vpíšte e-mail-ovú adresu priamo do textového pola.</Value>
+    </Text>
+    <Text Key="C_Email_lbl_mail">
+      <Value>E-mail-ová adresa</Value>
+    </Text>
+    <Text Key="C_Gestures_cH_associatedActions">
+      <Value>Vzťahujúce sa Akcie</Value>
+    </Text>
+    <Text Key="C_Gestures_cH_group">
+      <Value>Skupina</Value>
+    </Text>
+    <Text Key="C_Gestures_tP_curveG">
+      <Value>Gesto Krivky</Value>
+    </Text>
+    <Text Key="C_Gestures_tP_rockerG">
+      <Value>Kombinácia Dvoch tlačítok</Value>
+    </Text>
+    <Text Key="C_Gestures_tP_wheelG">
+      <Value>Kombinácia Kolieska a tlačítka</Value>
+    </Text>
+    <Text Key="C_Name_about">
+      <Value>Výber mena pre akciu</Value>
+    </Text>
+    <Text Key="C_Name_cB_active">
+      <Value>Aktívna</Value>
+    </Text>
+    <Text Key="C_Name_info">
+      <Value>Viacero akcií sa môže vzťahovať k tomu istému gestu a priorita určuje, ktorá akcia a akým spôsobom bude vykonaná.
+- prvá aktívna akcia s Vysokou prioritiou je ihneď vykonaná
+- inak sa zobrazí ponuka všetkých akcií
+- jediná akcia s Normálnou prioritou je ihneď vykonaná
+- ponuka akcie sa zobrazí aj v prípade, kedy je aktívna jediná akcia s Nízkou prioritou</Value>
+    </Text>
+    <Text Key="C_Name_info_highPriorityOnly">
+      <Value>Akcia, ktorá v postupnosti tlačítok obsahuje aktivitu myšky a gesto kombinácie Kolieska a tlačítka má vždy len Vysokú prioritu.</Value>
+    </Text>
+    <Text Key="C_Name_lbl_name">
+      <Value>Názov</Value>
+    </Text>
+    <Text Key="C_Name_lbl_priority">
+      <Value>Priorita</Value>
+    </Text>
+    <Text Key="C_Name_lbl_uncheckToDeactivate">
+      <Value>(Odznačiť pre deaktivovanie akcie.)</Value>
+    </Text>
+    <Text Key="C_OpenFldr_about">
+      <Value>Výber cieľovej cesty zložky</Value>
+    </Text>
+    <Text Key="C_OpenFldr_errFolderNotExists">
+      <Value>Cesta k zložke neexistuje.</Value>
+    </Text>
+    <Text Key="C_OpenFldr_info">
+      <Value>Cestu k zložke je možné vybrať cez možnosť Prehľadávať alebo priamo vpísať do textového poľa.</Value>
+    </Text>
+    <Text Key="C_OpenFldr_lbl_folder">
+      <Value>Cesta k zložke</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_btn_browse">
+      <Value>Prehľadávať</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleMaximized">
+      <Value>Maximalizované</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleMinimized">
+      <Value>Minimalizové</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleNormal">
+      <Value>Normálne</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_lbl_windowStyle">
+      <Value>Otvoriť v okne, ktoré bude</Value>
+    </Text>
+    <Text Key="C_OpenWeb_about">
+      <Value>Výber webovej adresy</Value>
+    </Text>
+    <Text Key="C_OpenWeb_errInvalidFormat">
+      <Value>Webová adresa je v nesprávnom formáte.
+Musí začínať postupnosťou "http://", "https://" alebo "ftp://".</Value>
+    </Text>
+    <Text Key="C_OpenWeb_info">
+      <Value>Adresu webovej stránky je potrebné vpísať priamo do textového poľa. </Value>
+    </Text>
+    <Text Key="C_OpenWeb_lbl_webUrl">
+      <Value>Webová adresa</Value>
+    </Text>
+    <Text Key="C_PC_about">
+      <Value>Výber súkromnej schárnky</Value>
+    </Text>
+    <Text Key="C_PC_info">
+      <Value>Akcia skopíruje označený text do systémovej schránky a následne uloží v súkromnej.</Value>
+    </Text>
+    <Text Key="C_PC_lbl_copyTo">
+      <Value>Skopírovať text do</Value>
+    </Text>
+    <Text Key="C_PC_PP_cBI_privateClipboard">
+      <Value>Súkromná Schárnka {0} ({1})</Value>
+    </Text>
+    <Text Key="C_PC_PP_info">
+      <Value>VOĽNO - voľné miesto pre použitie
+KOPÍROVAŤ - schárnka, ktorá sa už vzťahuje ku Kopírovacej akcii
+VLOŽIŤ - schránka, ktorá sa už vzťahuje k Vkladajúcej akcii</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixCopy">
+      <Value>KOPÍROVAŤ</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixCopyPaste">
+      <Value>KOPÍROVAŤ &amp; VLOŽIŤ</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixFree">
+      <Value>VOĽNO</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixPaste">
+      <Value>VLOŽIŤ</Value>
+    </Text>
+    <Text Key="C_PlainTxt_about">
+      <Value>Výber textu pre vkladanie</Value>
+    </Text>
+    <Text Key="C_PlainTxt_info">
+      <Value>Akcia vloží celý text naraz.
+Vkladanie textu neovplyvní systémovú schránku.</Value>
+    </Text>
+    <Text Key="C_PP_about">
+      <Value>Výber schárnky, z ktorej sa bude vkladať</Value>
+    </Text>
+    <Text Key="C_PP_info">
+      <Value>Akcia skopíruje uložený text do systémovej schránky a vloží na miesto určenia.</Value>
+    </Text>
+    <Text Key="C_PP_lbl_pasteFrom">
+      <Value>Vložiť text z</Value>
+    </Text>
+    <Text Key="C_RockerG_about">
+      <Value>Výber Podporného a Vykonávajúceho tlačítka</Value>
+    </Text>
+    <Text Key="C_RockerG_clickExecuteBtn">
+      <Value>2.) Klikni pre vyvolanie akcie</Value>
+    </Text>
+    <Text Key="C_RockerG_errSameHoldAndExecuteBtn">
+      <Value>Podporné a Vykonávajúce tlačítko nesmie byť rovnaké.</Value>
+    </Text>
+    <Text Key="C_RockerG_info">
+      <Value>Pre vyvolanie tohto gesta je potrebné počas držania Podporného tlačítka kliknúť na Vykonávajúce, skôr než uplynie Čas Deaktivácie a pri tom sa nepohnúť s myškou z Citlivej Oblasti.
+Zmeniť tieto parametre je možné cez: Nastavenia -&gt; Gestá</Value>
+    </Text>
+    <Text Key="C_RockerG_notes">
+      <Value>Poznámka:
+- Podržaním Vykonovajúceho tlačítka sa zobrazí nápoveď
+- Uvoľnením Podporného tlačítka ešte pred Vykonávajúcim sa gesto zruší</Value>
+    </Text>
+    <Text Key="C_RockerG_pushHoldBtn">
+      <Value>1.) Stač a drž toto tlačítko</Value>
+    </Text>
+    <Text Key="C_RockerG_warnRockerGDeactivated">
+      <Value>Gestá kombinácie Dvoch tlačítok sú momentálne deaktivované. Nové gesto je možné pridať, ale nebude ho možné použiť kým sa gestá znovu neaktivujú.
+Tento stav je možné zmeniť cez: Nastavenia -&gt; Gestá
+</Value>
+    </Text>
+    <Text Key="C_SearchOpenWeb_btn_getIcon">
+      <Value>Získať Ikonu Stránky</Value>
+    </Text>
+    <Text Key="C_SearchOpenWeb_lbl_icon">
+      <Value>Ikona</Value>
+    </Text>
+    <Text Key="C_SearchWeb_about">
+      <Value>Vyhľadávanie pomocou internetových stránok</Value>
+    </Text>
+    <Text Key="C_SearchWeb_errInvalidFormat">
+      <Value>Internetová stránka má nesprávny formát.
+Adresa stránky musí začínať na http://', 'https://' alebo 'ftp://' a obsahovať špeciálny reťazec (*) .</Value>
+    </Text>
+    <Text Key="C_SearchWeb_info">
+      <Value>Vpíšte adresu internetovej stránky v špeciálnom formáte priamo do textového pola.
+Adresa stránky musí začínať na 'http://', 'https://' alebo 'ftp://' a obsahovať špeciálny reťazec (*) .
+Pri vyvolaní tejto akcie sa špeciálny reťazec (*) nahradí označeným textom a stránka s touto adresou bude otvorená.
+Je môžné využiť nápoveď pomocou vpísania http:// do textového pola.
+Na získanie ikony stránky je potrebné mať pripojenie k internetu.</Value>
+    </Text>
+    <Text Key="C_SearchWeb_lbl_searchUrl">
+      <Value>Adresa internetovej stránky</Value>
+    </Text>
+    <Text Key="C_SelectApp_about">
+      <Value>Vytvorenie Aplikačnej Skupiny pre akcie</Value>
+    </Text>
+    <Text Key="C_SelectApp_btn_browse">
+      <Value>Prehľadávať</Value>
+    </Text>
+    <Text Key="C_SelectApp_cB_active">
+      <Value>Aktívna</Value>
+    </Text>
+    <Text Key="C_SelectApp_info">
+      <Value>Výber aplikácie je možné uskutočniť pomocou pretiahnutím Zameriavacieho kurzoru nad okno aplikácie.
+Je možné vytvoriť dve špeciálne skupiny: Systémová Lišta a Plocha (vybrať ich je možné len pomocou kurzoru).
+Je ďalej možné:
+- Počas výberu aplikácie cez Zameriavaci kurzor prepínať programy pomocou Alt + Tab.
+- Pre lepšiu organizáciu akcií je možné pridať jednu aplikáciu viac krát.
+</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_icon">
+      <Value>Ikona</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_name">
+      <Value>Názov</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_path">
+      <Value>Adresa programu</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_uncheckToDeactivate">
+      <Value>(Odznačením sa Aplikačná Skupina deaktivuje.)</Value>
+    </Text>
+    <Text Key="C_StartPrg_about">
+      <Value>Výber cieľovej cesty programu</Value>
+    </Text>
+    <Text Key="C_StartPrg_errProgramNotExists">
+      <Value>Cesta k programu neexistuje.</Value>
+    </Text>
+    <Text Key="C_StartPrg_info">
+      <Value>Cestu k programu je možné vybrať cez možnosť Prehľadávať, priamo vpísať do textového poľa alebo pretiahnutím Zameriavacieho kurzoru nad spustený program. Počas výberu je možné prepínať medzi programami pomocou Alt + Tab.</Value>
+    </Text>
+    <Text Key="C_StartPrg_lbl_cmdArguments">
+      <Value>Argumenty do príkazovej riadky</Value>
+    </Text>
+    <Text Key="C_StartPrg_lbl_icon">
+      <Value>Ikona</Value>
+    </Text>
+    <Text Key="C_StartPrg_lbl_path">
+      <Value>Cesta k programu</Value>
+    </Text>
+    <Text Key="C_WheelG_about">
+      <Value>Výber Podporného tlačítka</Value>
+    </Text>
+    <Text Key="C_WheelG_info">
+      <Value>Pre vyvolanie tohto gesta je potrebné počas držania Podorného tlačítka pootočiť kolieskom na myške, skôr než uplynie Čas Deaktivácie a pri tom sa nepohnúť s myškou z Citlivej Oblasti.
+Zmeniť tieto parametre je možné cez: Nastavenia -&gt; Gestá</Value>
+    </Text>
+    <Text Key="C_WheelG_pushHoldBtn">
+      <Value>1.) Stač a drž toto tlačítko</Value>
+    </Text>
+    <Text Key="C_WheelG_releaseHoldBtn">
+      <Value>3.) Uvoľni Podporné tlačítko</Value>
+    </Text>
+    <Text Key="C_WheelG_scrollWithWheel">
+      <Value>2.) Pootoč kolieskom hore alebo dole pre vyvolanie akcie</Value>
+    </Text>
+    <Text Key="C_WheelG_warnWheelGDeactivated">
+      <Value>Gestá kombinácie Kolieska a tlačítka sú momentálne deaktivované. Nové gesto je možné pridať, ale nebude ho možné použiť kým sa gestá znovu neaktivujú.
+Tento stav je možné zmeniť cez: Nastavenia -&gt; Gestá</Value>
+    </Text>
+    <Text Key="C_WK_about">
+      <Value>Vytvorenie vlastnej postupnosti tlačítok</Value>
+    </Text>
+    <Text Key="C_WK_cH_holdBtn_down">
+      <Value>Podporné tlačítko stlačené</Value>
+    </Text>
+    <Text Key="C_WK_cH_holdBtn_up">
+      <Value>Podporné tlačítko uvoľnené</Value>
+    </Text>
+    <Text Key="C_WK_cH_wheelMove_down">
+      <Value>Pootočenie kolieska dole</Value>
+    </Text>
+    <Text Key="C_WK_cH_wheelMove_up">
+      <Value>Pootočenie kolieska hore</Value>
+    </Text>
+    <Text Key="C_WK_info">
+      <Value>Podporné tlačítko stlačené a uvoľnené je považované ako tá istá postupnosť.
+Každá postupnosť môže obsahovať maximálne jednu aktivitu myšky.
+Postupnosť Podporné tlačítko stlačené je vyvolaná až prvým pootočením kolieska! (Nestačí Podporné tlačítko len stlačiť.)
+Postupnosť tlačítok sa odošle do okna, podľa nastavenia: "Ovládať Program/Okno, ktorý je..."</Value>
+    </Text>
+    <Text Key="extras_custom_wheel_btn">
+      <Value>Postupnosť tlačítok pre Koliesko a tlačítko</Value>
+    </Text>
+    <Text Key="extras_name">
+      <Value>Akcie Kolieska a tlačítka</Value>
+    </Text>
+    <Text Key="extras_tab_switch">
+      <Value>Prepínač Záložiek</Value>
+    </Text>
+    <Text Key="extras_task_switch">
+      <Value>Prepínač Programov</Value>
+    </Text>
+    <Text Key="extras_transparency">
+      <Value>Úroveň Priehľadnosti</Value>
+    </Text>
+    <Text Key="extras_volume">
+      <Value>Ovládanie Hlasitosti</Value>
+    </Text>
+    <Text Key="extras_zoom">
+      <Value>Priblížiť Dokument</Value>
+    </Text>
+    <Text Key="I_errorCaption">
+      <Value>Chyba</Value>
+    </Text>
+    <Text Key="I_infoCaption">
+      <Value>Info</Value>
+    </Text>
+    <Text Key="I_warningCaption">
+      <Value>Upozornenie</Value>
+    </Text>
+    <Text Key="internet_name">
+      <Value>Možnosti Internetu</Value>
+    </Text>
+    <Text Key="internet_open_web">
+      <Value>Otvoriť Webovú stránku</Value>
+    </Text>
+    <Text Key="internet_page_back">
+      <Value>Predchádzajúca Stránka</Value>
+    </Text>
+    <Text Key="internet_page_home">
+      <Value>Domovská Stránka</Value>
+    </Text>
+    <Text Key="internet_page_next">
+      <Value>Ďalšia Stránka</Value>
+    </Text>
+    <Text Key="internet_page_reload">
+      <Value>Obnoviť Stránku</Value>
+    </Text>
+    <Text Key="internet_page_stop">
+      <Value>Zastaviť Obnovenie</Value>
+    </Text>
+    <Text Key="internet_search_web">
+      <Value>Vyhľadať cez Internet</Value>
+    </Text>
+    <Text Key="internet_send_email">
+      <Value>Odoslať E-mail</Value>
+    </Text>
+    <Text Key="internet_tab_close">
+      <Value>Zavrieť Záložku</Value>
+    </Text>
+    <Text Key="internet_tab_new">
+      <Value>Nová Záložka</Value>
+    </Text>
+    <Text Key="internet_tab_reopen">
+      <Value>Otvoriť zatvorenú Záložku</Value>
+    </Text>
+    <Text Key="keystrokes_custom">
+      <Value>Vlastná Postupnosť Tlačítok</Value>
+    </Text>
+    <Text Key="keystrokes_name">
+      <Value>Vykonať Postupnosť Tlačítok</Value>
+    </Text>
+    <Text Key="keystrokes_plain_text">
+      <Value>Vložiť Text</Value>
+    </Text>
+    <Text Key="keystrokes_private_copy_text">
+      <Value>Skopírovať Text do Súkromnej Schránky</Value>
+    </Text>
+    <Text Key="keystrokes_private_paste_text">
+      <Value>Vložiť Text zo Súkromnej Schránky</Value>
+    </Text>
+    <Text Key="keystrokes_system_copy">
+      <Value>Kopírovať do Systémovej Schránky</Value>
+    </Text>
+    <Text Key="keystrokes_system_cut">
+      <Value>Vystrihnúť do Systémovej Schránky</Value>
+    </Text>
+    <Text Key="keystrokes_system_paste">
+      <Value>Vložiť zo Systémovej Schránky</Value>
+    </Text>
+    <Text Key="keystrokes_zoom_in">
+      <Value>Priblížiť Dokument</Value>
+    </Text>
+    <Text Key="keystrokes_zoom_out">
+      <Value>Oddialiť Dokument</Value>
+    </Text>
+    <Text Key="media_name">
+      <Value>Možnosti Prehrávania</Value>
+    </Text>
+    <Text Key="media_next">
+      <Value>Ďalšia Skladba</Value>
+    </Text>
+    <Text Key="media_pause">
+      <Value>Pozastaviť Skladbu</Value>
+    </Text>
+    <Text Key="media_play">
+      <Value>Prehrať Skladbu</Value>
+    </Text>
+    <Text Key="media_prev">
+      <Value>Predchádzajúca Skladba</Value>
+    </Text>
+    <Text Key="media_stop">
+      <Value>Zastaviť Skladbu</Value>
+    </Text>
+    <Text Key="MG_msgText_validProps">
+      <Value>Je potrebné správne definovať všetky nastavenia.</Value>
+    </Text>
+    <Text Key="MG_multiple">
+      <Value>Upraviť Viacero Gest</Value>
+    </Text>
+    <Text Key="MG_tP_application">
+      <Value>Aplikácia</Value>
+    </Text>
+    <Text Key="MG_tP_customKeystrokes">
+      <Value>Postupnosť Tlačítok</Value>
+    </Text>
+    <Text Key="MG_tP_folder">
+      <Value>Zložka</Value>
+    </Text>
+    <Text Key="MG_tP_gesture">
+      <Value>Gesto</Value>
+    </Text>
+    <Text Key="MG_tP_mail">
+      <Value>E-mail</Value>
+    </Text>
+    <Text Key="MG_tP_name">
+      <Value>Názov</Value>
+    </Text>
+    <Text Key="MG_tP_plainText">
+      <Value>Text</Value>
+    </Text>
+    <Text Key="MG_tP_privateClipboard">
+      <Value>Súkromná Schránka</Value>
+    </Text>
+    <Text Key="MG_tP_program">
+      <Value>Program</Value>
+    </Text>
+    <Text Key="MG_tP_url">
+      <Value>Webová Adresa</Value>
+    </Text>
+    <Text Key="MW_cH_associatedActions">
+      <Value />
+    </Text>
+    <Text Key="MW_cH_description">
+      <Value>Popis</Value>
+    </Text>
+    <Text Key="MW_cH_name">
+      <Value>Názov</Value>
+    </Text>
+    <Text Key="MW_cH_priority">
+      <Value>Priorita</Value>
+    </Text>
+    <Text Key="MW_cMI_activate">
+      <Value>Aktivovať</Value>
+    </Text>
+    <Text Key="MW_cMI_addGesture">
+      <Value>Pridať nové gesto do</Value>
+    </Text>
+    <Text Key="MW_cMI_copyGesture">
+      <Value>Skopírovať {0} do</Value>
+    </Text>
+    <Text Key="MW_cMI_copyMultiple">
+      <Value>Skopírovať vybrané akcie do</Value>
+    </Text>
+    <Text Key="MW_cMI_deactivate">
+      <Value>Deaktivovať</Value>
+    </Text>
+    <Text Key="MW_cMI_changePriority">
+      <Value>Zmeniť Prioritu</Value>
+    </Text>
+    <Text Key="MW_msgText_deleteGesture">
+      <Value>Skutočne chcete zmazať {0} ?</Value>
+    </Text>
+    <Text Key="MW_msgText_deleteMultiple">
+      <Value>Skutočne chcete zmazať vybrané akcie?</Value>
+    </Text>
+    <Text Key="MW_msgText_errCantDelGlobal">
+      <Value>Nie je možné zmazať skupinu Globálnych Akcií.</Value>
+    </Text>
+    <Text Key="MW_msgText_errNotEmptyGroup">
+      <Value>Je možné zmazať len prázdnu skupinu alebo so všetkými jej akciami.</Value>
+    </Text>
+    <Text Key="MW_sMI_exit">
+      <Value>Ukončiť</Value>
+    </Text>
+    <Text Key="MW_tSB_about">
+      <Value>O Aplikácii</Value>
+    </Text>
+    <Text Key="MW_tSB_addGesture">
+      <Value>Pridať Nové Gesto</Value>
+    </Text>
+    <Text Key="MW_tSB_addGroup">
+      <Value>Pridať Aplikačnú Skupinu</Value>
+    </Text>
+    <Text Key="MW_tSB_delete">
+      <Value>Odstrániť</Value>
+    </Text>
+    <Text Key="MW_tSB_modify">
+      <Value>Upraviť</Value>
+    </Text>
+    <Text Key="MW_tSB_options">
+      <Value>Nastavenia</Value>
+    </Text>
+    <Text Key="MW_tSB_viewActions">
+      <Value>Zobraziť Akcie</Value>
+    </Text>
+    <Text Key="MW_tSB_viewGestures">
+      <Value>Zobraziť Gestá</Value>
+    </Text>
+    <Text Key="MW_tT_displayGesture">
+      <Value>Gesto
+(kliknutím sa gesto prehrá)</Value>
+    </Text>
+    <Text Key="MW_tT_macthedGestures">
+      <Value>Zoznam akcií vzťahujúcich sa k tomu istému gestu
+(pretiahnutím položiek je možné zmeniť ich poradie)</Value>
+    </Text>
+    <Text Key="Name_CurveGesture">
+      <Value>Gesto Krivky</Value>
+    </Text>
+    <Text Key="Name_CurveHoldDownBtn">
+      <Value />
+    </Text>
+    <Text Key="Name_highPriority">
+      <Value>Vysoká</Value>
+    </Text>
+    <Text Key="Name_leftButton">
+      <Value>Ľavé Tlačítko</Value>
+    </Text>
+    <Text Key="Name_lowPriority">
+      <Value>Nízka</Value>
+    </Text>
+    <Text Key="Name_middleButton">
+      <Value>Prostredné Tlačítko</Value>
+    </Text>
+    <Text Key="Name_mouseWheel">
+      <Value>Koliesko Myšky</Value>
+    </Text>
+    <Text Key="Name_normalPriority">
+      <Value>Normálna</Value>
+    </Text>
+    <Text Key="Name_rightButton">
+      <Value>Pravé Tlačítko</Value>
+    </Text>
+    <Text Key="Name_RockerExecuteBtn">
+      <Value>Vykonávajúce Tlačítko</Value>
+    </Text>
+    <Text Key="Name_RockerGesture">
+      <Value>Kombinácia Dvoch tlačítok</Value>
+    </Text>
+    <Text Key="Name_RockerHoldDownBtn">
+      <Value>Podporné tlačítko</Value>
+    </Text>
+    <Text Key="Name_WheelGesture">
+      <Value>Kombinácia Kolieska a tlačítka</Value>
+    </Text>
+    <Text Key="Name_WheelHoldDownBtn">
+      <Value>Podporné Tlačítko</Value>
+    </Text>
+    <Text Key="Name_x1Button">
+      <Value>Tlačítko X1</Value>
+    </Text>
+    <Text Key="Name_x2Button">
+      <Value>Tlačítko X2</Value>
+    </Text>
+    <Text Key="O_A_cH_appState">
+      <Value>Stav Aplikácie</Value>
+    </Text>
+    <Text Key="O_AB_blackList">
+      <Value>Čierna Listina</Value>
+    </Text>
+    <Text Key="O_AB_caption">
+      <Value>Automatická (de)aktivácia aplikácie</Value>
+    </Text>
+    <Text Key="O_AB_cBI_autoDisable">
+      <Value>Automatická Deaktivácia</Value>
+    </Text>
+    <Text Key="O_AB_cBI_autoEnable">
+      <Value>Automatická Aktivácia</Value>
+    </Text>
+    <Text Key="O_AB_cBI_none">
+      <Value>(nepoužívané)</Value>
+    </Text>
+    <Text Key="O_AB_cH_appState">
+      <Value>Stav Aplikácie</Value>
+    </Text>
+    <Text Key="O_AB_cH_name">
+      <Value>Názov</Value>
+    </Text>
+    <Text Key="O_AB_cH_path">
+      <Value>Cesta</Value>
+    </Text>
+    <Text Key="O_AB_gB_conditions">
+      <Value>Podmienky</Value>
+    </Text>
+    <Text Key="O_AB_gB_finalList">
+      <Value>Konečný Zoznam</Value>
+    </Text>
+    <Text Key="O_AB_info">
+      <Value>Automatický Režim sa používa pre automatické (de)aktivovanie Just Gestures (Aplikácie). V intervaloch kontroluje práve používaný program a na základe podmienok nastaví stav Aplikácie. 
+- Priorita podmienok odpovedá jej poradiu (štvrtá je najvyššia)
+- Konečný Zoznam určuje aký bude stav Aplikácie, keď programy z Čiernej/Bielej Listiny sa stanú aktívnymi.
+- Automatický Režim sa spúšťa cez kontextovú ponuku ikony Aplikácie umiestnenej v Systémovej Lište alebo vybraním možnosti automatického štartu o Obecných nastaveniach.
+
+Príklad:
+Automatické deaktivovanie Aplikácie, keď je aktívny Internet Explorer
+- nastavte Predvolený Stav na Automatická Aktivácia
+- nastavte Prvý Automatický Stav na Čierna Listina
+(Čierna Listina musí obsahovať Internet Explorer)
+- spustite Automatický Režim cez kontextovú ponuku ikony Aplikácie umiestnenej v Systémovej Lište</Value>
+    </Text>
+    <Text Key="O_AB_lbl_1AutoState">
+      <Value>3.) Prvý Automatický Stav</Value>
+    </Text>
+    <Text Key="O_AB_lbl_2AutoState">
+      <Value>4.) Druhý Automatický Stav</Value>
+    </Text>
+    <Text Key="O_AB_lbl_autocheck">
+      <Value>Auto-kontrola v milisekundách</Value>
+    </Text>
+    <Text Key="O_AB_lbl_defaultState">
+      <Value>1.) Predvolený Stav</Value>
+    </Text>
+    <Text Key="O_AB_lbl_fullscreenState">
+      <Value>2.) Stav pri Celo-obrazových programoch</Value>
+    </Text>
+    <Text Key="O_AB_name">
+      <Value>Automatický Režim</Value>
+    </Text>
+    <Text Key="O_AB_whiteList">
+      <Value />
+    </Text>
+    <Text Key="O_BL_caption">
+      <Value />
+    </Text>
+    <Text Key="O_BL_info">
+      <Value />
+    </Text>
+    <Text Key="O_BL_name">
+      <Value />
+    </Text>
+    <Text Key="O_BW_btn_add">
+      <Value />
+    </Text>
+    <Text Key="O_BW_btn_remove">
+      <Value />
+    </Text>
+    <Text Key="O_BW_cH_name">
+      <Value />
+    </Text>
+    <Text Key="O_BW_cH_path">
+      <Value />
+    </Text>
+    <Text Key="O_caption">
+      <Value />
+    </Text>
+    <Text Key="O_General_caption">
+      <Value />
+    </Text>
+    <Text Key="O_General_cB_autobehave">
+      <Value />
+    </Text>
+    <Text Key="O_General_cB_closeToTray">
+      <Value />
+    </Text>
+    <Text Key="O_General_cB_checkUpdate">
+      <Value />
+    </Text>
+    <Text Key="O_General_cB_minToTray">
+      <Value />
+    </Text>
+    <Text Key="O_General_cB_startMinimized">
+      <Value />
+    </Text>
+    <Text Key="O_General_cB_startUp">
+      <Value />
+    </Text>
+    <Text Key="O_General_gB_localization">
+      <Value />
+    </Text>
+    <Text Key="O_General_gB_startUpSettings">
+      <Value />
+    </Text>
+    <Text Key="O_General_gB_systemTraySettings">
+      <Value />
+    </Text>
+    <Text Key="O_General_info">
+      <Value />
+    </Text>
+    <Text Key="O_General_lbl_changeLanguage">
+      <Value />
+    </Text>
+    <Text Key="O_General_name">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_btn_wizard">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_caption">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_cBI_disabled">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_cBI_enabled">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_cBI_inForeground">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_cBI_off">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_cBI_underCursor">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_gB_activation">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_gB_gestureTypes">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_info">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_lbl_deactivationTimeout">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_lbl_sensitiveZone">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_lbl_typeOfWnd">
+      <Value />
+    </Text>
+    <Text Key="O_Gestures_name">
+      <Value />
+    </Text>
+    <Text Key="O_V_caption">
+      <Value />
+    </Text>
+    <Text Key="O_V_cB_showGesture">
+      <Value />
+    </Text>
+    <Text Key="O_V_cB_showToolTip">
+      <Value />
+    </Text>
+    <Text Key="O_V_gB_graphics">
+      <Value />
+    </Text>
+    <Text Key="O_V_gB_toolTipForGestures">
+      <Value />
+    </Text>
+    <Text Key="O_V_info">
+      <Value />
+    </Text>
+    <Text Key="O_V_lbl_color">
+      <Value />
+    </Text>
+    <Text Key="O_V_lbl_toolTipDelay">
+      <Value />
+    </Text>
+    <Text Key="O_V_lbl_width">
+      <Value />
+    </Text>
+    <Text Key="O_V_name">
+      <Value />
+    </Text>
+    <Text Key="O_WL_caption">
+      <Value />
+    </Text>
+    <Text Key="O_WL_info">
+      <Value />
+    </Text>
+    <Text Key="O_WL_name">
+      <Value />
+    </Text>
+    <Text Key="shell_dialog">
+      <Value />
+    </Text>
+    <Text Key="shell_hibernate">
+      <Value />
+    </Text>
+    <Text Key="shell_lock">
+      <Value />
+    </Text>
+    <Text Key="shell_log_off">
+      <Value />
+    </Text>
+    <Text Key="shell_name">
+      <Value />
+    </Text>
+    <Text Key="shell_open_fldr">
+      <Value />
+    </Text>
+    <Text Key="shell_open_web">
+      <Value />
+    </Text>
+    <Text Key="shell_restart">
+      <Value />
+    </Text>
+    <Text Key="shell_send_mail">
+      <Value />
+    </Text>
+    <Text Key="shell_show_desktop">
+      <Value />
+    </Text>
+    <Text Key="shell_shut_down">
+      <Value />
+    </Text>
+    <Text Key="shell_sleep">
+      <Value />
+    </Text>
+    <Text Key="shell_start_prg">
+      <Value />
+    </Text>
+    <Text Key="ST_tSMI_autobehave_off">
+      <Value />
+    </Text>
+    <Text Key="ST_tSMI_autobehave_on">
+      <Value />
+    </Text>
+    <Text Key="ST_tSMI_disable">
+      <Value />
+    </Text>
+    <Text Key="ST_tSMI_enable">
+      <Value />
+    </Text>
+    <Text Key="ST_tSMI_show">
+      <Value />
+    </Text>
+    <Text Key="ST_tT_autobehave">
+      <Value />
+    </Text>
+    <Text Key="ST_tT_disabled">
+      <Value />
+    </Text>
+    <Text Key="ST_tT_learning">
+      <Value />
+    </Text>
+    <Text Key="U_btn_download">
+      <Value />
+    </Text>
+    <Text Key="U_caption">
+      <Value />
+    </Text>
+    <Text Key="U_lbl_features">
+      <Value />
+    </Text>
+    <Text Key="U_lbl_newUpdate">
+      <Value />
+    </Text>
+    <Text Key="U_lbl_version">
+      <Value />
+    </Text>
+    <Text Key="Unknown_gesture">
+      <Value />
+    </Text>
+    <Text Key="volume_down">
+      <Value />
+    </Text>
+    <Text Key="volume_mute">
+      <Value />
+    </Text>
+    <Text Key="volume_name">
+      <Value />
+    </Text>
+    <Text Key="volume_set">
+      <Value />
+    </Text>
+    <Text Key="volume_up">
+      <Value />
+    </Text>
+    <Text Key="W_A_caption">
+      <Value />
+    </Text>
+    <Text Key="W_A_controlPrgDescription">
+      <Value />
+    </Text>
+    <Text Key="W_A_gB_gestureActivation">
+      <Value />
+    </Text>
+    <Text Key="W_A_info">
+      <Value />
+    </Text>
+    <Text Key="W_A_zoneTimeoutDescription">
+      <Value />
+    </Text>
+    <Text Key="W_caption">
+      <Value />
+    </Text>
+    <Text Key="W_CC_caption">
+      <Value />
+    </Text>
+    <Text Key="W_CC_description">
+      <Value />
+    </Text>
+    <Text Key="W_CC_info">
+      <Value />
+    </Text>
+    <Text Key="W_CC_instructions">
+      <Value />
+    </Text>
+    <Text Key="W_DB_caption">
+      <Value />
+    </Text>
+    <Text Key="W_DB_description">
+      <Value />
+    </Text>
+    <Text Key="W_DB_info">
+      <Value />
+    </Text>
+    <Text Key="W_DB_instructions">
+      <Value />
+    </Text>
+    <Text Key="W_G_gB_activation">
+      <Value />
+    </Text>
+    <Text Key="W_G_gB_description">
+      <Value />
+    </Text>
+    <Text Key="W_G_gB_gesture">
+      <Value />
+    </Text>
+    <Text Key="W_G_gB_preview">
+      <Value />
+    </Text>
+    <Text Key="W_G_lbl_and">
+      <Value />
+    </Text>
+    <Text Key="W_G_lbl_instructions">
+      <Value />
+    </Text>
+    <Text Key="W_G_lbl_mouseMovement">
+      <Value />
+    </Text>
+    <Text Key="W_G_tT_animation">
+      <Value />
+    </Text>
+    <Text Key="W_page">
+      <Value />
+    </Text>
+    <Text Key="W_W_caption">
+      <Value />
+    </Text>
+    <Text Key="W_W_info">
+      <Value />
+    </Text>
+    <Text Key="W_W_introCaption">
+      <Value />
+    </Text>
+    <Text Key="W_W_introDescription">
+      <Value />
+    </Text>
+    <Text Key="W_WB_caption">
+      <Value />
+    </Text>
+    <Text Key="W_WB_description">
+      <Value />
+    </Text>
+    <Text Key="W_WB_info">
+      <Value />
+    </Text>
+    <Text Key="W_WB_instructions">
+      <Value />
+    </Text>
+    <Text Key="window_close">
+      <Value />
+    </Text>
+    <Text Key="window_close_all">
+      <Value />
+    </Text>
+    <Text Key="window_fullscreen">
+      <Value />
+    </Text>
+    <Text Key="window_max">
+      <Value />
+    </Text>
+    <Text Key="window_min">
+      <Value />
+    </Text>
+    <Text Key="window_min_all">
+      <Value />
+    </Text>
+    <Text Key="window_min_totray">
+      <Value />
+    </Text>
+    <Text Key="window_name">
+      <Value />
+    </Text>
+    <Text Key="window_show_side_by_side">
+      <Value />
+    </Text>
+    <Text Key="window_show_vertically">
+      <Value />
+    </Text>
+    <Text Key="window_topmost">
+      <Value />
+    </Text>
+    <Text Key="window_transparent">
+      <Value />
+    </Text>
+  </TranslatedText>
+</Translation>

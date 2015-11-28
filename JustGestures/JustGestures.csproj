@@ -1,0 +1,772 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2005DE89-9663-47F9-9388-590B1897539C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JustGestures</RootNamespace>
+    <AssemblyName>JustGestures</AssemblyName>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>just_gestures.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <ManifestCertificateThumbprint>86993402BE6E8F9D27C45D0974023DADD991390B</ManifestCertificateThumbprint>
+    <ManifestKeyFile>JustGestures_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <TargetZone>Custom</TargetZone>
+    <SignManifests>false</SignManifests>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+    <StartupObject>JustGestures.Program</StartupObject>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <PublishUrl>D:\SCHOOL\_JUST_GESTURES_\Publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Background</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Just Gestures</ProductName>
+    <PublisherName>Just Gestures</PublisherName>
+    <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;X64</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x64' ">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;X64</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config.cs" />
+    <Compile Include="ControlItems\BalloonTip.cs" />
+    <Compile Include="ControlItems\MyToolTip.cs" />
+    <Compile Include="ControlItems\UC_mailSearchWeb.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_mailSearchWeb.Designer.cs">
+      <DependentUpon>UC_mailSearchWeb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\AllKeys.cs" />
+    <Compile Include="Features\AutoBehave.cs" />
+    <Compile Include="Features\ClipboardHandler.cs" />
+    <Compile Include="Features\ClipData.cs" />
+    <Compile Include="ControlItems\CrossCursorMode.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_clipboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_clipboard.Designer.cs">
+      <DependentUpon>UC_clipboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlItems\UC_plainText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_plainText.Designer.cs">
+      <DependentUpon>UC_plainText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\Favicon.cs" />
+    <Compile Include="Features\IVolumeControl.cs" />
+    <Compile Include="ConvertValue.cs" />
+    <Compile Include="GUI\Form_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form_update.Designer.cs">
+      <DependentUpon>Form_update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ComboListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_infoIcon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_infoIcon.Designer.cs">
+      <DependentUpon>UC_infoIcon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlItems\UC_TP_baseActivator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_TP_baseActivator.Designer.cs">
+      <DependentUpon>UC_TP_baseActivator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlItems\UC_TP_classicCurve.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_TP_classicCurve.Designer.cs">
+      <DependentUpon>UC_TP_classicCurve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlItems\UC_TP_doubleBtn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_TP_doubleBtn.Designer.cs">
+      <DependentUpon>UC_TP_doubleBtn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlItems\UC_TP_wheelBtn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_TP_wheelBtn.Designer.cs">
+      <DependentUpon>UC_TP_wheelBtn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MyContextMenuRenderer.cs" />
+    <Compile Include="GUI\StartButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GUI\MyToolStripRenderer.cs" />
+    <Compile Include="FileOptions.cs" />
+    <Compile Include="GUI\Form_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form_main.Designer.cs">
+      <DependentUpon>Form_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_engine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_engine.Designer.cs">
+      <DependentUpon>Form_engine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Form_transparent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form_transparent.Designer.cs">
+      <DependentUpon>Form_transparent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Languages\ITranslation.cs" />
+    <Compile Include="Languages\MyText.cs" />
+    <Compile Include="Languages\Translation.cs" />
+    <Compile Include="GestureParts\BaseActivator.cs" />
+    <Compile Include="GestureParts\DoubleButton.cs" />
+    <Compile Include="GestureParts\WheelButton.cs" />
+    <Compile Include="GesturesCollection.cs" />
+    <Compile Include="GestureParts\ClassicCurve.cs" />
+    <Compile Include="GestureParts\ListItemPart.cs" />
+    <Compile Include="Features\LoadAniCursor.cs" />
+    <Compile Include="MyCurve.cs" />
+    <Compile Include="GestureParts\MouseActivator.cs" />
+    <Compile Include="MyEngine.cs">
+    </Compile>
+    <Compile Include="MyEnums.cs" />
+    <Compile Include="MyNeuralNetwork.cs" />
+    <Compile Include="OptionItems\UC_gestureOptions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionItems\UC_gestureOptions.Designer.cs">
+      <DependentUpon>UC_gestureOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaticRandom.cs" />
+    <Compile Include="TypeOfAction\AppGroupOptions.cs" />
+    <Compile Include="TypeOfAction\ExtrasOptions.cs" />
+    <Compile Include="TypeOfAction\KeystrokesOptions.cs" />
+    <Compile Include="GUI\GesturesListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GUI\DragAndDropListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyKey.cs" />
+    <Compile Include="Features\KeyInput.cs" />
+    <Compile Include="Features\PrgNamePath.cs" />
+    <Compile Include="GestureParts\ActionCategory.cs" />
+    <Compile Include="GUI\Form_about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form_about.Designer.cs">
+      <DependentUpon>Form_about.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Form_modifyGesture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form_modifyGesture.Designer.cs">
+      <DependentUpon>Form_modifyGesture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Form_options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form_options.Designer.cs">
+      <DependentUpon>Form_options.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Form_addGesture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form_addGesture.Designer.cs">
+      <DependentUpon>Form_addGesture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyGesture.cs" />
+    <Compile Include="Features\RegistryEdit.cs" />
+    <Compile Include="TypeOfAction\InternetOptions.cs" />
+    <Compile Include="TypeOfAction\BaseActionClass.cs" />
+    <Compile Include="TypeOfAction\MediaOptions.cs" />
+    <Compile Include="TypeOfAction\SpecialOptions.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TypeOfAction\VolumeOptions.cs" />
+    <Compile Include="TypeOfAction\WinampOptions.cs" />
+    <Compile Include="TypeOfAction\WindowOptions.cs" />
+    <Compile Include="TypeOfAction\WindowsShell.cs" />
+    <Compile Include="ControlItems\BaseActionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\Form_about.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_about.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form_addGesture.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_addGesture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form_modifyGesture.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_modifyGesture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form_options.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_options.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\BaseActionControl.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BaseActionControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\UC_actions.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UC_actions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionItems\UC_blackList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UC_blackList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionItems\UC_blackWhiteList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UC_blackWhiteList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\UC_openPrgFld.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UC_openPrgFld.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\UC_gesture.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UC_gesture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\UC_name.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UC_name.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionItems\UC_generalOptions.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UC_generalOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionItems\UC_visualisation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UC_visualisation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionItems\UC_whiteList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UC_whiteList.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="ControlItems\CheckComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ControlItems\CheckListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="OptionItems\BaseOptionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionItems\BaseOptionControl.Designer.cs">
+      <DependentUpon>BaseOptionControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlItems\UC_actions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_actions.Designer.cs">
+      <DependentUpon>UC_actions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionItems\UC_autoBehaviour.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionItems\UC_autoBehaviour.Designer.cs">
+      <DependentUpon>UC_autoBehaviour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionItems\UC_blackList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionItems\UC_blackList.Designer.cs">
+      <DependentUpon>UC_blackList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionItems\UC_blackWhiteList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionItems\UC_blackWhiteList.Designer.cs">
+      <DependentUpon>UC_blackWhiteList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlItems\UC_customKeystrokes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_customKeystrokes.Designer.cs">
+      <DependentUpon>UC_customKeystrokes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlItems\UC_openPrgFld.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_openPrgFld.Designer.cs">
+      <DependentUpon>UC_openPrgFld.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlItems\UC_gesture.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_gesture.Designer.cs">
+      <DependentUpon>UC_gesture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlItems\UC_name.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_name.Designer.cs">
+      <DependentUpon>UC_name.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionItems\UC_generalOptions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionItems\UC_generalOptions.Designer.cs">
+      <DependentUpon>UC_generalOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlItems\UC_selectProgram.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlItems\UC_selectProgram.Designer.cs">
+      <DependentUpon>UC_selectProgram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionItems\UC_whiteList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionItems\UC_whiteList.Designer.cs">
+      <DependentUpon>UC_whiteList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptionItems\UC_visualisation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OptionItems\UC_visualisation.Designer.cs">
+      <DependentUpon>UC_visualisation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\VistaVolumeControl.cs" />
+    <Compile Include="Features\XpVolumeControl.cs" />
+    <Compile Include="Win32.cs" />
+    <Compile Include="GUI\Form_wizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form_wizard.Designer.cs">
+      <DependentUpon>Form_wizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WizardItems\BaseWizardControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WizardItems\BaseWizardControl.Designer.cs">
+      <DependentUpon>BaseWizardControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WizardItems\UC_W_classicCurve.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WizardItems\UC_W_classicCurve.Designer.cs">
+      <DependentUpon>UC_W_classicCurve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WizardItems\UC_W_doubleBtn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WizardItems\UC_W_doubleBtn.Designer.cs">
+      <DependentUpon>UC_W_doubleBtn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WizardItems\UC_W_baseGesture.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WizardItems\UC_W_baseGesture.Designer.cs">
+      <DependentUpon>UC_W_baseGesture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WizardItems\UC_W_activation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WizardItems\UC_W_activation.Designer.cs">
+      <DependentUpon>UC_W_activation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WizardItems\UC_W_welcome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WizardItems\UC_W_welcome.Designer.cs">
+      <DependentUpon>UC_W_welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WizardItems\UC_W_wheelBtn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WizardItems\UC_W_wheelBtn.Designer.cs">
+      <DependentUpon>UC_W_wheelBtn.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ControlItems\UC_clipboard.resx">
+      <DependentUpon>UC_clipboard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\UC_infoIcon.resx">
+      <DependentUpon>UC_infoIcon.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\UC_mailSearchWeb.resx">
+      <DependentUpon>UC_mailSearchWeb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\UC_plainText.resx">
+      <DependentUpon>UC_plainText.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\UC_TP_baseActivator.resx">
+      <DependentUpon>UC_TP_baseActivator.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\UC_TP_classicCurve.resx">
+      <DependentUpon>UC_TP_classicCurve.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\UC_TP_doubleBtn.resx">
+      <DependentUpon>UC_TP_doubleBtn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\UC_TP_wheelBtn.resx">
+      <DependentUpon>UC_TP_wheelBtn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form_update.resx">
+      <DependentUpon>Form_update.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ComboListView.resx">
+      <DependentUpon>ComboListView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form_main.resx">
+      <DependentUpon>Form_main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_engine.resx">
+      <DependentUpon>Form_engine.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\DragAndDropListView.resx">
+      <DependentUpon>DragAndDropListView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form_transparent.resx">
+      <DependentUpon>Form_transparent.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\StartButton.resx">
+      <DependentUpon>StartButton.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionItems\UC_gestureOptions.resx">
+      <DependentUpon>UC_gestureOptions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OptionItems\UC_autoBehaviour.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UC_autoBehaviour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\UC_customKeystrokes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UC_customKeystrokes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlItems\UC_selectProgram.resx">
+      <DependentUpon>UC_selectProgram.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form_wizard.resx">
+      <DependentUpon>Form_wizard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WizardItems\BaseWizardControl.resx">
+      <DependentUpon>BaseWizardControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WizardItems\UC_W_classicCurve.resx">
+      <DependentUpon>UC_W_classicCurve.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WizardItems\UC_W_baseGesture.resx">
+      <DependentUpon>UC_W_baseGesture.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WizardItems\UC_W_doubleBtn.resx">
+      <DependentUpon>UC_W_doubleBtn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WizardItems\UC_W_activation.resx">
+      <DependentUpon>UC_W_activation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WizardItems\UC_W_welcome.resx">
+      <DependentUpon>UC_W_welcome.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WizardItems\UC_W_wheelBtn.resx">
+      <DependentUpon>UC_W_wheelBtn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paypal_DonateButton.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Languages\OriginalTexts.xml" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Resources\logoImg.png" />
+    <None Include="Resources\base_mouse.png" />
+    <None Include="Resources\btn_left_modifier.png" />
+    <None Include="Resources\btn_left_trigger.png" />
+    <None Include="Resources\btn_middle_modifier.png" />
+    <None Include="Resources\btn_middle_trigger.png" />
+    <None Include="Resources\btn_right_modifier.png" />
+    <None Include="Resources\btn_right_trigger.png" />
+    <None Include="Resources\btn_x1_modifier.png" />
+    <None Include="Resources\btn_x1_trigger.png" />
+    <None Include="Resources\btn_x2_modifier.png" />
+    <None Include="Resources\btn_x2_trigger.png" />
+    <None Include="Resources\btn_wheel_down.png" />
+    <None Include="Resources\btn_wheel_up.png" />
+    <None Include="Resources\autobehave.ico" />
+    <None Include="Resources\clock.ico" />
+    <None Include="Resources\close_hover.png" />
+    <None Include="Resources\close_normal.png" />
+    <None Include="Resources\close_pushed.png" />
+    <None Include="Resources\minimize_hover.png" />
+    <None Include="Resources\minimize_normal.png" />
+    <None Include="Resources\minimize_pushed.png" />
+    <None Include="Resources\start_hover.png" />
+    <None Include="Resources\start_normal.png" />
+    <None Include="Resources\start_pushed.png" />
+    <None Include="Resources\designedBack2.png" />
+    <None Include="Resources\activate.png" />
+    <None Include="Resources\add_gesture.png" />
+    <None Include="Resources\auto_off.png" />
+    <None Include="Resources\auto_on.png" />
+    <None Include="Resources\browser_home.png" />
+    <None Include="Resources\browser_next.png" />
+    <None Include="Resources\browser_prev.png" />
+    <None Include="Resources\browser_refresh.png" />
+    <None Include="Resources\deactivate.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\disable.png" />
+    <None Include="Resources\edit_copy.png" />
+    <None Include="Resources\edit_cut.png" />
+    <None Include="Resources\edit_paste.png" />
+    <None Include="Resources\enable.png" />
+    <None Include="Resources\favourites.png" />
+    <None Include="Resources\folder_open.png" />
+    <None Include="Resources\keystrokes.png" />
+    <None Include="Resources\logoff.png" />
+    <None Include="Resources\options.png" />
+    <None Include="Resources\restart.png" />
+    <None Include="Resources\shell.png" />
+    <None Include="Resources\shutdown.png" />
+    <None Include="Resources\tab_add.png" />
+    <None Include="Resources\tab_switcher.png" />
+    <None Include="Resources\turnoff.png" />
+    <None Include="Resources\view_gestures.png" />
+    <None Include="Resources\volume_down.png" />
+    <None Include="Resources\volume_up.png" />
+    <None Include="Resources\window.png" />
+    <None Include="Resources\window_fullscreen.png" />
+    <None Include="Resources\window_max.png" />
+    <None Include="Resources\window_min.png" />
+    <None Include="Resources\alert.ico" />
+    <None Include="Resources\text.png" />
+    <None Include="Resources\browser_stop.png" />
+    <None Include="Resources\application.png" />
+    <None Include="Resources\volume_control2.png" />
+    <None Include="Resources\volume_mute.png" />
+    <None Include="Resources\desktop.png" />
+    <None Include="Resources\zoom.png" />
+    <None Include="Resources\zoom_in.png" />
+    <None Include="Resources\zoom_out.png" />
+    <Content Include="just_gestures.ico" />
+    <None Include="Resources\logo48x48.ico" />
+    <None Include="Resources\add_app16.ico" />
+    <None Include="Resources\add_gesture16.ico" />
+    <None Include="Resources\modify16.ico" />
+    <None Include="Resources\options16.ico" />
+    <None Include="Resources\logo16x16.ico" />
+    <None Include="Resources\just_gestures.ico" />
+    <None Include="Resources\main_form.png" />
+    <None Include="Resources\window_side_by_side.png" />
+    <None Include="Resources\window_vertical.png" />
+    <None Include="Resources\about.ico" />
+    <None Include="Resources\wizard.ico" />
+    <None Include="Resources\logo128x128_opacity.png" />
+    <None Include="Resources\download.ico" />
+    <None Include="Resources\web_search.png" />
+    <None Include="Resources\mail.png" />
+    <None Include="Resources\media.png" />
+    <None Include="Resources\media_pause.png" />
+    <None Include="Resources\media_play.png" />
+    <None Include="Resources\media_skip_back.png" />
+    <None Include="Resources\media_skip_forward.png" />
+    <None Include="Resources\media_stop.png" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\modify.png" />
+    <None Include="Resources\internet.png" />
+    <None Include="Resources\add_application.png" />
+    <None Include="Resources\logo32.png" />
+    <None Include="Resources\flattr-badge-large.png" />
+    <Content Include="Resources\my_cursor.ani" />
+    <None Include="Resources\window_close.png" />
+    <None Include="Resources\window_topmost.png" />
+    <None Include="Resources\window_transparent.png" />
+    <None Include="Resources\tab_close.png" />
+    <None Include="Resources\tab_undo.png" />
+    <None Include="Resources\view_actions.png" />
+    <None Include="Resources\window_switcher.png" />
+    <None Include="Resources\volume_control.png" />
+    <None Include="Resources\unreadable.png" />
+    <None Include="Resources\sleep.png" />
+    <None Include="Resources\system_desktop20.png" />
+    <None Include="Resources\system_desktop24.png" />
+    <None Include="Resources\system_desktop32.png" />
+    <None Include="Resources\system_global20.png" />
+    <None Include="Resources\system_global24.png" />
+    <None Include="Resources\system_global32.png" />
+    <None Include="Resources\system_taskbar20.png" />
+    <None Include="Resources\system_taskbar24.png" />
+    <None Include="Resources\system_taskbar32.png" />
+    <None Include="Resources\unreadable20.png" />
+    <None Include="Resources\unreadable24.png" />
+    <None Include="Resources\unreadable32.png" />
+    <None Include="Resources\web_search20.png" />
+    <None Include="Resources\web_search32.png" />
+    <None Include="Resources\my_cursor_image.ico" />
+    <Content Include="ToDo.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MouseCore\MouseCore.csproj">
+      <Project>{7E543819-F6EF-45BB-A2B2-B43840AABEC9}</Project>
+      <Name>MouseCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NeuralNetwork\NeuralNetwork.csproj">
+      <Project>{DAB0073F-5C2B-455C-97FA-158E07269661}</Project>
+      <Name>NeuralNetwork</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

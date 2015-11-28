@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translation>
+  <Version />
+  <Language InEnglish="English">Anglický</Language>
+  <TranslatedText>
+    <Text Key="key1">
+      <Value>Preklad1</Value>
+      <Comment>Comment1</Comment>
+    </Text>
+    <Text Key="key2">
+      <Value>preklad2</Value>
+      <Comment>comment2</Comment>
+    </Text>
+    <Text Key="key3 ">
+      <Value>preklaaadadaa 3</Value>
+      <Comment>comment3</Comment>
+    </Text>
+  </TranslatedText>
+</Translation>

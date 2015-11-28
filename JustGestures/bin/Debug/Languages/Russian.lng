@@ -1,0 +1,1201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translation>
+  <Version>1.1.0</Version>
+  <Language InEnglish="Nikita a.k.a. Sinner">Russian</Language>
+  <TranslatedText>
+    <Text Key="A_btn_checkUpdate">
+      <Value>Проверить обновления</Value>
+    </Text>
+    <Text Key="A_caption">
+      <Value>О программе</Value>
+    </Text>
+    <Text Key="A_lbl_createdBy">
+      <Value>Создатель</Value>
+    </Text>
+    <Text Key="A_rTB_submitBugs">
+      <Value>(Пожалуйста, сообщайте о всех ошибках или предложениях на форум)</Value>
+    </Text>
+    <Text Key="A_msgCaption_uptodate">
+      <Value>Обновление</Value>
+    </Text>
+    <Text Key="A_msgText_uptodate">
+      <Value>Ваша текущая версия не требует обновлений</Value>
+    </Text>
+    <Text Key="AA_caption">
+      <Value>Добавит группу жестов</Value>
+    </Text>
+    <Text Key="AG_caption">
+      <Value>Добавить новый жест</Value>
+    </Text>
+    <Text Key="Animate_RockerG_clickExecuteBtn">
+      <Value>Нажмите на {0} для вызова действия.</Value>
+    </Text>
+    <Text Key="Animate_RockerG_pushHoldBtn">
+      <Value>Нажмите и удерживайте {0}.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_pushHoldBtn">
+      <Value>Нажмите и удерживайте {0}.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_releaseHoldBtn">
+      <Value>Отпустите {0}.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_scrollWheelDown">
+      <Value>... или вниз для вызова действия.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_scrollWheelUp">
+      <Value>Прокрутите колёсико вымшки вверх...</Value>
+    </Text>
+    <Text Key="app_group_desktop">
+      <Value>Рабочий стол</Value>
+    </Text>
+    <Text Key="app_group_global">
+      <Value>Глобальные действия</Value>
+    </Text>
+    <Text Key="app_group_taskbar">
+      <Value>Панель задач</Value>
+    </Text>
+    <Text Key="Btn_add">
+      <Value>Добавить</Value>
+    </Text>
+    <Text Key="Btn_addNew">
+      <Value>Добавить новое</Value>
+    </Text>
+    <Text Key="Btn_apply">
+      <Value>Применить</Value>
+    </Text>
+    <Text Key="Btn_back">
+      <Value>&lt; Назад</Value>
+    </Text>
+    <Text Key="Btn_cancel">
+      <Value>Отменить</Value>
+    </Text>
+    <Text Key="Btn_finish">
+      <Value>Закончить</Value>
+    </Text>
+    <Text Key="Btn_next">
+      <Value>Далее &gt;</Value>
+    </Text>
+    <Text Key="Btn_ok">
+      <Value>ОК</Value>
+    </Text>
+    <Text Key="C_Act_about">
+      <Value>Выберите действие, для которого вы хотите назначить жесть</Value>
+    </Text>
+    <Text Key="C_Act_gB_action">
+      <Value>Действие</Value>
+    </Text>
+    <Text Key="C_Act_gB_appSensitivity">
+      <Value>Чувствительность приложения</Value>
+    </Text>
+    <Text Key="C_Act_gB_category">
+      <Value>Категория</Value>
+    </Text>
+    <Text Key="C_Act_info">
+      <Value>Действия, связанные с приложением активны только тогда, когда приложение существует.
+Выберите несколько приложений, чтобы добавить новое действие для всех из них.</Value>
+    </Text>
+    <Text Key="C_Act_rB_globally">
+      <Value>Глобально</Value>
+    </Text>
+    <Text Key="C_Act_rB_locally">
+      <Value>Под особым приложением</Value>
+    </Text>
+    <Text Key="C_Act_useAction">
+      <Value>Используйте это действие</Value>
+    </Text>
+    <Text Key="C_CK_about">
+      <Value>Создать пользовательсткое действие скриптом</Value>
+    </Text>
+    <Text Key="C_CK_btn_add">
+      <Value>Добавить &gt;&gt;&gt;</Value>
+    </Text>
+    <Text Key="C_CK_btn_remove">
+      <Value>Удалить</Value>
+    </Text>
+    <Text Key="C_CK_cH_executeBtn_click">
+      <Value>Выполнить нажатие кнопки</Value>
+    </Text>
+    <Text Key="C_CK_errDownWithoutUp">
+      <Value>Ошибка {0}: Вы использовали {1} (ВНИЗ) без {1} (ВВЕРХ).</Value>
+    </Text>
+    <Text Key="C_CK_errMoreDownInline">
+      <Value>Ошибка {0}: Вы Вы исползовали более чем {1} (ВНИЗ) внутри.</Value>
+    </Text>
+    <Text Key="C_CK_errMoreUpInline">
+      <Value>Ошибка {0}: Вы Вы исползовали более чем {1} (ВВЕРХ) внутри.</Value>
+    </Text>
+    <Text Key="C_CK_errNotCurveCompatible">
+      <Value>Ошибка {0}: Скрипт, содержащий действия с мышью не может быть связан с жестом мышью. (Для начала удалите скрипт мыши, а затем измените жест)</Value>
+    </Text>
+    <Text Key="C_CK_errOneMouseActionAllowed">
+      <Value>Ошибка {0}: Вы можете использовать только один скрипт, связанный с мышью.</Value>
+    </Text>
+    <Text Key="C_CK_gB_keys">
+      <Value>Ключи</Value>
+    </Text>
+    <Text Key="C_CK_gB_keyScript">
+      <Value>Ключ скрипта</Value>
+    </Text>
+    <Text Key="C_CK_gB_modifiers">
+      <Value>Модификаторы</Value>
+    </Text>
+    <Text Key="C_CK_gB_mouseActions">
+      <Value>Действия мышью</Value>
+    </Text>
+    <Text Key="C_CK_info">
+      <Value>Скрипт может содержать только одно действие мышью.
+Скрипт посылает окну такой параметр: "Управление окном, которое...</Value>
+    </Text>
+    <Text Key="C_CurveG_about">
+      <Value>Используйте левую кнопку мыши, чтобы нарисовать жест на панеле</Value>
+    </Text>
+    <Text Key="C_CurveG_cH_curve">
+      <Value>Изображение</Value>
+    </Text>
+    <Text Key="C_CurveG_cH_name">
+      <Value>Название</Value>
+    </Text>
+    <Text Key="C_CurveG_errMouseActionInScript">
+      <Value>Скрипт содержит действия с мышью, вы не можете использовать в нём жесты.</Value>
+    </Text>
+    <Text Key="C_CurveG_errTooShortCurve">
+      <Value>Жест очень короток. Вы не можете продолжить.</Value>
+    </Text>
+    <Text Key="C_CurveG_gB_alreadyInUse">
+      <Value>Уже используется</Value>
+    </Text>
+    <Text Key="C_CurveG_gB_useCurve">
+      <Value>Использовать жест</Value>
+    </Text>
+    <Text Key="C_CurveG_info">
+      <Value>Для вызова этого жеста нажмите на кнопку переключения и двигайте мышью вне чувствительной зоны в течении времени деактивации.
+Вы можете изменить этот параметр в "Настройках -&gt; Жесты".</Value>
+    </Text>
+    <Text Key="C_CurveG_lbl_name">
+      <Value>Название</Value>
+    </Text>
+    <Text Key="C_CurveG_rB_newOne">
+      <Value>Новое</Value>
+    </Text>
+    <Text Key="C_CurveG_rB_selected">
+      <Value>Выбранное</Value>
+    </Text>
+    <Text Key="C_CurveG_warnCurveGDeactivated">
+      <Value>Жесты в данный момент отключены, но вы всё ещё можете добавить их, но они не будут работать, пока вы их не включите.
+Это возможно сделать через "Настройки -&gt; Жесты"</Value>
+    </Text>
+    <Text Key="C_CurveG_warnCurvesLimitReached">
+      <Value>Вы достигли лимита в максимальное количество жестов.
+Но, вы всё ещё можете выбрать жест из списка изученных раннее.</Value>
+    </Text>
+    <Text Key="C_Email_about">
+      <Value>Выберите e-mail адрес</Value>
+    </Text>
+    <Text Key="C_Email_errInvalidFormat">
+      <Value>E-mail адрес имеет неверных формат!</Value>
+    </Text>
+    <Text Key="C_Email_info">
+      <Value>Впишите e-mail адрес в текстовое поле.</Value>
+    </Text>
+    <Text Key="C_Email_lbl_mail">
+      <Value>E-mail адрес</Value>
+    </Text>
+    <Text Key="C_Gestures_cH_group">
+      <Value>Группа</Value>
+    </Text>
+    <Text Key="C_Gestures_cH_associatedActions">
+      <Value>Ассоциированные действия</Value>
+    </Text>
+    <Text Key="C_Gestures_tP_curveG">
+      <Value>Жесты</Value>
+    </Text>
+    <Text Key="C_Gestures_tP_rockerG">
+      <Value>Комбинация двойного нажатия</Value>
+    </Text>
+    <Text Key="C_Gestures_tP_wheelG">
+      <Value>Комбиная движений колёсика мыши</Value>
+    </Text>
+    <Text Key="C_Name_about">
+      <Value>Выберите имя вашего действия</Value>
+    </Text>
+    <Text Key="C_Name_cB_active">
+      <Value>Активно</Value>
+    </Text>
+    <Text Key="C_Name_info">
+      <Value>Больше действий могут быть ассоциированны к одинаковым жестам и к ним может быть установлен приоритет, какие действия выполнять и как это делать.
+- первое активное действие с высоким приоритетом исполняется немедленно;
+- в противном случае показывается контекстное меню всех действий;
+- одиночное действие с обычным приоритетом исполняется автоматически;
+- контекстное меню также показывается когда только одно действие с низким приоритетом является активным!</Value>
+    </Text>
+    <Text Key="C_Name_info_highPriorityOnly">
+      <Value>Скрипт, содержащий действия с мышью и жестом колёсика мыши всегда имеют высокий приоритет!</Value>
+    </Text>
+    <Text Key="C_Name_lbl_name">
+      <Value>Название</Value>
+    </Text>
+    <Text Key="C_Name_lbl_priority">
+      <Value>Приоритет</Value>
+    </Text>
+    <Text Key="C_Name_lbl_uncheckToDeactivate">
+      <Value>(Снимите галочку если не хотите делать жест активным)</Value>
+    </Text>
+    <Text Key="C_OpenFldr_about">
+      <Value>Выберите абсолютный путь к папке</Value>
+    </Text>
+    <Text Key="C_OpenFldr_lbl_folder">
+      <Value>Путь к папке</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_btn_browse">
+      <Value>Выбрать</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleMaximized">
+      <Value>Развернуто</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleMinimized">
+      <Value>Свёрнуто</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleNormal">
+      <Value>Обычное</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_lbl_windowStyle">
+      <Value>Открыть в стиле Windows</Value>
+    </Text>
+    <Text Key="C_OpenFldr_errFolderNotExists">
+      <Value>Путь к папке не существует!</Value>
+    </Text>
+    <Text Key="C_OpenFldr_info">
+      <Value>Выберите путь к папке, нажав кнопку "Выбрать" или введите его прямо в текстовое поле (путь должен быть абсолютным!)</Value>
+    </Text>
+    <Text Key="C_OpenWeb_about">
+      <Value>Выберит адрес веб-сайта</Value>
+    </Text>
+    <Text Key="C_OpenWeb_errInvalidFormat">
+      <Value>Адрес веб-сайта имеет неправильный формат.
+Он должен начинаться с "http://", "https://" или "ftp://"!</Value>
+    </Text>
+    <Text Key="C_OpenWeb_info">
+      <Value>Введите адрес сайта в данное текстовое поле.
+Он должен начинаться с "http://", "https://" или "ftp://"!
+Для получения иконки сайта должно быть соединение с Интернетом!</Value>
+    </Text>
+    <Text Key="C_OpenWeb_lbl_webUrl">
+      <Value>Адрес веб-сайта</Value>
+    </Text>
+    <Text Key="C_PC_about">
+      <Value>Выберите буфер обмена</Value>
+    </Text>
+    <Text Key="C_PC_info">
+      <Value>Копирование вставляет текст в системный буфер обмена и затем в закрытый буфер обмена.</Value>
+    </Text>
+    <Text Key="C_PC_lbl_copyTo">
+      <Value>Копировать текст в</Value>
+    </Text>
+    <Text Key="C_PC_PP_cBI_privateClipboard">
+      <Value>Закрытый буфер обмена {0} ({1})</Value>
+    </Text>
+    <Text Key="C_PC_PP_info">
+      <Value>СВОБОДНО - свободно для использования.
+КОПИРОВАНИЕ - буфер обмена уже ассоциированн с жестом копирования.
+ВСТАВКА - буфер обмена уже ассоциированн с жестом вставки.</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixCopy">
+      <Value>КОПИРОВАНИЕ</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixCopyPaste">
+      <Value>КОПИРОВАНИЕ и ВСТАВКА</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixFree">
+      <Value>СВОБОДНО</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixPaste">
+      <Value>ВСТАВКА</Value>
+    </Text>
+    <Text Key="C_PlainTxt_about">
+      <Value>Выберите текст для вставки</Value>
+    </Text>
+    <Text Key="C_PlainTxt_info">
+      <Value>Вставить весь текст единожды.
+Текст для вставки не изменяет системный буфер обмена!</Value>
+    </Text>
+    <Text Key="C_PP_about">
+      <Value>Ассоциированние вставки с буфером обмена</Value>
+    </Text>
+    <Text Key="C_PP_info">
+      <Value>Скопированный текст с закрытого буфера обмена копируется в системный буфер и затем вставляется.</Value>
+    </Text>
+    <Text Key="C_PP_lbl_pasteFrom">
+      <Value>Вставлять текст из</Value>
+    </Text>
+    <Text Key="C_RockerG_about">
+      <Value>Выберите кнопку нажатия и кнопку выполнения</Value>
+    </Text>
+    <Text Key="C_RockerG_clickExecuteBtn">
+      <Value>2.) Нажмите для вызова действия</Value>
+    </Text>
+    <Text Key="C_RockerG_errSameHoldAndExecuteBtn">
+      <Value>Кнопка нажатия и кнопка выполнения не могут быть одинаковыми!</Value>
+    </Text>
+    <Text Key="C_RockerG_info">
+      <Value>Для выполнения жтого жеста нажмите на кнопку выполнения, нажав при этом "кнопку нажатия" и учитывая время деакцтивации и не двигая мышью за пределы чувствительной зоны.
+Вы можете изменить этот параметр через "Настройки -&gt; Жесты"!</Value>
+    </Text>
+    <Text Key="C_RockerG_notes">
+      <Value>Замечания:
+- зажмите кнопку выполнения для показа уведомления;
+- освободите кнопку нажатия для отмены жеста.</Value>
+    </Text>
+    <Text Key="C_RockerG_pushHoldBtn">
+      <Value>1.) Нажмите и удерживайте эту кнопку</Value>
+    </Text>
+    <Text Key="C_RockerG_warnRockerGDeactivated">
+      <Value>Комбинация двойного нажатия жестов в данный момент отключена, но всё равно вы можете добавлять в базу новые жесты и сохранять их.
+Изменить данные параметры можно через "Настройки -&gt; Жесты"</Value>
+    </Text>
+    <Text Key="C_SearchOpenWeb_btn_getIcon">
+      <Value>Получить иконку сайта</Value>
+    </Text>
+    <Text Key="C_SearchOpenWeb_lbl_icon">
+      <Value>Иконка</Value>
+    </Text>
+    <Text Key="C_SearchWeb_about">
+      <Value>Поиск через пользовательский адрес веб-сайта</Value>
+    </Text>
+    <Text Key="C_SearchWeb_errInvalidFormat">
+      <Value>Адрес веб-сайт имеет неправильный формат.
+Он должен начинаться с "http://", "https://" или "ftp://" и содержать специальную строку (*).</Value>
+    </Text>
+    <Text Key="C_SearchWeb_info">
+      <Value>Введите адрес сайта в специальном формате в данное текстовое поле.
+Адрес должен начинаться с "http://", "https://" или "ftp://" и содержать специальную строку (*).
+Когда выполняется данный жест, специальная строка (*) заменяется выбранным текстом и получившаяся ссылка выполняется.
+Вы также можете использовать предложения от текстового поля, введя http://...
+Для получения иконки сайта требуется подключение к Интернет.</Value>
+    </Text>
+    <Text Key="C_SearchWeb_lbl_searchUrl">
+      <Value>Адрес веб-сайта</Value>
+    </Text>
+    <Text Key="C_SelectApp_about">
+      <Value>Создать группу приложений для жестов</Value>
+    </Text>
+    <Text Key="C_SelectApp_btn_browse">
+      <Value>Выбрать</Value>
+    </Text>
+    <Text Key="C_SelectApp_cB_active">
+      <Value>Активно</Value>
+    </Text>
+    <Text Key="C_SelectApp_info">
+      <Value>Вы можете переносить курсором то, что хотите добавить. Вы можете создать две специальный группы: панель задач и рабочий стол (выбор возможно только перекрёстным курсором).
+Возможно:
+- комбинация перемещения и использование Alt + Tab (переключение задач);
+- добавление одинаковых приложений несколько раз, поэтому вы можете лучше распределить действия.</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_icon">
+      <Value>Иконки</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_name">
+      <Value>Название</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_path">
+      <Value>Путь к файлу</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_uncheckToDeactivate">
+      <Value>(Уберите галочку если вы хотите отключить данную группу приложений.)</Value>
+    </Text>
+    <Text Key="C_StartPrg_about">
+      <Value>Выберите путь назначения для приложения</Value>
+    </Text>
+    <Text Key="C_StartPrg_errProgramNotExists">
+      <Value>Путь к приложению не существует!</Value>
+    </Text>
+    <Text Key="C_StartPrg_info">
+      <Value>Вы можете выбрать путь к приложению через кнопку "Выбрать", введя полный путь в текстовое поле или перетащив прилоежния перекрёстным курсовом сюда (также возможно через комбинацию ALT + TAB).</Value>
+    </Text>
+    <Text Key="C_StartPrg_lbl_cmdArguments">
+      <Value>Аргументы командной строки</Value>
+    </Text>
+    <Text Key="C_StartPrg_lbl_icon">
+      <Value>Иконка</Value>
+    </Text>
+    <Text Key="C_StartPrg_lbl_path">
+      <Value>Путь к файлу</Value>
+    </Text>
+    <Text Key="C_WheelG_about">
+      <Value>Выберите кнопку нажатия</Value>
+    </Text>
+    <Text Key="C_WheelG_info">
+      <Value>Для выполнения жтого жеста нажмите на кнопку выполнения, нажав при этом "кнопку нажатия" и учитывая время деакцтивации и не двигая мышью за пределы чувствительной зоны.
+Вы можете изменить этот параметр через "Настройки -&gt; Жесты"!</Value>
+    </Text>
+    <Text Key="C_WheelG_pushHoldBtn">
+      <Value>1.) Нажмите и удерживайте эту кнопку</Value>
+    </Text>
+    <Text Key="C_WheelG_releaseHoldBtn">
+      <Value>3.) Отпустите кнопку нажатия</Value>
+    </Text>
+    <Text Key="C_WheelG_scrollWithWheel">
+      <Value>2.) Прокрутите колёсико вверх или вниз для вызова соответствующего скрипта/действия.</Value>
+    </Text>
+    <Text Key="C_WheelG_warnWheelGDeactivated">
+      <Value>Комбинация прокрутки жестов в данный момент отключена, но всё равно вы можете добавлять в базу новые жесты и сохранять их.
+Изменить данные параметры можно через "Настройки -&gt; Жесты"</Value>
+    </Text>
+    <Text Key="C_WK_about">
+      <Value>Создать пользовательский скрипт клавиш</Value>
+    </Text>
+    <Text Key="C_WK_cH_holdBtn_down">
+      <Value>Кнопка нажатия активна</Value>
+    </Text>
+    <Text Key="C_WK_cH_holdBtn_up">
+      <Value>Кнопка нажатия отпущена</Value>
+    </Text>
+    <Text Key="C_WK_cH_wheelMove_down">
+      <Value>Колёсико вниз</Value>
+    </Text>
+    <Text Key="C_WK_cH_wheelMove_up">
+      <Value>Колёсико вверх</Value>
+    </Text>
+    <Text Key="C_WK_info">
+      <Value>Удержание и отпуск скриптовой кнопки считается как один скрипт.
+Каждый скрипт может содержать только одно действие мышью.
+Нажатие вниз кнопки вызывается первым движением мыши! (Не только нажатием её)
+Скрипт посылает окну опции, соответствующие "Управлением окном, которое..."</Value>
+    </Text>
+    <Text Key="extras_custom_wheel_btn">
+      <Value>Пользовательский скрипт движения мыши</Value>
+    </Text>
+    <Text Key="extras_name">
+      <Value>Действия колёсика мыши</Value>
+    </Text>
+    <Text Key="extras_tab_switch">
+      <Value>Переключатель вкладки</Value>
+    </Text>
+    <Text Key="extras_task_switch">
+      <Value>Переключатель задания</Value>
+    </Text>
+    <Text Key="extras_transparency">
+      <Value>Уровень прозрачности</Value>
+    </Text>
+    <Text Key="extras_volume">
+      <Value>Управление звуком</Value>
+    </Text>
+    <Text Key="extras_zoom">
+      <Value>Приблизить документ</Value>
+    </Text>
+    <Text Key="I_errorCaption">
+      <Value>Ошибка</Value>
+    </Text>
+    <Text Key="I_infoCaption">
+      <Value>Информация</Value>
+    </Text>
+    <Text Key="I_warningCaption">
+      <Value>Предупреждение</Value>
+    </Text>
+    <Text Key="internet_name">
+      <Value>Настройки Интернета</Value>
+    </Text>
+    <Text Key="internet_open_web">
+      <Value>Открыть веб-сайт</Value>
+    </Text>
+    <Text Key="internet_page_back">
+      <Value>Страница назад</Value>
+    </Text>
+    <Text Key="internet_page_home">
+      <Value>Домашняя страница</Value>
+    </Text>
+    <Text Key="internet_page_next">
+      <Value>Следующая страница</Value>
+    </Text>
+    <Text Key="internet_page_reload">
+      <Value>Обновить страницу</Value>
+    </Text>
+    <Text Key="internet_page_stop">
+      <Value>Остановить обновление</Value>
+    </Text>
+    <Text Key="internet_search_web">
+      <Value>Поиск по Интернету</Value>
+    </Text>
+    <Text Key="internet_send_email">
+      <Value>Отправить E-mail</Value>
+    </Text>
+    <Text Key="internet_tab_close">
+      <Value>Закрыть вкладку</Value>
+    </Text>
+    <Text Key="internet_tab_new">
+      <Value>Новая вкладка</Value>
+    </Text>
+    <Text Key="internet_tab_reopen">
+      <Value>Перезагрузить вкладку</Value>
+    </Text>
+    <Text Key="keystrokes_custom">
+      <Value>Пользовательские горячие клавиши</Value>
+    </Text>
+    <Text Key="keystrokes_name">
+      <Value>Послать горячую клавишу</Value>
+    </Text>
+    <Text Key="keystrokes_plain_text">
+      <Value>Вставить простой текст</Value>
+    </Text>
+    <Text Key="keystrokes_private_copy_text">
+      <Value>Копировать текст в закрытый буфер обмена</Value>
+    </Text>
+    <Text Key="keystrokes_private_paste_text">
+      <Value>Вставить текст из закрытого буфера обмена</Value>
+    </Text>
+    <Text Key="keystrokes_system_copy">
+      <Value>Копировать в буфер обмена</Value>
+    </Text>
+    <Text Key="keystrokes_system_cut">
+      <Value>Вырезать в буфер обмена</Value>
+    </Text>
+    <Text Key="keystrokes_system_paste">
+      <Value>Вставить из буфера обмена</Value>
+    </Text>
+    <Text Key="keystrokes_zoom_in">
+      <Value>Приблизить документ</Value>
+    </Text>
+    <Text Key="keystrokes_zoom_out">
+      <Value>Отдалить докуметр</Value>
+    </Text>
+    <Text Key="media_name">
+      <Value>Настройки мультимедиа</Value>
+    </Text>
+    <Text Key="media_next">
+      <Value>Следующая композиция</Value>
+    </Text>
+    <Text Key="media_pause">
+      <Value>Остановить проигрывание</Value>
+    </Text>
+    <Text Key="media_play">
+      <Value>Проиграть композицию</Value>
+    </Text>
+    <Text Key="media_prev">
+      <Value>Предыдущая композиция</Value>
+    </Text>
+    <Text Key="media_stop">
+      <Value>Остановить проигрывание</Value>
+    </Text>
+    <Text Key="MG_msgText_validProps">
+      <Value>Вы должны правильно назначить свойства.</Value>
+    </Text>
+    <Text Key="MG_multiple">
+      <Value>Изменить множественные жесты</Value>
+    </Text>
+    <Text Key="MG_tP_application">
+      <Value>Приложение</Value>
+    </Text>
+    <Text Key="MG_tP_customKeystrokes">
+      <Value>Пользовательские горячие клавиши</Value>
+    </Text>
+    <Text Key="MG_tP_folder">
+      <Value>Папка</Value>
+    </Text>
+    <Text Key="MG_tP_gesture">
+      <Value>Жест</Value>
+    </Text>
+    <Text Key="MG_tP_mail">
+      <Value>Электронное сообщение (e-mail)</Value>
+    </Text>
+    <Text Key="MG_tP_name">
+      <Value>Имя</Value>
+    </Text>
+    <Text Key="MG_tP_plainText">
+      <Value>Обычный текст</Value>
+    </Text>
+    <Text Key="MG_tP_privateClipboard">
+      <Value>Закрытый буфер обмена</Value>
+    </Text>
+    <Text Key="MG_tP_program">
+      <Value>Программа</Value>
+    </Text>
+    <Text Key="MG_tP_url">
+      <Value>Ссылка на веб-сайт</Value>
+    </Text>
+    <Text Key="MW_cH_description">
+      <Value>Описание</Value>
+    </Text>
+    <Text Key="MW_cH_name">
+      <Value>Название</Value>
+    </Text>
+    <Text Key="MW_cH_associatedActions">
+      <Value>Ассоциируемые действия</Value>
+    </Text>
+    <Text Key="MW_cH_priority">
+      <Value>Приоритет</Value>
+    </Text>
+    <Text Key="MW_cMI_activate">
+      <Value>Активировать</Value>
+    </Text>
+    <Text Key="MW_cMI_addGesture">
+      <Value>Добавить новый жест к</Value>
+    </Text>
+    <Text Key="MW_cMI_copyGesture">
+      <Value>Скопировать {0} в</Value>
+    </Text>
+    <Text Key="MW_cMI_copyMultiple">
+      <Value>Копировать выделенные действия в</Value>
+    </Text>
+    <Text Key="MW_cMI_deactivate">
+      <Value>Отключить</Value>
+    </Text>
+    <Text Key="MW_cMI_changePriority">
+      <Value>Изменить приоритет</Value>
+    </Text>
+    <Text Key="MW_msgText_deleteGesture">
+      <Value>Вы уверены, что хотите удалить {0}?</Value>
+    </Text>
+    <Text Key="MW_msgText_deleteMultiple">
+      <Value>Вы уверены, что хотите удалить выбранные жесты?</Value>
+    </Text>
+    <Text Key="MW_msgText_errCantDelGlobal">
+      <Value>Вы не можете удалять группы Глобальных жестов.</Value>
+    </Text>
+    <Text Key="MW_msgText_errNotEmptyGroup">
+      <Value>Вы можете удалить либо пустую группу, либо группу со всем содержимым.</Value>
+    </Text>
+    <Text Key="MW_sMI_exit">
+      <Value>Выход</Value>
+    </Text>
+    <Text Key="MW_tSB_about">
+      <Value>О программе</Value>
+    </Text>
+    <Text Key="MW_tSB_addGesture">
+      <Value>Добавить новый жест</Value>
+    </Text>
+    <Text Key="MW_tSB_addGroup">
+      <Value>Добавить группу приложений</Value>
+    </Text>
+    <Text Key="MW_tSB_delete">
+      <Value>Удалить</Value>
+    </Text>
+    <Text Key="MW_tSB_modify">
+      <Value>Изменить</Value>
+    </Text>
+    <Text Key="MW_tSB_options">
+      <Value>Настройки</Value>
+    </Text>
+    <Text Key="MW_tSB_viewActions">
+      <Value>Просмотр действий</Value>
+    </Text>
+    <Text Key="MW_tSB_viewGestures">
+      <Value>Просмотр жестов</Value>
+    </Text>
+    <Text Key="MW_tT_displayGesture">
+      <Value>Жест
+(нажмите для воспроизведения)</Value>
+    </Text>
+    <Text Key="MW_tT_macthedGestures">
+      <Value>Список действий, причастных к этому действию
+(перетаскивайте пункты чтобы изменить порядок)</Value>
+    </Text>
+    <Text Key="Name_CurveGesture">
+      <Value>Режим рисование жестов</Value>
+    </Text>
+    <Text Key="Name_CurveHoldDownBtn">
+      <Value>Используемая кнопка мыши</Value>
+    </Text>
+    <Text Key="Name_highPriority">
+      <Value>Выше</Value>
+    </Text>
+    <Text Key="Name_leftButton">
+      <Value>Левая кнопка</Value>
+    </Text>
+    <Text Key="Name_lowPriority">
+      <Value>Ниже</Value>
+    </Text>
+    <Text Key="Name_middleButton">
+      <Value>Кнопка в середине</Value>
+    </Text>
+    <Text Key="Name_mouseWheel">
+      <Value>Колёсико мыши</Value>
+    </Text>
+    <Text Key="Name_normalPriority">
+      <Value>Нормальный</Value>
+    </Text>
+    <Text Key="Name_rightButton">
+      <Value>Правая  кнопка</Value>
+    </Text>
+    <Text Key="Name_RockerExecuteBtn">
+      <Value>Выполнить нажатие</Value>
+    </Text>
+    <Text Key="Name_RockerGesture">
+      <Value>Комбинация двойного нажатия</Value>
+    </Text>
+    <Text Key="Name_RockerHoldDownBtn">
+      <Value>Вжать кнопку</Value>
+    </Text>
+    <Text Key="Name_WheelGesture">
+      <Value>Комбинация кнопки колёсика</Value>
+    </Text>
+    <Text Key="Name_WheelHoldDownBtn">
+      <Value>Вжать кнопку</Value>
+    </Text>
+    <Text Key="Name_x1Button">
+      <Value>XButton 1 (кнопка)</Value>
+    </Text>
+    <Text Key="Name_x2Button">
+      <Value>XButton 2 (кнопка)</Value>
+    </Text>
+    <Text Key="O_A_cH_appState">
+      <Value>Сострояние приложения</Value>
+    </Text>
+    <Text Key="O_AB_blackList">
+      <Value>Черный лист</Value>
+    </Text>
+    <Text Key="O_AB_caption">
+      <Value>Автоматическое включение/выключения приложения</Value>
+    </Text>
+    <Text Key="O_AB_cBI_autoDisable">
+      <Value>Автоматическое выключение</Value>
+    </Text>
+    <Text Key="O_AB_cBI_autoEnable">
+      <Value>Автоматическое включение</Value>
+    </Text>
+    <Text Key="O_AB_cBI_none">
+      <Value>(ничего)</Value>
+    </Text>
+    <Text Key="O_AB_cH_appState">
+      <Value>Сострояние приложения</Value>
+    </Text>
+    <Text Key="O_AB_cH_name">
+      <Value>Название</Value>
+    </Text>
+    <Text Key="O_AB_cH_path">
+      <Value>Путь к приложению</Value>
+    </Text>
+    <Text Key="O_AB_gB_conditions">
+      <Value>Условия</Value>
+    </Text>
+    <Text Key="O_AB_gB_finalList">
+      <Value>Финальный лист</Value>
+    </Text>
+    <Text Key="O_AB_info">
+      <Value>Авто-режим используется для (де)активации приложения. Это автовыбирает программу в фокус и сообщает состояния приложения.
+Финальный лист содержит состояния приложений, когда программа из черного/белого листа получает фокус.
+Выберите автоматический старт режима авто-выполнения в Основных настройках или запустите его вручную через контекстное меню значка приложения в трее.
+
+Например:
+Авто выключение приложения, когда Интернет Эксплорер получает фокус
+- ставит Стандартное Состояние в "Авто-включение"
+- ставит 1. Авто-состояние в черный лист
+(Черный лист содержит Интернет Эксплорер)
+- запуск Авто-режима через иконку в трее программы "Just Gestures".</Value>
+    </Text>
+    <Text Key="O_AB_lbl_1AutoState">
+      <Value>1. Автоматическое состояние</Value>
+    </Text>
+    <Text Key="O_AB_lbl_2AutoState">
+      <Value>2. Автоматическое состояние</Value>
+    </Text>
+    <Text Key="O_AB_lbl_autocheck">
+      <Value>Автопроверка каждые миллисекунды</Value>
+    </Text>
+    <Text Key="O_AB_lbl_defaultState">
+      <Value>Стандартное состояние</Value>
+    </Text>
+    <Text Key="O_AB_lbl_fullscreenState">
+      <Value>Состояние полного экрана</Value>
+    </Text>
+    <Text Key="O_AB_name">
+      <Value>Автоматический режим</Value>
+    </Text>
+    <Text Key="O_AB_rTB_description">
+      <Value>Конечное состояние приложения вычисляется сверху вниз (все условия влияния состояния, которое было вычислено из верхних условий).</Value>
+    </Text>
+    <Text Key="O_AB_whiteList">
+      <Value>Белый лист</Value>
+    </Text>
+    <Text Key="O_BL_caption">
+      <Value>Настройка черного листа</Value>
+    </Text>
+    <Text Key="O_BL_info">
+      <Value>Лист программ, которые отключают приложение, когда одно из них получает фокус.</Value>
+    </Text>
+    <Text Key="O_BL_name">
+      <Value>Черный лист</Value>
+    </Text>
+    <Text Key="O_BW_btn_add">
+      <Value>Добавить новое</Value>
+    </Text>
+    <Text Key="O_BW_btn_remove">
+      <Value>Удалить выбранное</Value>
+    </Text>
+    <Text Key="O_BW_cH_name">
+      <Value>Название</Value>
+    </Text>
+    <Text Key="O_BW_cH_path">
+      <Value>Путь к приложению</Value>
+    </Text>
+    <Text Key="O_caption">
+      <Value>Настройки</Value>
+    </Text>
+    <Text Key="O_General_caption">
+      <Value>Глобальные настройки</Value>
+    </Text>
+    <Text Key="O_General_cB_autobehave">
+      <Value>Автоматически запускать "Авто-режим"</Value>
+    </Text>
+    <Text Key="O_General_cB_closeToTray">
+      <Value>Скрытые приложения отправлять в трей</Value>
+    </Text>
+    <Text Key="O_General_cB_checkUpdate">
+      <Value>Проверять наличие обновлений</Value>
+    </Text>
+    <Text Key="O_General_cB_minToTray">
+      <Value>Свернутые приложения отправлять в трей</Value>
+    </Text>
+    <Text Key="O_General_cB_startMinimized">
+      <Value>Запускать свёрнутым</Value>
+    </Text>
+    <Text Key="O_General_cB_startUp">
+      <Value>Запускать вместе с Windows</Value>
+    </Text>
+    <Text Key="O_General_gB_localization">
+      <Value>Локализация</Value>
+    </Text>
+    <Text Key="O_General_gB_startUpSettings">
+      <Value>Запуск</Value>
+    </Text>
+    <Text Key="O_General_gB_systemTraySettings">
+      <Value>Системный трей</Value>
+    </Text>
+    <Text Key="O_General_info">
+      <Value>"Состояние приложения" и "Авто-режим" применяются только когда Приложение запускается.</Value>
+    </Text>
+    <Text Key="O_General_lbl_changeLanguage">
+      <Value>Изменить язык</Value>
+    </Text>
+    <Text Key="O_General_name">
+      <Value>Освное</Value>
+    </Text>
+    <Text Key="O_Gestures_btn_wizard">
+      <Value>Запустить мастер</Value>
+    </Text>
+    <Text Key="O_Gestures_caption">
+      <Value>Настройки жестов</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_disabled">
+      <Value>Отключено</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_enabled">
+      <Value>Включено</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_inForeground">
+      <Value>на переднем плане</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_off">
+      <Value>ВЫКЛЮЧИТЬ</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_underCursor">
+      <Value>под курсором</Value>
+    </Text>
+    <Text Key="O_Gestures_gB_activation">
+      <Value>Активация</Value>
+    </Text>
+    <Text Key="O_Gestures_gB_gestureTypes">
+      <Value>Тип жеста</Value>
+    </Text>
+    <Text Key="O_Gestures_info">
+      <Value>Жесты с выключенной опцией:
+- возможно добавлять, но они не будут функционировать;
+- уже выученные жесты будут отключены
+
+- Управление программой/окном - все действия, ассоциированные с этой опцией
+- кнопка переключения - кнопка, которая используется для содержания жестов
+- удерживание кнопки нажатия/кнопки управления в чувствительной зоне за время деактивации и кнопки нажатия/кнопки управления будут работать нормально.</Value>
+    </Text>
+    <Text Key="O_Gestures_lbl_deactivationTimeout">
+      <Value>Таймаут деактивации в миллисекундах</Value>
+    </Text>
+    <Text Key="O_Gestures_lbl_sensitiveZone">
+      <Value>Зона чувствительности в пикселях</Value>
+    </Text>
+    <Text Key="O_Gestures_lbl_typeOfWnd">
+      <Value>Управляющая программа/окно</Value>
+    </Text>
+    <Text Key="O_Gestures_name">
+      <Value>Жесты</Value>
+    </Text>
+    <Text Key="O_V_caption">
+      <Value>Визуализация жестов</Value>
+    </Text>
+    <Text Key="O_V_cB_showGesture">
+      <Value>Показать заднюю линию</Value>
+    </Text>
+    <Text Key="O_V_cB_showToolTip">
+      <Value>Показывать подсказку во время воспроизведения жеста</Value>
+    </Text>
+    <Text Key="O_V_gB_graphics">
+      <Value>Графика</Value>
+    </Text>
+    <Text Key="O_V_gB_toolTipForGestures">
+      <Value>Подсказка при воспроизведении жеста</Value>
+    </Text>
+    <Text Key="O_V_info">
+      <Value>Всплывающие подсказки показываются для жестов мыши и комбинаций двойных кнопок.
+- жесты - во время воспроизведения остановите мышь для появления подсказки;
+- комбинация двойного нажатия - удерживайте нажатой кнопку "нажатия" и кнопку "выполнения" для появления всплывающей подсказки.</Value>
+    </Text>
+    <Text Key="O_V_lbl_color">
+      <Value>Цвет</Value>
+    </Text>
+    <Text Key="O_V_lbl_toolTipDelay">
+      <Value>Задержка подсказки в миллисекундах</Value>
+    </Text>
+    <Text Key="O_V_lbl_width">
+      <Value>Ширина</Value>
+    </Text>
+    <Text Key="O_V_name">
+      <Value>Визуализация</Value>
+    </Text>
+    <Text Key="O_WL_caption">
+      <Value>Настройка белого листа</Value>
+    </Text>
+    <Text Key="O_WL_info">
+      <Value>Лист программ, которые активируют Приложения, когда одно из них получает фокус.</Value>
+    </Text>
+    <Text Key="O_WL_name">
+      <Value>Белый лист</Value>
+    </Text>
+    <Text Key="shell_dialog">
+      <Value>Открыть диалог завершения работы</Value>
+    </Text>
+    <Text Key="shell_hibernate">
+      <Value>Режим гибернации</Value>
+    </Text>
+    <Text Key="shell_lock">
+      <Value>Заблокировать</Value>
+    </Text>
+    <Text Key="shell_log_off">
+      <Value>Выйти из пользователя</Value>
+    </Text>
+    <Text Key="shell_name">
+      <Value>Команды Windows (командная строка)</Value>
+    </Text>
+    <Text Key="shell_open_fldr">
+      <Value>Открыть папку</Value>
+    </Text>
+    <Text Key="shell_open_web">
+      <Value>Открыть веб-сайт</Value>
+    </Text>
+    <Text Key="shell_restart">
+      <Value>Перезагрузить</Value>
+    </Text>
+    <Text Key="shell_send_mail">
+      <Value>Отправить электронное сообщение (e-mail)</Value>
+    </Text>
+    <Text Key="shell_show_desktop">
+      <Value>Показать/восстановить рабочий стол</Value>
+    </Text>
+    <Text Key="shell_shut_down">
+      <Value>Выключить</Value>
+    </Text>
+    <Text Key="shell_sleep">
+      <Value>Сон</Value>
+    </Text>
+    <Text Key="shell_start_prg">
+      <Value>Запустить программу</Value>
+    </Text>
+    <Text Key="ST_tSMI_autobehave_off">
+      <Value>Остановка авто-выполнения</Value>
+    </Text>
+    <Text Key="ST_tSMI_autobehave_on">
+      <Value>Старт авто-выполнения</Value>
+    </Text>
+    <Text Key="ST_tSMI_disable">
+      <Value>Выключить</Value>
+    </Text>
+    <Text Key="ST_tSMI_enable">
+      <Value>Включить</Value>
+    </Text>
+    <Text Key="ST_tSMI_show">
+      <Value>Показать</Value>
+    </Text>
+    <Text Key="ST_tT_autobehave">
+      <Value>Режим авто-выполнения</Value>
+    </Text>
+    <Text Key="ST_tT_disabled">
+      <Value>Отключено</Value>
+    </Text>
+    <Text Key="ST_tT_learning">
+      <Value>Обучение жестам</Value>
+    </Text>
+    <Text Key="U_btn_download">
+      <Value>Скачать сейчас!</Value>
+    </Text>
+    <Text Key="U_caption">
+      <Value>"Just Gestures" - новая версия!</Value>
+    </Text>
+    <Text Key="U_lbl_features">
+      <Value>Нововведения:</Value>
+    </Text>
+    <Text Key="U_lbl_newUpdate">
+      <Value>Доступна новая версия программы!</Value>
+    </Text>
+    <Text Key="U_lbl_version">
+      <Value>Версия:</Value>
+    </Text>
+    <Text Key="Unknown_gesture">
+      <Value>[Неизвестно]</Value>
+    </Text>
+    <Text Key="volume_down">
+      <Value>Убавить звук</Value>
+    </Text>
+    <Text Key="volume_mute">
+      <Value>Отключить звук</Value>
+    </Text>
+    <Text Key="volume_name">
+      <Value>Настройки звука</Value>
+    </Text>
+    <Text Key="volume_set">
+      <Value>Установить звук</Value>
+    </Text>
+    <Text Key="volume_up">
+      <Value>Прибавить звук</Value>
+    </Text>
+    <Text Key="W_A_caption">
+      <Value>Настройки активации жеста</Value>
+    </Text>
+    <Text Key="W_A_controlPrgDescription">
+      <Value>Все действия ассоциируются к некоторым окнам или программам. Решите, где вы хотите использовать действия к окну под курсором или на заднем плане.
+
+- в программе возможно создание действия чувствительности приложения (действия активны только если есть приложения). Также это может помочь узнать, активно ли приложение или нет.</Value>
+    </Text>
+    <Text Key="W_A_gB_gestureActivation">
+      <Value>Активация жеста</Value>
+    </Text>
+    <Text Key="W_A_info">
+      <Value>Все параметры могут быть изменены позже в программе через "Настройки -&gt; Жесты".</Value>
+    </Text>
+    <Text Key="W_A_zoneTimeoutDescription">
+      <Value>Удерживайте кнопку нажатия/кнопку управления в зоне чувствительности в течении времени деактивации и кнопку нажатия/управления для нормальной работы.
+
+В общем для этих типов жестов:
+- жесты - нажмите кнопку управления и двигайте мышку из зоны чувствительности, учитывая время деактивации;
+- комбинация двойного нажатия - нажмите на кнопку выполнения и кнопка нажатия нажата с учебем времени деактивации и не двигается за зону чувствительности;
+- комбинация колёсика мыши - двигайте колёсиком мыши после удерживания кнопки нажатия, учитывая время деактивации и не двигайте мышь из зоны чувствительности.</Value>
+    </Text>
+    <Text Key="W_caption">
+      <Value>Мастер настройки</Value>
+    </Text>
+    <Text Key="W_CC_caption">
+      <Value>Тип жестов - Curve</Value>
+    </Text>
+    <Text Key="W_CC_description">
+      <Value>Процесс настройки классических жестов управления</Value>
+    </Text>
+    <Text Key="W_CC_info">
+      <Value>- уберите галочку с ненужного типа жестов и программа их не будет использовать в дальнейшем;
+- чувствительная зопа и зоне деакцивации по времени будет настроена в конце установки!</Value>
+    </Text>
+    <Text Key="W_CC_instructions">
+      <Value>Удерживайте кнопку управления, двигайте мышью по специальному направление и отпустите кнопку управления.</Value>
+    </Text>
+    <Text Key="W_DB_caption">
+      <Value>Тип жеста - комбинация двойных клавиш</Value>
+    </Text>
+    <Text Key="W_DB_description">
+      <Value>Процесс настройки выполнительных действий</Value>
+    </Text>
+    <Text Key="W_DB_info">
+      <Value>- уберите галочку с ненужного типа жестов и программа их не будет использовать в дальнейшем;
+- чувствительная зопа и зоне деакцивации по времени будет настроена в конце установки!</Value>
+    </Text>
+    <Text Key="W_DB_instructions">
+      <Value>Нажмите на кнопку выполнения, пока удерживаете кнопку нажатия.</Value>
+    </Text>
+    <Text Key="W_G_gB_activation">
+      <Value>Активация</Value>
+    </Text>
+    <Text Key="W_G_gB_description">
+      <Value>Описание</Value>
+    </Text>
+    <Text Key="W_G_gB_gesture">
+      <Value>Жест</Value>
+    </Text>
+    <Text Key="W_G_gB_preview">
+      <Value>Предпросмотр (пример)</Value>
+    </Text>
+    <Text Key="W_G_lbl_and">
+      <Value>и</Value>
+    </Text>
+    <Text Key="W_G_lbl_instructions">
+      <Value>Инструкции:</Value>
+    </Text>
+    <Text Key="W_G_lbl_mouseMovement">
+      <Value>Движение мыши</Value>
+    </Text>
+    <Text Key="W_G_tT_animation">
+      <Value>Нажмите для воспроизведения жеста.</Value>
+    </Text>
+    <Text Key="W_page">
+      <Value>Страница:</Value>
+    </Text>
+    <Text Key="W_W_caption">
+      <Value>Добро пожаловать в "Just Gestures"</Value>
+    </Text>
+    <Text Key="W_W_info">
+      <Value>- эта всплывающая подсказка содержит полезную инфформацию;
+- она объясняет некоторые функции, даёт полезные советы, сообщает об ошибках и предупреждениях;
+- для просмотра подсказки наведите мышь на иконку информации!</Value>
+    </Text>
+    <Text Key="W_W_introCaption">
+      <Value>Предлагаем вам ознакомиться с кратким курсом по обучению пользования программой "Just Gestures"!</Value>
+    </Text>
+    <Text Key="W_W_introDescription">
+      <Value>Мастер установки поможет вам освоить основные аспекты данной программы, познакомит с новыми и полезными функциями. Это займёт не более пяти минут.
+
+Примечание:
+- для просмотра некоторой дополнительной информации наведите курсор мыши на иконку информации ниже!</Value>
+    </Text>
+    <Text Key="W_WB_caption">
+      <Value>Тип жестов - комбинация колёсика мыши</Value>
+    </Text>
+    <Text Key="W_WB_description">
+      <Value>Процесс настройки управления с помощью колёсика мыши</Value>
+    </Text>
+    <Text Key="W_WB_info">
+      <Value>- уберите галочку с ненужного типа жестов и программа их не будет использовать в дальнейшем;
+- чувствительная зопа и зоне деакцивации по времени будет настроена в конце установки!</Value>
+    </Text>
+    <Text Key="W_WB_instructions">
+      <Value>Прокрутите колёсико мыши, пока удерживаете кнопку нажатия, затем отпустите эту кнопку.</Value>
+    </Text>
+    <Text Key="window_close">
+      <Value>Закрыть окно</Value>
+    </Text>
+    <Text Key="window_close_all">
+      <Value>Закрыть все окна</Value>
+    </Text>
+    <Text Key="window_fullscreen">
+      <Value>Сделать окно во весь экран/восстановить</Value>
+    </Text>
+    <Text Key="window_max">
+      <Value>Развернуть/восстановить окно</Value>
+    </Text>
+    <Text Key="window_min">
+      <Value>Свернуть окно</Value>
+    </Text>
+    <Text Key="window_min_all">
+      <Value>Свернуть все окна/воссстановить</Value>
+    </Text>
+    <Text Key="window_min_totray">
+      <Value>Свернуть в трей</Value>
+    </Text>
+    <Text Key="window_name">
+      <Value>Настройки окна</Value>
+    </Text>
+    <Text Key="window_show_side_by_side">
+      <Value>Показать окна друг к другу</Value>
+    </Text>
+    <Text Key="window_show_vertically">
+      <Value>Показать окно вертикально</Value>
+    </Text>
+    <Text Key="window_topmost">
+      <Value>Установить окно поверх всех/восстановить</Value>
+    </Text>
+    <Text Key="window_transparent">
+      <Value>Установить прозрачность окна</Value>
+    </Text>
+  </TranslatedText>
+</Translation>

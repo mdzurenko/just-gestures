@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustGestures", "JustGestures\JustGestures.csproj", "{2005DE89-9663-47F9-9388-590B1897539C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetwork", "NeuralNetwork\NeuralNetwork.csproj", "{DAB0073F-5C2B-455C-97FA-158E07269661}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseCore", "MouseCore\MouseCore.csproj", "{7E543819-F6EF-45BB-A2B2-B43840AABEC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2005DE89-9663-47F9-9388-590B1897539C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2005DE89-9663-47F9-9388-590B1897539C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2005DE89-9663-47F9-9388-590B1897539C}.Debug|x64.ActiveCfg = Debug|x64
+		{2005DE89-9663-47F9-9388-590B1897539C}.Debug|x64.Build.0 = Debug|x64
+		{2005DE89-9663-47F9-9388-590B1897539C}.Debug|x86.ActiveCfg = Debug|x86
+		{2005DE89-9663-47F9-9388-590B1897539C}.Debug|x86.Build.0 = Debug|x86
+		{2005DE89-9663-47F9-9388-590B1897539C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2005DE89-9663-47F9-9388-590B1897539C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2005DE89-9663-47F9-9388-590B1897539C}.Release|x64.ActiveCfg = Release|x64
+		{2005DE89-9663-47F9-9388-590B1897539C}.Release|x64.Build.0 = Release|x64
+		{2005DE89-9663-47F9-9388-590B1897539C}.Release|x86.ActiveCfg = Release|x86
+		{2005DE89-9663-47F9-9388-590B1897539C}.Release|x86.Build.0 = Release|x86
+		{DAB0073F-5C2B-455C-97FA-158E07269661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB0073F-5C2B-455C-97FA-158E07269661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB0073F-5C2B-455C-97FA-158E07269661}.Debug|x64.ActiveCfg = Debug|x64
+		{DAB0073F-5C2B-455C-97FA-158E07269661}.Debug|x64.Build.0 = Debug|x64
+		{DAB0073F-5C2B-455C-97FA-158E07269661}.Debug|x86.ActiveCfg = Debug|x86
+		{DAB0073F-5C2B-455C-97FA-158E07269661}.Debug|x86.Build.0 = Debug|x86
+		{DAB0073F-5C2B-455C-97FA-158E07269661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB0073F-5C2B-455C-97FA-158E07269661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB0073F-5C2B-455C-97FA-158E07269661}.Release|x64.ActiveCfg = Release|x64
+		{DAB0073F-5C2B-455C-97FA-158E07269661}.Release|x64.Build.0 = Release|x64
+		{DAB0073F-5C2B-455C-97FA-158E07269661}.Release|x86.ActiveCfg = Release|x86
+		{DAB0073F-5C2B-455C-97FA-158E07269661}.Release|x86.Build.0 = Release|x86
+		{7E543819-F6EF-45BB-A2B2-B43840AABEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E543819-F6EF-45BB-A2B2-B43840AABEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E543819-F6EF-45BB-A2B2-B43840AABEC9}.Debug|x64.ActiveCfg = Debug|x64
+		{7E543819-F6EF-45BB-A2B2-B43840AABEC9}.Debug|x64.Build.0 = Debug|x64
+		{7E543819-F6EF-45BB-A2B2-B43840AABEC9}.Debug|x86.ActiveCfg = Debug|x86
+		{7E543819-F6EF-45BB-A2B2-B43840AABEC9}.Debug|x86.Build.0 = Debug|x86
+		{7E543819-F6EF-45BB-A2B2-B43840AABEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E543819-F6EF-45BB-A2B2-B43840AABEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E543819-F6EF-45BB-A2B2-B43840AABEC9}.Release|x64.ActiveCfg = Release|x64
+		{7E543819-F6EF-45BB-A2B2-B43840AABEC9}.Release|x64.Build.0 = Release|x64
+		{7E543819-F6EF-45BB-A2B2-B43840AABEC9}.Release|x86.ActiveCfg = Release|x86
+		{7E543819-F6EF-45BB-A2B2-B43840AABEC9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

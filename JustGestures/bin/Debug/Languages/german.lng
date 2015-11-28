@@ -1,0 +1,1256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translation>
+  <Version>1.1.1</Version>
+  <Language InEnglish="German">Deutsch</Language>
+  <TranslatedText>
+    <Text Key="A_btn_checkUpdate">
+      <Value>Nach Updates suchen</Value>
+    </Text>
+    <Text Key="A_caption">
+      <Value>Über</Value>
+    </Text>
+    <Text Key="A_lbl_createdBy">
+      <Value>Created by</Value>
+    </Text>
+    <Text Key="A_lbl_submitBugs">
+      <Value>Bitte schreiben Sie Vorschläge zur Verbesserung oder Berichte über Bugs ins Forum</Value>
+    </Text>
+    <Text Key="A_msgCaption_uptodate">
+      <Value>Update</Value>
+    </Text>
+    <Text Key="A_msgText_uptodate">
+      <Value>Ihre aktuelle Version ist auf dem neuesten Stand</Value>
+    </Text>
+    <Text Key="AA_caption">
+      <Value>Anwendungsgruppe hinzufügen</Value>
+    </Text>
+    <Text Key="AG_caption">
+      <Value>Neue Geste hinzufügen</Value>
+    </Text>
+    <Text Key="Animate_RockerG_clickExecuteBtn">
+      <Value>Auf {0} drücken, um die Aktion einzuleiten</Value>
+    </Text>
+    <Text Key="Animate_RockerG_pushHoldBtn">
+      <Value>{0} drücken und halten.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_pushHoldBtn">
+      <Value>{0} drücken und halten.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_releaseHoldBtn">
+      <Value>{0} loslassen.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_scrollWheelDown">
+      <Value>... oder runter drehen um Aktion einzuleiten.</Value>
+    </Text>
+    <Text Key="Animate_WheelG_scrollWheelUp">
+      <Value>Mausrad rauf ...</Value>
+    </Text>
+    <Text Key="app_group_desktop">
+      <Value>Desktop</Value>
+    </Text>
+    <Text Key="app_group_global">
+      <Value>Globale Gesten</Value>
+    </Text>
+    <Text Key="app_group_taskbar">
+      <Value>Taskleiste</Value>
+    </Text>
+    <Text Key="Btn_add">
+      <Value>Hinzufügen</Value>
+    </Text>
+    <Text Key="Btn_addNew">
+      <Value>Hinzufügen</Value>
+    </Text>
+    <Text Key="Btn_apply">
+      <Value>Übernehmen</Value>
+    </Text>
+    <Text Key="Btn_back">
+      <Value>Zurück</Value>
+    </Text>
+    <Text Key="Btn_cancel">
+      <Value>Abbrechen</Value>
+    </Text>
+    <Text Key="Btn_finish">
+      <Value>Beenden</Value>
+    </Text>
+    <Text Key="Btn_next">
+      <Value>Nächste</Value>
+    </Text>
+    <Text Key="Btn_ok">
+      <Value>OK</Value>
+    </Text>
+    <Text Key="C_Act_about">
+      <Value>Aktion auswählen, für die eine Geste festgelegt werden soll</Value>
+    </Text>
+    <Text Key="C_Act_gB_action">
+      <Value>Aktion</Value>
+    </Text>
+    <Text Key="C_Act_gB_appSensitivity">
+      <Value>Abhängigkeit</Value>
+    </Text>
+    <Text Key="C_Act_gB_category">
+      <Value>Kategorie</Value>
+    </Text>
+    <Text Key="C_Act_info">
+      <Value>Mit Anwendungen verknüpfte Aktionen sind nur aktiv, wenn es die Anwendung auch ist.
+Wähle mehrere Anwendungen, um allen neue Aktionen hinzuzufügen.</Value>
+    </Text>
+    <Text Key="C_Act_rB_globally">
+      <Value>Global</Value>
+    </Text>
+    <Text Key="C_Act_rB_locally">
+      <Value>Unter bestimmter Anwendung</Value>
+    </Text>
+    <Text Key="C_Act_useAction">
+      <Value>Diese Aktion benutzen</Value>
+    </Text>
+    <Text Key="C_CK_about">
+      <Value>Eigenes Tasten-Script erstellen</Value>
+    </Text>
+    <Text Key="C_CK_btn_add">
+      <Value>Hinzufügen</Value>
+    </Text>
+    <Text Key="C_CK_btn_remove">
+      <Value>Entfernen</Value>
+    </Text>
+    <Text Key="C_CK_cH_executeBtn_click">
+      <Value>Auslösetasten-Klick</Value>
+    </Text>
+    <Text Key="C_CK_errDownWithoutUp">
+      <Value>Fehler {0}: Sie haben {1} (RUNTER) ohne {1} (RAUF) benutzt.</Value>
+    </Text>
+    <Text Key="C_CK_errMoreDownInline">
+      <Value>Fehler {0}: Sie haben mehrere {1} (DRUCK) in Folge benutzt.</Value>
+    </Text>
+    <Text Key="C_CK_errMoreUpInline">
+      <Value>Fehler {0}: Sie haben mehrere {1} (LOS) in Folge benutzt.</Value>
+    </Text>
+    <Text Key="C_CK_errNotCurveCompatible">
+      <Value>Fehler {0}: Scripte, die Mausaktionen beinhalten, können nicht mit Bewegungsgesten verknüpft werden.
+(Entfernen Sie zunächst die Mausaktion, um die Bewegungsgeste zu ändern.)</Value>
+    </Text>
+    <Text Key="C_CK_errOneMouseActionAllowed">
+      <Value>Fehler {0}: Es kann nur eine Mausaktion im Script benutzt werden.</Value>
+    </Text>
+    <Text Key="C_CK_gB_keys">
+      <Value>Tasten</Value>
+    </Text>
+    <Text Key="C_CK_gB_keyScript">
+      <Value>Tasten-Script</Value>
+    </Text>
+    <Text Key="C_CK_gB_modifiers">
+      <Value>Zusatztasten</Value>
+    </Text>
+    <Text Key="C_CK_gB_mouseActions">
+      <Value>Mausaktionen</Value>
+    </Text>
+    <Text Key="C_CK_info">
+      <Value>Das Script darf nur eine Mausaktion beinhalten.
+Das Script wird an das entsprechende Fenster aus der Einstellung "Kontrolliertes Programm" gesendet.</Value>
+    </Text>
+    <Text Key="C_CurveG_about">
+      <Value>Linke Maustaste benutzen, um Geste auf das Paneel zu zeichnen</Value>
+    </Text>
+    <Text Key="C_CurveG_cH_curve">
+      <Value>Geste</Value>
+    </Text>
+    <Text Key="C_CurveG_cH_name">
+      <Value>Name</Value>
+    </Text>
+    <Text Key="C_CurveG_errMouseActionInScript">
+      <Value>Script enthält Mausaktionen. Es kann nicht mit Bewegungsgesten verknüpft werden.</Value>
+    </Text>
+    <Text Key="C_CurveG_errTooShortCurve">
+      <Value>Geste ist zu kurz. Sie können nicht fortsetzen.</Value>
+    </Text>
+    <Text Key="C_CurveG_gB_alreadyInUse">
+      <Value>Bereits benutzt</Value>
+    </Text>
+    <Text Key="C_CurveG_gB_useCurve">
+      <Value>Geste benutzen</Value>
+    </Text>
+    <Text Key="C_CurveG_info">
+      <Value>Um diese Geste einzuleiten, Haltetaste drücken und Maus während des Zeitlimits für Gesten aus dem Empfindlichkeitsbereich heraus bewegen.
+Parameter änderbar unter; Einstellungen / Gesten</Value>
+    </Text>
+    <Text Key="C_CurveG_lbl_name">
+      <Value>Name</Value>
+    </Text>
+    <Text Key="C_CurveG_rB_newOne">
+      <Value>Neue</Value>
+    </Text>
+    <Text Key="C_CurveG_rB_selected">
+      <Value>Ausgewählte</Value>
+    </Text>
+    <Text Key="C_CurveG_warnCurveGDeactivated">
+      <Value>Bewegungsgesten sind derzeit ausgeschaltet. Sie können hinzugefügt werden, bleiben jedoch ohne Funktion, bis sie eingeschaltet werden.
+Dieses Verhalten ändern unter: Einstellungen / Gesten</Value>
+    </Text>
+    <Text Key="C_CurveG_warnCurvesLimitReached">
+      <Value>Limit für Bewegungsgesten erreicht. Es kann nur noch aus bereits erlernten gewählt werden.</Value>
+    </Text>
+    <Text Key="C_Email_about">
+      <Value>E-Mail-Adresse angeben</Value>
+    </Text>
+    <Text Key="C_Email_errInvalidFormat">
+      <Value>E-Mail-Adresse im ungültigen Format.</Value>
+    </Text>
+    <Text Key="C_Email_info">
+      <Value>E-Mail-Adresse direkt ins Textfeld eingeben.</Value>
+    </Text>
+    <Text Key="C_Email_lbl_mail">
+      <Value>E-Mail - Adresse</Value>
+    </Text>
+    <Text Key="C_Gestures_cH_group">
+      <Value>Gruppe</Value>
+    </Text>
+    <Text Key="C_Gestures_cH_associatedActions">
+      <Value>Verknüpfte Aktionen</Value>
+    </Text>
+    <Text Key="C_Gestures_tP_curveG">
+      <Value>Bewegungsgeste</Value>
+    </Text>
+    <Text Key="C_Gestures_tP_rockerG">
+      <Value>RockerGeste</Value>
+    </Text>
+    <Text Key="C_Gestures_tP_wheelG">
+      <Value>Mausradgeste</Value>
+    </Text>
+    <Text Key="C_Name_about">
+      <Value>Wähle einen Namen für die Aktion</Value>
+    </Text>
+    <Text Key="C_Name_cB_active">
+      <Value>Aktiv</Value>
+    </Text>
+    <Text Key="C_Name_info">
+      <Value>Es können mehrere Aktionen mit der selben Geste verknüpft werden, wobei ihre Priorität bestimmt, welche Aktion wie ausgeführt wird.
+
+- Erste aktive Aktion hoher Priorität wird sofort ausgeführt
+- Ansonsten erscheint ein Kontextmenü aller Aktionen
+
+- Einzelne Aktionen normaler Priorität werden automatisch ausgeführt
+
+- Auch bei nur einer aktiven Aktion niedriger Priorität erscheint ein Kontextmenü</Value>
+    </Text>
+    <Text Key="C_Name_info_highPriorityOnly">
+      <Value>Scripte, welche Mausaktionen und Mausradgesten beinhalten, haben immer hohe Priorität.</Value>
+    </Text>
+    <Text Key="C_Name_lbl_name">
+      <Value>Name</Value>
+    </Text>
+    <Text Key="C_Name_lbl_priority">
+      <Value>Priorität</Value>
+    </Text>
+    <Text Key="C_Name_lbl_uncheckToDeactivate">
+      <Value>(Haken entfernen, falls diese Geste nicht aktiv sein soll)</Value>
+    </Text>
+    <Text Key="C_OpenFldr_about">
+      <Value>Zielpfad des Ordners wählen</Value>
+    </Text>
+    <Text Key="C_OpenFldr_lbl_folder">
+      <Value>Suchen</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_btn_browse">
+      <Value>Durchsuchen</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleMaximized">
+      <Value>Maximiert</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleMinimized">
+      <Value>Minimiert</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_cBI_wndStyleNormal">
+      <Value>Normal</Value>
+    </Text>
+    <Text Key="C_OpenFldrPrg_lbl_windowStyle">
+      <Value>Setze Fenstergröße:</Value>
+    </Text>
+    <Text Key="C_OpenPrg_errFolderNotExists">
+      <Value>Ordnerpfad nicht vorhanden.</Value>
+    </Text>
+    <Text Key="C_OpenPrg_info">
+      <Value>Ordnerpfad über die Suchtaste wählen oder direkt eingeben.</Value>
+    </Text>
+    <Text Key="C_OpenWeb_about">
+      <Value>Webseiten-Adresse angeben</Value>
+    </Text>
+    <Text Key="C_OpenWeb_errInvalidFormat">
+      <Value>Web-Adresse im ungültigen Format.
+--/ Muß mit 'http://', 'https://' oder 'ftp://' beginnen</Value>
+    </Text>
+    <Text Key="C_OpenWeb_info">
+      <Value>Webseiten-Adresse direkt ins Textfeld eingeben.</Value>
+    </Text>
+    <Text Key="C_OpenWeb_lbl_webUrl">
+      <Value>Webseiten-Adresse</Value>
+    </Text>
+    <Text Key="C_PC_about">
+      <Value>Ablage auswählen</Value>
+    </Text>
+    <Text Key="C_PC_info">
+      <Value>Ausgewählter Text wird in die Zwischenablage des Systems kopiert und in einer privaten Ablage gespeichert</Value>
+    </Text>
+    <Text Key="C_PC_lbl_copyTo">
+      <Value>Kopiere Text in </Value>
+    </Text>
+    <Text Key="C_PC_PP_cBI_privateClipboard">
+      <Value>Eigene Ablage {0} ({1})</Value>
+    </Text>
+    <Text Key="C_PC_PP_info">
+      <Value>FREI = Unbelegte Position.
+KOPIEREN = Ablage ist bereits mit Kopier-Geste verknüpft.
+EINFÜGEN = Ablage ist bereits mit Einfügen-Geste verknüpft.</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixCopy">
+      <Value>KOPIEREN</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixCopyPaste">
+      <Value>Kopieren und Einfügen</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixFree">
+      <Value>FREI</Value>
+    </Text>
+    <Text Key="C_PC_PP_postfixPaste">
+      <Value>EINFÜGEN</Value>
+    </Text>
+    <Text Key="C_PlainTxt_about">
+      <Value>Text zum Einfügen bestimmen</Value>
+    </Text>
+    <Text Key="C_PlainTxt_info">
+      <Value>Fügt den gesamten Text auf einmal ein.
+Das Einfügen beeinflusst nicht die Zwischenablage des Systems.</Value>
+    </Text>
+    <Text Key="C_PP_about">
+      <Value>Ablage zum Einfügen wählen</Value>
+    </Text>
+    <Text Key="C_PP_info">
+      <Value>Kopiert den gespeicherten Text einer eigenen Ablage in die Zwischenablage des Systems und fügt ihn ein.</Value>
+    </Text>
+    <Text Key="C_PP_lbl_pasteFrom">
+      <Value>Text einfügen aus</Value>
+    </Text>
+    <Text Key="C_RockerG_about">
+      <Value>Haltetaste und Auslösetaste wählen</Value>
+    </Text>
+    <Text Key="C_RockerG_clickExecuteBtn">
+      <Value>2.) Klicken um Aktion einzuleiten</Value>
+    </Text>
+    <Text Key="C_RockerG_errSameHoldAndExecuteBtn">
+      <Value>Haltetaste und Auslösetaste dürfen nicht identisch sein.</Value>
+    </Text>
+    <Text Key="C_RockerG_info">
+      <Value>Um diese Geste durchzuführen, Auslösetaste innerhalb des Zeitlimits für Gesten drücken, während die Haltetaste gedrückt und die Maus dabei nicht aus dem Empfindlichkeitsbereich hinaus bewegt wird.</Value>
+    </Text>
+    <Text Key="C_RockerG_notes">
+      <Value>Hinweis:
+- Auslösetaste gedrückt halten um Hinweis anzuzeigen
+- Bei gedrückter Auslösetaste Haltetaste zuerst loslassen, um Geste abzubrechen</Value>
+    </Text>
+    <Text Key="C_RockerG_pushHoldBtn">
+      <Value>Diese Taste drücken und halten</Value>
+    </Text>
+    <Text Key="C_RockerG_warnRockerGDeactivated">
+      <Value>Rocker-Gesten sind derzeit ausgeschaltet. Sie können hinzugefügt werden, bleiben jedoch ohne Funktion, bis sie eingeschaltet werden.
+Dieses Verhalten ändern unter: Einstellungen / Gesten</Value>
+    </Text>
+    <Text Key="C_SearchOpenWeb_btn_getIcon">
+      <Value>Hole Web-Icon </Value>
+    </Text>
+    <Text Key="C_SearchOpenWeb_lbl_icon">
+      <Value>Icon</Value>
+    </Text>
+    <Text Key="C_SearchWeb_about">
+      <Value>Suche über eigene Webseiten-Adresse</Value>
+    </Text>
+    <Text Key="C_SearchWeb_errInvalidFormat">
+      <Value>Webseiten-Adresse im ungültigen Format.
+--/ Muss mit 'http://', 'https://' oder 'ftp://' beginnen und speziellen String (*) enthalten</Value>
+    </Text>
+    <Text Key="C_SearchWeb_info">
+      <Value>Webseiten-Adresse im genauen Format direkt in das Textfeld eingeben.
+Die Adresse muss mit 'http://', 'https://' oder 'ftp://' beginnen und einen speziellen String (*) enthalten.
+
+Sobald die Geste dieser Aktion aufgerufen wird, wird der spezielle String (*) durch dem ausgewählten Text ersetzt und diese 'neue' Adresse aufgerufen.
+
+Sie können die Vorschläge der Textbox nutzen, wenn sie http://... eingeben.
+Um das Webseiten-Icon zu empfangen ist eine Verbindung zum Internet nötig.</Value>
+    </Text>
+    <Text Key="C_SearchWeb_lbl_searchUrl">
+      <Value>Webseiten-Adresse (URL)</Value>
+    </Text>
+    <Text Key="C_SelectApp_about">
+      <Value>Anwendungsgruppe für Gesten erstellen.</Value>
+    </Text>
+    <Text Key="C_SelectApp_btn_browse">
+      <Value>Durchsuchen</Value>
+    </Text>
+    <Text Key="C_SelectApp_cB_active">
+      <Value>Aktiv</Value>
+    </Text>
+    <Text Key="C_SelectApp_info">
+      <Value>Sie können das Kreuz über die Anwendung ziehen, die hinzugefügt werden soll.
+Sie können zwei spezielle Gruppen erstellen: Taskleiste und Desktop (Auswahl nur über das Kreuz möglich).
+
+Es ist möglich:
+- Ziehen und Alt+Tab (Task Switcher) zu kombinieren.
+- die gleiche Anwendung mehrmals hinzuzufügen, um Aktionen besser kategorisieren zu können.</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_icon">
+      <Value>Icon</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_name">
+      <Value>Name</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_path">
+      <Value>Dateipfad</Value>
+    </Text>
+    <Text Key="C_SelectApp_lbl_uncheckToDeactivate">
+      <Value>(Haken entfernen, falls diese Anwendungsgruppe nicht aktiv sein soll)</Value>
+    </Text>
+    <Text Key="C_StartPrg_about">
+      <Value>Zielpfad zur Anwendung angeben</Value>
+    </Text>
+    <Text Key="C_StartPrg_errProgramNotExists">
+      <Value>Dateipfad zur Anwendung existiert nicht.</Value>
+    </Text>
+    <Text Key="C_StartPrg_info">
+      <Value>Sie können den Zielpfad zur Anwendung mithilfe des Durchsuchen-Schaltfläche auswählen, ihn direkt ins Textfeld eingeben oder das Kreuz über die Anwendung ziehen, die hinzugefügt werden soll.
+
+Es ist möglich, ziehen und Alt+Tab (Task Switcher) zu kombinieren.
+</Value>
+    </Text>
+    <Text Key="C_StartPrg_lbl_cmdArguments">
+      <Value>Kommandozeilen-Parameter</Value>
+    </Text>
+    <Text Key="C_StartPrg_lbl_icon">
+      <Value>Icon</Value>
+    </Text>
+    <Text Key="C_StartPrg_lbl_path">
+      <Value>Dateipfad</Value>
+    </Text>
+    <Text Key="C_WheelG_about">
+      <Value>Haltetaste auswählen</Value>
+    </Text>
+    <Text Key="C_WheelG_info">
+      <Value>Um diese Geste aufzurufen, das Mausrad innerhalb des Zeitlimits für Gesten drehen, während die Haltetaste gedrückt und die Maus nicht über den Empfindlichkeitsbereich hinaus bewegt wird.
+Diese Parameter lassen sich unter "Einstellungen -/ Gesten" ändern.</Value>
+    </Text>
+    <Text Key="C_WheelG_pushHoldBtn">
+      <Value>1.) Diese Taste drücken und halten.</Value>
+    </Text>
+    <Text Key="C_WheelG_releaseHoldBtn">
+      <Value>3.) Haltetaste loslassen.</Value>
+    </Text>
+    <Text Key="C_WheelG_scrollWithWheel">
+      <Value>2.) Mausrad auf- oder abwärts drehen um entsprechende Aktion oder Tastenscript einzuleiten.</Value>
+    </Text>
+    <Text Key="C_WheelG_warnWheelGDeactivated">
+      <Value>Mausrad-Gesten sind derzeit ausgeschaltet. Sie können hinzugefügt werden, bleiben jedoch ohne Funktion, bis sie eingeschaltet werden.
+Dieses Verhalten ändern unter: Einstellungen / Gesten.</Value>
+    </Text>
+    <Text Key="C_WK_about">
+      <Value>Eigenes Tastenscript erstellen</Value>
+    </Text>
+    <Text Key="C_WK_cH_holdBtn_down">
+      <Value>Haltetaste gedrückt</Value>
+    </Text>
+    <Text Key="C_WK_cH_holdBtn_up">
+      <Value>Haltetaste gelöst</Value>
+    </Text>
+    <Text Key="C_WK_cH_wheelMove_down">
+      <Value>Mausrad abwärts</Value>
+    </Text>
+    <Text Key="C_WK_cH_wheelMove_up">
+      <Value>Mausrad aufwärts</Value>
+    </Text>
+    <Text Key="C_WK_info">
+      <Value>"Haltetaste gedrückt" und " ~ gelöst" - Scripte werden als ein Script betrachtet. 
+Jedes Script kann nur eine Maus-Aktion beinhalten.
+
+"Haltetaste gedrückt" -Script wird mit der ersten Mausradbewegung eingeleitet! (Nicht durch bloßes Drücken.)
+Das Script wird an das Fenster entsprechend der Einstellung "Kontrolliertes Programm/Fenster" geleitet.</Value>
+    </Text>
+    <Text Key="extras_custom_wheel_btn">
+      <Value>Eigenes Mausrad-Script</Value>
+    </Text>
+    <Text Key="extras_name">
+      <Value>Mausrad-Aktionen</Value>
+    </Text>
+    <Text Key="extras_tab_switch">
+      <Value>Tab Switcher</Value>
+    </Text>
+    <Text Key="extras_task_switch">
+      <Value>Task Switcher</Value>
+    </Text>
+    <Text Key="extras_transparency">
+      <Value>Transparenz-Stärke</Value>
+    </Text>
+    <Text Key="extras_volume">
+      <Value>Lautstärke einstellen</Value>
+    </Text>
+    <Text Key="extras_zoom">
+      <Value>Dokument Zoomen</Value>
+    </Text>
+    <Text Key="I_errorCaption">
+      <Value>Fehler</Value>
+    </Text>
+    <Text Key="I_infoCaption">
+      <Value>Info</Value>
+    </Text>
+    <Text Key="I_warningCaption">
+      <Value>Warnung</Value>
+    </Text>
+    <Text Key="internet_name">
+      <Value>Interneteinstellungen</Value>
+    </Text>
+    <Text Key="internet_open_web">
+      <Value>Website öffnen</Value>
+    </Text>
+    <Text Key="internet_page_back">
+      <Value>vorherige Seite</Value>
+    </Text>
+    <Text Key="internet_page_home">
+      <Value>Startseite</Value>
+    </Text>
+    <Text Key="internet_page_next">
+      <Value>nächste Seite</Value>
+    </Text>
+    <Text Key="internet_page_reload">
+      <Value>Seite nachladen</Value>
+    </Text>
+    <Text Key="internet_page_stop">
+      <Value>Nachladen anhalten</Value>
+    </Text>
+    <Text Key="internet_search_web">
+      <Value>Suche über Internet</Value>
+    </Text>
+    <Text Key="internet_send_email">
+      <Value>E-Mail senden</Value>
+    </Text>
+    <Text Key="internet_tab_close">
+      <Value>Tab schließen</Value>
+    </Text>
+    <Text Key="internet_tab_new">
+      <Value>Neuer Tab</Value>
+    </Text>
+    <Text Key="internet_tab_reopen">
+      <Value>Geschlossenen Tab öffnen</Value>
+    </Text>
+    <Text Key="keystrokes_custom">
+      <Value>Eigene Tastenzuweisungen</Value>
+    </Text>
+    <Text Key="keystrokes_name">
+      <Value>Tastendruck ausgeben</Value>
+    </Text>
+    <Text Key="keystrokes_plain_text">
+      <Value>Klartext einfügen</Value>
+    </Text>
+    <Text Key="keystrokes_private_copy_text">
+      <Value>Text in eigene Ablage kopieren</Value>
+    </Text>
+    <Text Key="keystrokes_private_paste_text">
+      <Value>Text aus eigener Ablage einfügen</Value>
+    </Text>
+    <Text Key="keystrokes_system_copy">
+      <Value>In Zwischenablage kopieren</Value>
+    </Text>
+    <Text Key="keystrokes_system_cut">
+      <Value>In Zwischenablage ausschneiden</Value>
+    </Text>
+    <Text Key="keystrokes_system_paste">
+      <Value>Aus Zwischenablage einfügen</Value>
+    </Text>
+    <Text Key="keystrokes_zoom_in">
+      <Value>Dokument vergrößern</Value>
+    </Text>
+    <Text Key="keystrokes_zoom_out">
+      <Value>Dokument verkleinern</Value>
+    </Text>
+    <Text Key="media_name">
+      <Value>Medien-Optionen</Value>
+    </Text>
+    <Text Key="media_next">
+      <Value>Nächster Titel</Value>
+    </Text>
+    <Text Key="media_pause">
+      <Value>Pause</Value>
+    </Text>
+    <Text Key="media_play">
+      <Value>Wiedergabe</Value>
+    </Text>
+    <Text Key="media_prev">
+      <Value>Vorheriger Titel</Value>
+    </Text>
+    <Text Key="media_stop">
+      <Value>Anhalten</Value>
+    </Text>
+    <Text Key="MG_msgText_validProps">
+      <Value>Sie müssen die Einstellungen korrekt festlegen.</Value>
+    </Text>
+    <Text Key="MG_multiple">
+      <Value>Mehrere Gesten bearbeiten</Value>
+    </Text>
+    <Text Key="MG_tP_application">
+      <Value>Anwendung</Value>
+    </Text>
+    <Text Key="MG_tP_customKeystrokes">
+      <Value>Eigene Tastenzuweisungen</Value>
+    </Text>
+    <Text Key="MG_tP_folder">
+      <Value>Ordner</Value>
+    </Text>
+    <Text Key="MG_tP_gesture">
+      <Value>Geste</Value>
+    </Text>
+    <Text Key="MG_tP_mail">
+      <Value>E-Mail</Value>
+    </Text>
+    <Text Key="MG_tP_name">
+      <Value>Name</Value>
+    </Text>
+    <Text Key="MG_tP_plainText">
+      <Value>Klartext</Value>
+    </Text>
+    <Text Key="MG_tP_privateClipboard">
+      <Value>Eigene Ablage</Value>
+    </Text>
+    <Text Key="MG_tP_program">
+      <Value>Programm</Value>
+    </Text>
+    <Text Key="MG_tP_url">
+      <Value>Website URL</Value>
+    </Text>
+    <Text Key="MW_cH_description">
+      <Value>Beschreibung</Value>
+    </Text>
+    <Text Key="MW_cH_name">
+      <Value>Name</Value>
+    </Text>
+    <Text Key="MW_cH_associatedActions">
+      <Value>Verknüpfte Aktionen</Value>
+    </Text>
+    <Text Key="MW_cH_priority">
+      <Value>Priorität</Value>
+    </Text>
+    <Text Key="MW_cMI_activate">
+      <Value>Einschalten</Value>
+    </Text>
+    <Text Key="MW_cMI_addGesture">
+      <Value>Neue Geste hinzufügen zu</Value>
+    </Text>
+    <Text Key="MW_cMI_copyGesture">
+      <Value>Kopiere {0} nach</Value>
+    </Text>
+    <Text Key="MW_cMI_copyMultiple">
+      <Value>Ausgewählte Gesten kopieren nach</Value>
+    </Text>
+    <Text Key="MW_cMI_deactivate">
+      <Value>Abschalten</Value>
+    </Text>
+    <Text Key="MW_cMI_changePriority">
+      <Value>Priorität ändern</Value>
+    </Text>
+    <Text Key="MW_msgText_deleteGesture">
+      <Value>Möchten Sie {0} wirklich löschen?</Value>
+    </Text>
+    <Text Key="MW_msgText_deleteMultiple">
+      <Value>Möchten Sie die ausgewählten Gesten wirklich löschen?</Value>
+    </Text>
+    <Text Key="MW_msgText_errCantDelGlobal">
+      <Value>Sie können nicht die Gruppe der globalen Gesten löschen.</Value>
+    </Text>
+    <Text Key="MW_msgText_errNotEmptyGroup">
+      <Value>Sie können nur leere Gruppen löschen oder mit ihren gesamten Inhalt.</Value>
+    </Text>
+    <Text Key="MW_sMI_exit">
+      <Value>Schließen</Value>
+    </Text>
+    <Text Key="MW_tSB_about">
+      <Value>Über</Value>
+    </Text>
+    <Text Key="MW_tSB_addGesture">
+      <Value>Neue Geste hinzufügen</Value>
+    </Text>
+    <Text Key="MW_tSB_addGroup">
+      <Value>Anwendungsgruppe hinzufügen</Value>
+    </Text>
+    <Text Key="MW_tSB_delete">
+      <Value>Löschen</Value>
+    </Text>
+    <Text Key="MW_tSB_modify">
+      <Value>Bearbeiten</Value>
+    </Text>
+    <Text Key="MW_tSB_options">
+      <Value>Eistellungen</Value>
+    </Text>
+    <Text Key="MW_tSB_viewActions">
+      <Value>Aktionen ansehen</Value>
+    </Text>
+    <Text Key="MW_tSB_viewGestures">
+      <Value>Gesten ansehen</Value>
+    </Text>
+    <Text Key="MW_tT_displayGesture">
+      <Value>Geste
+(Klicken für Animation)</Value>
+    </Text>
+    <Text Key="MW_tT_macthedGestures">
+      <Value>Liste der Aktionen, die mit der selben Geste verknüpft sind
+(Ziehen und loslassen zum Neuordnen)</Value>
+    </Text>
+    <Text Key="Name_CurveGesture">
+      <Value>Zeichen-Geste</Value>
+    </Text>
+    <Text Key="Name_CurveHoldDownBtn">
+      <Value>Haltetaste für Bewegungsgesten</Value>
+    </Text>
+    <Text Key="Name_highPriority">
+      <Value>Hoch</Value>
+    </Text>
+    <Text Key="Name_leftButton">
+      <Value>Linke Maustaste</Value>
+    </Text>
+    <Text Key="Name_lowPriority">
+      <Value>Niedrig</Value>
+    </Text>
+    <Text Key="Name_middleButton">
+      <Value>Mittlere Maustaste</Value>
+    </Text>
+    <Text Key="Name_mouseWheel">
+      <Value>Mausrad</Value>
+    </Text>
+    <Text Key="Name_normalPriority">
+      <Value>Normal</Value>
+    </Text>
+    <Text Key="Name_rightButton">
+      <Value>Rechte Maustaste</Value>
+    </Text>
+    <Text Key="Name_RockerExecuteBtn">
+      <Value>Auslösetaste</Value>
+    </Text>
+    <Text Key="Name_RockerGesture">
+      <Value>2er Tasten-Kombination</Value>
+    </Text>
+    <Text Key="Name_RockerHoldDownBtn">
+      <Value>Haltetaste</Value>
+    </Text>
+    <Text Key="Name_WheelGesture">
+      <Value>Mausrad-Kombination</Value>
+    </Text>
+    <Text Key="Name_WheelHoldDownBtn">
+      <Value>Haltetaste</Value>
+    </Text>
+    <Text Key="Name_x1Button">
+      <Value>Maustaste4</Value>
+    </Text>
+    <Text Key="Name_x2Button">
+      <Value>Maustaste5</Value>
+    </Text>
+    <Text Key="O_A_cH_appState">
+      <Value>Anwendungszustand</Value>
+    </Text>
+    <Text Key="O_AB_blackList">
+      <Value>Negativ-Liste</Value>
+    </Text>
+    <Text Key="O_AB_caption">
+      <Value>JustGestures automatisch (de-) aktivieren</Value>
+    </Text>
+    <Text Key="O_AB_cBI_autoDisable">
+      <Value>Automatisch ausgeschaltet</Value>
+    </Text>
+    <Text Key="O_AB_cBI_autoEnable">
+      <Value>Automatisch Eingeschaltet</Value>
+    </Text>
+    <Text Key="O_AB_cBI_none">
+      <Value>(kein)</Value>
+    </Text>
+    <Text Key="O_AB_cH_appState">
+      <Value>Anwendungszustand</Value>
+    </Text>
+    <Text Key="O_AB_cH_name">
+      <Value>Name</Value>
+    </Text>
+    <Text Key="O_AB_cH_path">
+      <Value>Pfad</Value>
+    </Text>
+    <Text Key="O_AB_gB_conditions">
+      <Value>Voraussetzungen</Value>
+    </Text>
+    <Text Key="O_AB_gB_finalList">
+      <Value>Zusammenfassung</Value>
+    </Text>
+    <Text Key="O_AB_info">
+      <Value>Der Automatikmodus wird für die automatische (De-) Aktivierung von JustGestures verwendet.
+Er überprüft automatisch fokussierte Programme und setzt entsprechend der Bedingungen den Status von JustGestures.
+
+Die Zusammenfassung gibt den Status von JustGestures an, wenn Programme von der Negativ- bzw. Positiv-Liste in den Vordergrund treten.
+
+Den automatischen Start des Automatikmodus in den Allgemeinen Einstellungen festlegen oder manuell vom Kontextmenü des Infobereich-Symbols starten.
+
+___________________________________________________________________________
+Beispiel:
+JustGestures automatisch deaktivieren, wenn der Internet Explorer den Fokus erlangt.
+
+- Standard-Status auf "Auto-Ein" und
+- 1. Auto-Status auf "Negativ-Liste" setzen
+(Neg.-Liste muss dabei den Internet Explorer enthalten)
+- Den Automatikmodus vom Infobereichs-Symbol aus starten</Value>
+    </Text>
+    <Text Key="O_AB_lbl_1AutoState">
+      <Value>1. Auto-Status</Value>
+    </Text>
+    <Text Key="O_AB_lbl_2AutoState">
+      <Value>2. Autostatus</Value>
+    </Text>
+    <Text Key="O_AB_lbl_autocheck">
+      <Value>Automatische Überprüfung alle (ms)</Value>
+    </Text>
+    <Text Key="O_AB_lbl_defaultState">
+      <Value>Standart-Status</Value>
+    </Text>
+    <Text Key="O_AB_lbl_fullscreenState">
+      <Value>Vollbild-Status</Value>
+    </Text>
+    <Text Key="O_AB_name">
+      <Value>Automatikmodus</Value>
+    </Text>
+    <Text Key="O_AB_rTB_description">
+      <Value>Tatsächlicher Zustand von JustGestures ergibt sich aus den Bedingungen von oben nach unten.</Value>
+    </Text>
+    <Text Key="O_AB_whiteList">
+      <Value>Positiv-Liste</Value>
+    </Text>
+    <Text Key="O_BL_caption">
+      <Value>Negativ-Liste bearbeiten</Value>
+    </Text>
+    <Text Key="O_BL_info">
+      <Value>Liste der Programme, die JustGestures deaktivieren, falls eines in den Vordergrund gelangt</Value>
+    </Text>
+    <Text Key="O_BL_name">
+      <Value>Negativ-Liste</Value>
+    </Text>
+    <Text Key="O_BW_btn_add">
+      <Value>Hinzufügen</Value>
+    </Text>
+    <Text Key="O_BW_btn_remove">
+      <Value>Markierte entfernen</Value>
+    </Text>
+    <Text Key="O_BW_cH_name">
+      <Value>Name</Value>
+    </Text>
+    <Text Key="O_BW_cH_path">
+      <Value>Ordnerpfad</Value>
+    </Text>
+    <Text Key="O_caption">
+      <Value>Einstellungen</Value>
+    </Text>
+    <Text Key="O_General_caption">
+      <Value>Allgemeine Einstellungen</Value>
+    </Text>
+    <Text Key="O_General_cB_autobehave">
+      <Value>Automatikmodus starten</Value>
+    </Text>
+    <Text Key="O_General_cB_closeToTray">
+      <Value>"Schließen" minimiert in den Infobereich der Taskleiste</Value>
+    </Text>
+    <Text Key="O_General_cB_checkUpdate">
+      <Value>Nach Updates suchen</Value>
+    </Text>
+    <Text Key="O_General_cB_minToTray">
+      <Value>"Minimieren" minimiert in den Infobereich der Taskleiste</Value>
+    </Text>
+    <Text Key="O_General_cB_startMinimized">
+      <Value>Minimiert starten</Value>
+    </Text>
+    <Text Key="O_General_cB_startUp">
+      <Value>Automatisch mit Windoof starten</Value>
+    </Text>
+    <Text Key="O_General_gB_localization">
+      <Value>Sprache</Value>
+    </Text>
+    <Text Key="O_General_gB_startUpSettings">
+      <Value>Programmstart</Value>
+    </Text>
+    <Text Key="O_General_gB_systemTraySettings">
+      <Value>Infobereich</Value>
+    </Text>
+    <Text Key="O_General_info">
+      <Value>Status von JustGestures und des Automatikmodus werden angewendet, wenn JustGestures startet.</Value>
+    </Text>
+    <Text Key="O_General_lbl_changeLanguage">
+      <Value>Sprache ändern</Value>
+    </Text>
+    <Text Key="O_General_name">
+      <Value>Allgemein</Value>
+    </Text>
+    <Text Key="O_Gestures_btn_wizard">
+      <Value>Assistenten ausführen</Value>
+    </Text>
+    <Text Key="O_Gestures_caption">
+      <Value>Mausgesten-Einstellungen</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_disabled">
+      <Value>Ausgeschaltet</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_enabled">
+      <Value>Eingeschaltet</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_inForeground">
+      <Value>im Vordergrund</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_off">
+      <Value>AUS</Value>
+    </Text>
+    <Text Key="O_Gestures_cBI_underCursor">
+      <Value>unter dem Mauszeiger</Value>
+    </Text>
+    <Text Key="O_Gestures_gB_activation">
+      <Value>Aktivierung</Value>
+    </Text>
+    <Text Key="O_Gestures_gB_gestureTypes">
+      <Value>Gesten-Typen</Value>
+    </Text>
+    <Text Key="O_Gestures_info">
+      <Value>Deaktivierte Gesten-Typen:
+- neue können hinzugefügt werden, bleiben jedoch ohne Funktion
+- bereits  gelernte Gesten werden deaktiviert
+
+Kontrolliertes Programm/Fenster
+- sämtliche Aktionen sind mit dieser Einstellung verknüpft
+
+Haltetaste
+- Taste, um die Bewegungsgesten auszuführen
+
+- Haltetaste innerhalb des Empfindlichkeitsbereichs über das Zeitlimit für Gesten hinaus gedrückt halten, für deren normale Funktion</Value>
+    </Text>
+    <Text Key="O_Gestures_lbl_deactivationTimeout">
+      <Value>Zeitlimit für Gesten (ms)</Value>
+    </Text>
+    <Text Key="O_Gestures_lbl_sensitiveZone">
+      <Value>Empfindlichkeitsbereich in Pixel</Value>
+    </Text>
+    <Text Key="O_Gestures_lbl_typeOfWnd">
+      <Value>Kontrolliertes Programm/Fenster ist</Value>
+    </Text>
+    <Text Key="O_Gestures_name">
+      <Value>Gesten</Value>
+    </Text>
+    <Text Key="O_V_caption">
+      <Value>Darstellung der Geste</Value>
+    </Text>
+    <Text Key="O_V_cB_showGesture">
+      <Value>Farbspur anzeigen</Value>
+    </Text>
+    <Text Key="O_V_cB_showToolTip">
+      <Value>Tooltip anzeigen, während Geste ausgeführt wird</Value>
+    </Text>
+    <Text Key="O_V_gB_graphics">
+      <Value>Grafik</Value>
+    </Text>
+    <Text Key="O_V_gB_toolTipForGestures">
+      <Value>Tooltip erkannter Gesten</Value>
+    </Text>
+    <Text Key="O_V_info">
+      <Value>Tooltip wird angezeigt für:
+
+Bewegungsgesten,
+- wenn während der Bewegung die Maus über die Tooltip-Verzögerung hinaus angehalten wird.
+
+RockerGesten,
+- wenn Halte- und Auslösetaste über die Tooltip-Verzögerung hinaus gehalten werden.
+</Value>
+    </Text>
+    <Text Key="O_V_lbl_color">
+      <Value>Farbe</Value>
+    </Text>
+    <Text Key="O_V_lbl_toolTipDelay">
+      <Value>Tooltip Verzögerung (ms)</Value>
+    </Text>
+    <Text Key="O_V_lbl_width">
+      <Value>Breite</Value>
+    </Text>
+    <Text Key="O_V_name">
+      <Value>Visualisierung</Value>
+    </Text>
+    <Text Key="O_WL_caption">
+      <Value>Positiv-Liste</Value>
+    </Text>
+    <Text Key="O_WL_info">
+      <Value>Liste der Programme, die diese Anwendung aktivieren, falls sie in den Vordergrund gelangen</Value>
+    </Text>
+    <Text Key="O_WL_name">
+      <Value>Positiv-Liste</Value>
+    </Text>
+    <Text Key="shell_dialog">
+      <Value>Herunterfahren-Dialog anzeigen</Value>
+    </Text>
+    <Text Key="shell_hibernate">
+      <Value>Ruhezustand</Value>
+    </Text>
+    <Text Key="shell_lock">
+      <Value>Sperren</Value>
+    </Text>
+    <Text Key="shell_log_off">
+      <Value>Abmelden</Value>
+    </Text>
+    <Text Key="shell_name">
+      <Value>Windows Shell</Value>
+    </Text>
+    <Text Key="shell_open_fldr">
+      <Value>Öffne Ordner</Value>
+    </Text>
+    <Text Key="shell_open_web">
+      <Value>Öffne Website</Value>
+    </Text>
+    <Text Key="shell_restart">
+      <Value>Neustarten</Value>
+    </Text>
+    <Text Key="shell_send_mail">
+      <Value>E-Mail senden</Value>
+    </Text>
+    <Text Key="shell_show_desktop">
+      <Value>Desktop wiederherstellen</Value>
+    </Text>
+    <Text Key="shell_shut_down">
+      <Value>Herunterfahren</Value>
+    </Text>
+    <Text Key="shell_sleep">
+      <Value>Ruhezustand</Value>
+    </Text>
+    <Text Key="shell_start_prg">
+      <Value>Programm starten</Value>
+    </Text>
+    <Text Key="ST_tSMI_autobehave_off">
+      <Value>Automatikmodus Anhalten</Value>
+    </Text>
+    <Text Key="ST_tSMI_autobehave_on">
+      <Value>Automatikmodus Starten</Value>
+    </Text>
+    <Text Key="ST_tSMI_disable">
+      <Value>Ausschalten</Value>
+    </Text>
+    <Text Key="ST_tSMI_enable">
+      <Value>Einschalten</Value>
+    </Text>
+    <Text Key="ST_tSMI_show">
+      <Value>Anzeigen</Value>
+    </Text>
+    <Text Key="ST_tT_autobehave">
+      <Value>Automatikmodus</Value>
+    </Text>
+    <Text Key="ST_tT_disabled">
+      <Value>Ausgeschaltet</Value>
+    </Text>
+    <Text Key="ST_tT_learning">
+      <Value>Geste lernen</Value>
+    </Text>
+    <Text Key="U_btn_download">
+      <Value>Jetzt herunterladen!</Value>
+    </Text>
+    <Text Key="U_caption">
+      <Value>JustGestures - Neue Version!</Value>
+    </Text>
+    <Text Key="U_lbl_features">
+      <Value>Features</Value>
+    </Text>
+    <Text Key="U_lbl_newUpdate">
+      <Value>Neues Update verfügbar!</Value>
+    </Text>
+    <Text Key="U_lbl_version">
+      <Value>Version:</Value>
+    </Text>
+    <Text Key="Unknown_gesture">
+      <Value>[Unbekannte Geste]</Value>
+    </Text>
+    <Text Key="volume_down">
+      <Value>Leiser</Value>
+    </Text>
+    <Text Key="volume_mute">
+      <Value>Stumm</Value>
+    </Text>
+    <Text Key="volume_name">
+      <Value>Lautstärke-Einstellungen</Value>
+    </Text>
+    <Text Key="volume_set">
+      <Value>Lautstärke</Value>
+    </Text>
+    <Text Key="volume_up">
+      <Value>Lauter</Value>
+    </Text>
+    <Text Key="W_A_caption">
+      <Value>Gesten Aktivierungs-Einstellungen</Value>
+    </Text>
+    <Text Key="W_A_controlPrgDescription">
+      <Value>Fast alle Aktionen sind mit einem Fenster oder zu Programm verknüpft. Entscheiden Sie, ob Sie Aktionen an Fenstern unter dem Cursor oder Fenster im Vordergrund anwenden möchten.
+
+- Im Programm ist möglich, Tätigkeiten anwendungsspezifisch zu gestalten (Die Aktion ist nur aktiv, wenn die Anwendung es ist). Folglich wird diese Wahl auch benutzt, um zu ermitteln, ob die Anwendung aktiv ist.</Value>
+    </Text>
+    <Text Key="W_A_gB_gestureActivation">
+      <Value>Gesten - Aktivierung</Value>
+    </Text>
+    <Text Key="W_A_info">
+      <Value>Sämtliche Einstellungen können später geändert werden unter: Einstellungen / Gesten.</Value>
+    </Text>
+    <Text Key="W_A_zoneTimeoutDescription">
+      <Value>Haltetaste innerhalb des Empfindlichkeitsbereichs über das Zeitlimit für Gesten hinaus gedrückt halten, für deren normale Funktion.
+
+Übersicht der Arten von Gesten:
+* Bewegungsgesten - bei gedrückter Haltetaste, die Maus innerhalb des Zeitlimits für Gesten über den Empfindlichkeitsbereich hinaus bewegen.
+* RockerGesten - bei gedrückter Haltetaste, die Auslösetaste, innerhalb des Zeitlimits für Gesten drücken und dabei die Maus nicht aus dem Empfindlichkeitsbereich heraus bewegen.
+* Mausradgesten - bei gedrückter Haltetaste, das Mausrad, innerhalb des Zeitlimits für Gesten drehen und dabei die Maus nicht aus dem Empfindlichkeitsbereich heraus bewegen.</Value>
+    </Text>
+    <Text Key="W_caption">
+      <Value>Assistent</Value>
+    </Text>
+    <Text Key="W_CC_caption">
+      <Value>Art der Geste - Zeichen</Value>
+    </Text>
+    <Text Key="W_CC_description">
+      <Value>- Die Haltetaste drücken und die Maus innerhalb des Zeitlimits für Gesten über den Empfindlichkeitsbereich hinaus bewegen, um die Erkennung der Bewegungsgeste zu starten. Die Maus dabei entsprechend eines bestimmten Schemas bewegen, um die mit dieser Geste verknüpfte Aktion einzuleiten.
+
+- Während des Erkennungsprozesses die Bewegung der Maus eine bestimmte Zeit anhalten und ein Tooltip mit den erkannten Gesten wird angezeigt.
+
+- Es können auch eigene Zeichen jeglicher Form bestimmt werden.
+
+- Sämtliche Aktionen, die mit Bewegungsgesten verknüpft sind, können auch auf RockerGesten umgestellt werden.
+
+Hinweis:
+Wird die Haltetaste innerhalb des Empfindlichkeitsbereichs über das Zeitlimit für Gesten hinaus gedrückt, funktioniert sie wieder normal.</Value>
+    </Text>
+    <Text Key="W_CC_info">
+      <Value>- Haken entfernen, falls die Geste nicht genutzt werden soll. JustGestures wird diese Art von Gesten dann ignorieren.
+
+- Der Empfindlichkeitsbereich und das Zeitlimit für Gesten können am Ende de Assistenten bestimmt werden.</Value>
+    </Text>
+    <Text Key="W_CC_instructions">
+      <Value>Die Haltetaste gedrückt halten, die Maus in bestimmte Richtungen bewegen und die Haltetaste wieder loslassen.</Value>
+    </Text>
+    <Text Key="W_DB_caption">
+      <Value>Art der Geste - RockerGeste</Value>
+    </Text>
+    <Text Key="W_DB_description">
+      <Value>- Die Auslösetaste innerhalb des Zeitlimits für Gesten drücken, während die Haltetaste gedrückt wird und dabei die Maus nicht aus dem Empfindlichkeitsbereich hinaus bewegen.
+
+- Die RockerGeste wird aktiviert, wenn die Auslösetaste gedrückt wird. Danach kann die Maus über die Empfindlichkeitsbereich hinaus bewegt werden.
+
+- Die Auslösetaste eine Weile gedrückt halten, um einen Tooltip mit den erkannten Gesten anzuzeigen.
+
+- Die Haltetaste nach dem klicken der Auslösetaste nicht loslassen, um durch Klicken auf andere Auslösetasten weitere Gesten zu einzuleiten (welche die selben Haltetaste benutzen).
+
+- Wenn Auslöse- und Haltetaste gedrückt sind, die Haltetaste zuerst loslassen, um die Geste zu deaktivieren. Dabei bleiben Sie im RockerGesten-Modus: Die alte Auslösetaste wird zur neuen Haltetaste und es kann eine neue Auslösetaste gedrückt werden.
+
+- Alle Scripte (außer die mit Mausaktionen), die mit RockerGesten verknüpft sind, können auf Bewegungsgesten umgestellt werden.
+
+Hinweis: Wenn die Haltetaste innerhalb des Empfindlichkeitsbereichs über das Zeitlimit für Gesten hinaus gedrückt wird, funktioniert die Taste wieder normal.</Value>
+    </Text>
+    <Text Key="W_DB_info">
+      <Value>- Entfernen Sie die Geste, falls Sie sie nicht benutzen möchten. Das Programm wird diese Art von Gesten ignorieren.
+
+- Sie können den Empfindlichkeitsbereich und das Zeitlimit für Gesten am Ende des Assistenten einstellen.</Value>
+    </Text>
+    <Text Key="W_DB_instructions">
+      <Value>Auslösetaste drücken, während Haltetaste gedrückt</Value>
+    </Text>
+    <Text Key="W_G_gB_activation">
+      <Value>Aktivierung</Value>
+    </Text>
+    <Text Key="W_G_gB_description">
+      <Value>Beschreibung</Value>
+    </Text>
+    <Text Key="W_G_gB_gesture">
+      <Value>Geste</Value>
+    </Text>
+    <Text Key="W_G_gB_preview">
+      <Value>Vorschau (Bsp.)</Value>
+    </Text>
+    <Text Key="W_G_lbl_and">
+      <Value>und</Value>
+    </Text>
+    <Text Key="W_G_lbl_instructions">
+      <Value>Anleitung:</Value>
+    </Text>
+    <Text Key="W_G_lbl_mouseMovement">
+      <Value>Maus-Bewegung</Value>
+    </Text>
+    <Text Key="W_G_tT_animation">
+      <Value>Klicken, um die Geste zu animieren.</Value>
+    </Text>
+    <Text Key="W_page">
+      <Value>Seite:</Value>
+    </Text>
+    <Text Key="W_W_caption">
+      <Value>Willkommen bei JustGestures</Value>
+    </Text>
+    <Text Key="W_W_info">
+      <Value>- Dieser Tooltip zeigt nützliche Informationen über die aktuelle Seite an.
+- Er erklärt einige Funktionen, gibt Hinweise zum weiteren vorgehen und zeigt Warnungen sowie Fehler.
+- Um den Tooltip anzuzeigen, die Maus über das Info-Icon halten.
+- Cusor vom Tooltip entfernen oder darauf klicken, um ihn zu wieder verbergen.</Value>
+    </Text>
+    <Text Key="W_W_introCaption">
+      <Value>Sie sind im Begriff, das Programm "JUST GESTURES" zur Erweiterungs der Maussteuerung zu nutzen.</Value>
+    </Text>
+    <Text Key="W_W_introDescription">
+      <Value>Dieser Assistent wird Ihnen dabei helfen, das wesentliche über Mausgesten und einige nützliche Funktionen zu verstehen. Bitte nehmen Sie sich ein paar Minuten Zeit mit diesen Grund-Einstellungen.
+
+
+
+Hinweis:
+- Bewegen sie die Maus über das Icon im Fenster unten links. Es zeigt nützliche Informationen über die aktuelle Seite an.</Value>
+    </Text>
+    <Text Key="W_WB_caption">
+      <Value>Art der Geste - Mausrad-Kombination</Value>
+    </Text>
+    <Text Key="W_WB_description">
+      <Value>Drehen Sie das Mausrad, während die Haltetaste innerhalb des deaktivierungs Timeout gedrückt ist. Bewegen Sie dabei die Maus nicht über den Empfindlichkeitsbereich hinaus.
+
+- Die Mausrad-Geste ist mit dem ersten drehen des Mausrads aktiviert. Anschließend können Sie den Empfindlichkeitsbereich mit der Maus verlassen.
+
+- Aktive Mausrad-Gesten führen Aktionen automatisch aus, ohne das ein Tool tip der erkannten Geste gezeigt wird.
+
+Hinweis: Falls Sie die Haltetaste, innerhalb des Empfindlichkeitsbereichs, bis zum Zeitlimit für Gesten gedrückt halten, wird sich die Haltetaste wieder normal verhalten.</Value>
+    </Text>
+    <Text Key="W_WB_info">
+      <Value>- Entfernen Sie die Geste, falls Sie sie nicht benutzen möchten. Das Programm wird diese Art von Gesten ignorieren.
+
+- Sie können den Empfindlichkeitsbereich und das Zeitlimit für Gesten am Ende des Assistenten einstellen.</Value>
+    </Text>
+    <Text Key="W_WB_instructions">
+      <Value>Mausrad drehen, während Haltetaste gedrückt. Dann Haltetaste loslassen.</Value>
+    </Text>
+    <Text Key="window_close">
+      <Value>Fenster schließen</Value>
+    </Text>
+    <Text Key="window_close_all">
+      <Value>Alle Fenster schließen</Value>
+    </Text>
+    <Text Key="window_fullscreen">
+      <Value>Fenster Vollbild/Wiederherstellen</Value>
+    </Text>
+    <Text Key="window_max">
+      <Value>Fenster maximieren/wiederherstellen</Value>
+    </Text>
+    <Text Key="window_min">
+      <Value>Fenster minimieren</Value>
+    </Text>
+    <Text Key="window_min_all">
+      <Value>Alle Fenster minimieren/wiederherstellen</Value>
+    </Text>
+    <Text Key="window_min_totray">
+      <Value>In den Infobereich minimieren</Value>
+    </Text>
+    <Text Key="window_name">
+      <Value>Fenster-Einstellungen</Value>
+    </Text>
+    <Text Key="window_show_side_by_side">
+      <Value>Fester nebeneinander anzeigen</Value>
+    </Text>
+    <Text Key="window_show_vertically">
+      <Value>Fenster übereinander anzeigen</Value>
+    </Text>
+    <Text Key="window_topmost">
+      <Value>Fenster Vordergrund/wiederherstellen</Value>
+    </Text>
+    <Text Key="window_transparent">
+      <Value>Fenster-Transparenz</Value>
+    </Text>
+  </TranslatedText>
+</Translation>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <AutoStart>True</AutoStart>
+  <MinToTray>True</MinToTray>
+  <CloseToTray>True</CloseToTray>
+  <StartMinimized>False</StartMinimized>
+  <HandleWndUnderCursor>True</HandleWndUnderCursor>
+  <PenColor>Red</PenColor>
+  <PenWidth>5</PenWidth>
+  <MhToolTipDelay>500</MhToolTipDelay>
+  <MhShowToolTip>True</MhShowToolTip>
+  <CheckWndLoop>1000</CheckWndLoop>
+  <DisplayGesture>True</DisplayGesture>
+  <BtnToggle>Right</BtnToggle>
+  <AutoBehaviour>False</AutoBehaviour>
+  <StateFullScreen>0</StateFullScreen>
+  <StateDefault>0</StateDefault>
+  <StateAuto1>0</StateAuto1>
+  <StateAuto2>0</StateAuto2>
+  <NnVersion>1.0</NnVersion>
+  <NnInputSize>18</NnInputSize>
+  <NnOutputSize>40</NnOutputSize>
+  <NnTrainingSetSize>50</NnTrainingSetSize>
+  <NnLearningRate>0,5</NnLearningRate>
+  <NnMomentum>0,3</NnMomentum>
+  <NnGoal>0,0001</NnGoal>
+  <NnHidenLayerSize>30</NnHidenLayerSize>
+  <LW_viewMode>0</LW_viewMode>
+  <UsingClassicCurve>True</UsingClassicCurve>
+  <UsingDoubleBtn>True</UsingDoubleBtn>
+  <UsingWheelBtn>True</UsingWheelBtn>
+  <SensitiveZone>2</SensitiveZone>
+  <DeactivationTimeout>350</DeactivationTimeout>
+  <CheckForUpdate>True</CheckForUpdate>
+  <Language>English</Language>
+  <FirstTimeRun>False</FirstTimeRun>
+</Config>

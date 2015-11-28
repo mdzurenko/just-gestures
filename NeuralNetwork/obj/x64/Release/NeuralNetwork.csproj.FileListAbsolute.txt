@@ -1,0 +1,5 @@
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\NeuralNetwork\bin\x64\Release\NeuralNetwork.dll
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\NeuralNetwork\bin\x64\Release\NeuralNetwork.pdb
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\NeuralNetwork\obj\x64\Release\ResolveAssemblyReference.cache
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\NeuralNetwork\obj\x64\Release\NeuralNetwork.dll
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\NeuralNetwork\obj\x64\Release\NeuralNetwork.pdb
