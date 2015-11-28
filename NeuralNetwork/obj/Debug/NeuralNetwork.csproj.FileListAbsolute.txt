@@ -3,3 +3,8 @@ D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\NeuralNetwork\bin\Debug\NeuralN
 D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\NeuralNetwork\obj\Debug\ResolveAssemblyReference.cache
 D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\NeuralNetwork\obj\Debug\NeuralNetwork.dll
 D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesOS\just-gestures\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesOS\just-gestures\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesOS\just-gestures\NeuralNetwork\obj\Debug\ResolveAssemblyReference.cache
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesOS\just-gestures\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesOS\just-gestures\NeuralNetwork\obj\Debug\NeuralNetwork.pdb

@@ -4,14 +4,14 @@
   <description asmv2:publisher="Just Gestures" asmv2:product="Just Gestures" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="JustGestures.exe.manifest" size="5548">
+    <dependentAssembly dependencyType="install" codebase="JustGestures.exe.manifest" size="5181">
       <assemblyIdentity name="JustGestures.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="amd64" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ZGlxS+CG6WSPzvH3dAmHd+hx8z8=</dsig:DigestValue>
+        <dsig:DigestValue>d6Jf47CzRQ6jnsJOJ/2oxZf2+VQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

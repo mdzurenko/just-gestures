@@ -3,3 +3,8 @@ D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\MouseCore\bin\x64\Debug\MouseCo
 D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\MouseCore\obj\x64\Debug\ResolveAssemblyReference.cache
 D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\MouseCore\obj\x64\Debug\MouseCore.dll
 D:\SCHOOL\_JUST_GESTURES_\JustGesturesNN\Project\MouseCore\obj\x64\Debug\MouseCore.pdb
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesOS\just-gestures\MouseCore\bin\x64\Debug\MouseCore.dll
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesOS\just-gestures\MouseCore\bin\x64\Debug\MouseCore.pdb
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesOS\just-gestures\MouseCore\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesOS\just-gestures\MouseCore\obj\x64\Debug\MouseCore.dll
+D:\SCHOOL\_JUST_GESTURES_\JustGesturesOS\just-gestures\MouseCore\obj\x64\Debug\MouseCore.pdb

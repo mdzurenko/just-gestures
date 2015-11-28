@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>7T3n1l65BCeVYz8U6HF+O7CnKrg=</dsig:DigestValue>
+        <dsig:DigestValue>h0TKndYc4plYebYUuelmBvBfHxc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>u5MHZrcgtdTNWSV+pL/QJuyY6tc=</dsig:DigestValue>
+        <dsig:DigestValue>Lv3lfuyhSfYcIsng2jTLyrt42K0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -73,7 +73,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>6uvlcWgsXVqV0D5O9KYwO1KJDHs=</dsig:DigestValue>
+        <dsig:DigestValue>6j8YaHBL9zP5NQ6sNyH116qrQUI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -93,15 +93,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>n+o6JKDJ2WiyIiJzueK+CoqYEtM=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="ToDo.txt" size="914">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>/WLq0uOhgBykx+x5IztsOxb2flE=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

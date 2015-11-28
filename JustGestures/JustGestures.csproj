@@ -749,7 +749,6 @@
     <None Include="Resources\web_search20.png" />
     <None Include="Resources\web_search32.png" />
     <None Include="Resources\my_cursor_image.ico" />
-    <Content Include="ToDo.txt" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MouseCore\MouseCore.csproj">

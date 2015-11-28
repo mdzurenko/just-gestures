@@ -4,7 +4,7 @@
   <description asmv2:iconFile="just_gestures.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="JustGestures" version="1.4.2.0" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="JustGestures" version="1.5.0.0" language="neutral" processorArchitecture="x86" />
     <commandLine file="JustGestures.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,13 +43,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="JustGestures.exe" size="1946624">
-      <assemblyIdentity name="JustGestures" version="1.4.2.0" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="JustGestures" version="1.5.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>UKT93aOebyupvWdPUwTxOYiRO5A=</dsig:DigestValue>
+        <dsig:DigestValue>QQ8MWysg32OU0htdwdswB3dHKuM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -93,15 +93,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>n+o6JKDJ2WiyIiJzueK+CoqYEtM=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="ToDo.txt" size="1371">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>LwwrWJAChVcg+gkyFwKXtk2QacY=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
